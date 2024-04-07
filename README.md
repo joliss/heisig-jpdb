@@ -3,6 +3,8 @@
 Compare kanji keywords from Heisig's "Remembering the Kanji" with the keywords
 from [jpdb.io](https://jpdb.io).
 
+View the comparison tables at [**joliss.github.io/heisig-jpdb/**](https://joliss.github.io/heisig-jpdb/).
+
 ## Contributing
 
 ### Initial setup
