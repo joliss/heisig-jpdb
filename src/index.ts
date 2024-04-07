@@ -97,6 +97,11 @@ export async function getKanjiInfos(): Promise<KanjiInfo[]> {
   return kanjiInfos;
 }
 
+function isRtk1(kanjiInfo: KanjiInfo, edition: Edition): boolean {
+  let totalKanji = edition === "5" ? 2042 : 2200;
+  return (kanjiInfo.heisigId[edition] ?? Infinity) <= totalKanji;
+}
+
 export function getCollisions(
   kanjiInfos: KanjiInfo[],
   currentKanji: KanjiInfo,
@@ -115,15 +120,6 @@ function getHtml(kanjiInfos: KanjiInfo[], edition: Edition): string {
   // Please excuse the unsafe string interpolation everywhere. We choose to
   // trust our scraped source data.
 
-  function kanjiLink(kanjiInfo: KanjiInfo): string {
-    return `<a href="#${kanjiInfo.kanji}">${kanjiInfo.kanji}</a>`;
-  }
-
-  function kanjiLinks(kanjiInfos: KanjiInfo[]): string {
-    if (kanjiInfos.length === 0) return "";
-    return `(${kanjiInfos.map(kanjiLink).join(", ")})`;
-  }
-
   let title = `Kanji Keywords: Heisig ${edition}th Edition vs. jpdb.io`;
   let jpdbIo = `<a href="https://jpdb.io">jpdb.io</a>`;
   let lastUpdated = new Date().toLocaleString("en-US", {
@@ -139,6 +135,15 @@ function getHtml(kanjiInfos: KanjiInfo[], edition: Edition): string {
         <title>${title}</title>
         <link rel="stylesheet" href="https://joliss.github.io/heisig-jpdb/assets/css/style.css">
         <style>
+          .container {
+            max-width: 768px;
+            margin-right: auto;
+            margin-left: auto;
+            padding-left: 16px;
+            padding-right: 16px;
+            margin-top: 16px;
+            margin-bottom: 16px;
+          }
           h1 {
             margin-bottom: 10px;
           }
@@ -153,14 +158,8 @@ function getHtml(kanjiInfos: KanjiInfo[], edition: Edition): string {
           .is-different {
             background-color: #eee;
           }
-          .container {
-            max-width: 768px;
-            margin-right: auto;
-            margin-left: auto;
-            padding-left: 16px;
-            padding-right: 16px;
-            margin-top: 16px;
-            margin-bottom: 16px;
+          .rtk3 {
+            opacity: 0.5;
           }
         </style>
       </head>
@@ -174,7 +173,7 @@ function getHtml(kanjiInfos: KanjiInfo[], edition: Edition): string {
             This comparison table shows the kanji keywords for Heisig's <i>Remembering the Kanji, <b>${edition}th</b> Edition</i>, and ${jpdbIo} (as of ${lastUpdated}).
           </p>
           <p>
-            Possible keyword collisions are indicated in parentheses.
+            Possible keyword collisions are indicated in parentheses, with RtK 3 kanji in a lighter color.
             In order to catch as many possible collisions as possible, we use the stem of the keyword for comparison, but note that it is not 100% reliable.
           </p>
           <p>
@@ -210,6 +209,14 @@ function getHtml(kanjiInfos: KanjiInfo[], edition: Edition): string {
                   );
                   function linkAnchor(text: string): string {
                     return `<a href="#${kanjiInfo.kanji}" style="color: inherit;">${text}</a>`;
+                  }
+                  function kanjiLink(kanjiInfo: KanjiInfo): string {
+                    let class_ = isRtk1(kanjiInfo, edition) ? "rtk1" : "rtk3";
+                    return `<a href="#${kanjiInfo.kanji}" class="${class_}">${kanjiInfo.kanji}</a>`;
+                  }
+                  function kanjiLinks(kanjiInfos: KanjiInfo[]): string {
+                    if (kanjiInfos.length === 0) return "";
+                    return `(${kanjiInfos.map(kanjiLink).join(", ")})`;
                   }
                   return `
                     <tr id="${kanjiInfo.kanji}" class="${isDifferentClass}">
