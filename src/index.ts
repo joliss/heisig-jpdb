@@ -43,7 +43,7 @@ let heisigKanjis = Papa.parse(csvInputString, {
 
 let sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
 
-async function getUrl(url: string): Promise<string> {
+export async function getUrl(url: string): Promise<string> {
   console.error(`Fetching ${url}`);
   let response = await axios.get(url);
   // The server blocks us if we go faster
@@ -51,7 +51,7 @@ async function getUrl(url: string): Promise<string> {
   return response.data;
 }
 
-async function extractKeywordForKanji(kanji: string): Promise<string> {
+export async function extractKeywordForKanji(kanji: string): Promise<string> {
   let url = `https://jpdb.io/kanji/${kanji}`;
   // Fetch the HTML content of the page
   let getUrlCached = await memoizer.fn(getUrl, {
@@ -66,13 +66,13 @@ async function extractKeywordForKanji(kanji: string): Promise<string> {
   return keyword;
 }
 
-function maybeParseInt(value: string): number | null {
-  return value !== "" ? parseInt(value) : null;
-}
-
 let stemmer = new StemmerEn();
 
-async function getKanjiInfos(): Promise<KanjiInfo[]> {
+export async function getKanjiInfos(): Promise<KanjiInfo[]> {
+  function maybeParseInt(value: string): number | null {
+    return value !== "" ? parseInt(value) : null;
+  }
+
   let kanjiInfos: KanjiInfo[] = [];
   for (let heisigKanji of heisigKanjis) {
     let jpdbKeyword = await extractKeywordForKanji(heisigKanji.kanji);
@@ -97,7 +97,7 @@ async function getKanjiInfos(): Promise<KanjiInfo[]> {
   return kanjiInfos;
 }
 
-function getCollisions(
+export function getCollisions(
   kanjiInfos: KanjiInfo[],
   currentKanji: KanjiInfo,
   edition: Edition,
@@ -133,91 +133,108 @@ function getHtml(kanjiInfos: KanjiInfo[], edition: Edition): string {
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>${title}</title>
-        <link rel="stylesheet" href="./assets/css/style.css?v=0e694cfcd4e18dcc135b8d5d48385bc85cccc948">
+        <link rel="stylesheet" href="https://joliss.github.io/heisig-jpdb/assets/css/style.css">
         <style>
+          h1 {
+            margin-bottom: 10px;
+          }
           table {
             border-collapse: collapse;
           }
           th, td {
             border: 1px solid black;
             padding: 0.5em;
+            text-align: left;
           }
           .is-different {
             background-color: #eee;
           }
+          .container {
+            max-width: 768px;
+            margin-right: auto;
+            margin-left: auto;
+            padding-left: 16px;
+            padding-right: 16px;
+            margin-top: 16px;
+            margin-bottom: 16px;
+          }
         </style>
       </head>
       <body>
-        <p>
-          <a href="./">Back to home page</a>
-        </p>
-        <h1>${title}</h1>
-        <p>
-          This comparison table shows the kanji keywords for Heisig's <i>Remembering the Kanji</i>, <b>${edition}th</b> Edition and ${jpdbIo}.
-        </p>
-        <p>
-          Keyword collisions are indicated in parentheses.
-          Note that some jpdb keywords collide not just with Heisig's keywords but also with other jpdb keywords.
-          For example, <a href="#晶">晶</a> and <a href="#璃">璃</a> are both named "crystal".
-          Also note that collision detection is not perfect.
-          We use the stem of the keyword for comparison to catch as many possible collisions as possible.
-        </p>
-        <p>
-          You can also download this table as a <a href="kanji-keywords-${edition}th-edition.csv">CSV file</a>.
-        </p>
-        <table>
-          <thead>
-            <tr>
-              <th>Heisig #</th>
-              <th>Kanji</th>
-              <th>Heisig Keyword</th>
-              <th>jpdb Keyword</th>
-            </tr>
-          </thead>
-          <tbody>
-            ${kanjiInfos
-              .map((kanjiInfo) => {
-                let isDifferentClass =
-                  kanjiInfo.heisigKeyword[edition] !== kanjiInfo.jpdbKeyword
-                    ? "is-different"
-                    : "";
-                let jpdbCollisions = getCollisions(
-                  kanjiInfos,
-                  kanjiInfo,
-                  edition,
-                  kanjiInfo.jpdbKeywordStem
-                );
-                let heisigCollisions = getCollisions(
-                  kanjiInfos,
-                  kanjiInfo,
-                  edition,
-                  kanjiInfo.heisigKeywordStem[edition]
-                );
-                return `
-                  <tr id="${kanjiInfo.kanji}" class="${isDifferentClass}">
-                    <td>${kanjiInfo.heisigId[edition]
-                      ?.toString()
-                      .padStart(4, "0")}</td>
-                    <td>${kanjiInfo.kanji}</td>
-                    <td>
-                      <a href="https://kanji.koohii.com/study/kanji/${
-                        kanjiInfo.kanji
-                      }"><!--
-                        -->${kanjiInfo.heisigKeyword[edition]}<!--
-                      --></a>
-                      ${kanjiLinks(heisigCollisions)}
-                    </td>
-                    <td>
-                      <a href="https://jpdb.io/kanji/${kanjiInfo.kanji}"><!--
-                        -->${kanjiInfo.jpdbKeyword}<!--
-                      --></a>
-                        ${kanjiLinks(jpdbCollisions)}
-                    </td>
-                  </tr>`;
-              })
-              .join("")}
-          </tbody>
-        </table>
+        <div class="container">
+          <p>
+            <a href="./">Back to home page</a>
+          </p>
+          <h1>${title}</h1>
+          <p>
+            This comparison table shows the kanji keywords for Heisig's <i>Remembering the Kanji, <b>${edition}th</b> Edition</i>, and ${jpdbIo}.
+          </p>
+          <p>
+            Possible keyword collisions are indicated in parentheses.
+            In order to catch as many possible collisions as possible, we use the stem of the keyword for comparison, but note that it is not 100% reliable.
+          </p>
+          <p>
+            You can also download this table as a <a href="kanji-keywords-${edition}th-edition.csv">CSV file</a>.
+          </p>
+          <table>
+            <thead>
+              <tr>
+                <th>Heisig #</th>
+                <th>Kanji</th>
+                <th>Heisig Keyword</th>
+                <th>jpdb Keyword</th>
+              </tr>
+            </thead>
+            <tbody>
+              ${kanjiInfos
+                .map((kanjiInfo) => {
+                  let isDifferentClass =
+                    kanjiInfo.heisigKeyword[edition] !== kanjiInfo.jpdbKeyword
+                      ? "is-different"
+                      : "";
+                  let jpdbCollisions = getCollisions(
+                    kanjiInfos,
+                    kanjiInfo,
+                    edition,
+                    kanjiInfo.jpdbKeywordStem
+                  );
+                  let heisigCollisions = getCollisions(
+                    kanjiInfos,
+                    kanjiInfo,
+                    edition,
+                    kanjiInfo.heisigKeywordStem[edition]
+                  );
+                  function linkAnchor(text: string): string {
+                    return `<a href="#${kanjiInfo.kanji}" style="color: inherit;">${text}</a>`;
+                  }
+                  return `
+                    <tr id="${kanjiInfo.kanji}" class="${isDifferentClass}">
+                      <td>${linkAnchor(
+                        kanjiInfo.heisigId[edition]
+                          ?.toString()
+                          .padStart(4, "0")!
+                      )}</td>
+                      <td>${linkAnchor(kanjiInfo.kanji)}</td>
+                      <td>
+                        <a href="https://kanji.koohii.com/study/kanji/${
+                          kanjiInfo.kanji
+                        }"><!--
+                          -->${kanjiInfo.heisigKeyword[edition]}<!--
+                        --></a>
+                        ${kanjiLinks(heisigCollisions)}
+                      </td>
+                      <td>
+                        <a href="https://jpdb.io/kanji/${kanjiInfo.kanji}"><!--
+                          -->${kanjiInfo.jpdbKeyword}<!--
+                        --></a>
+                          ${kanjiLinks(jpdbCollisions)}
+                      </td>
+                    </tr>`;
+                })
+                .join("")}
+            </tbody>
+          </table>
+        </div>
       </body>
     </html>
   `;
@@ -263,12 +280,12 @@ async function main() {
     let kanjiInfosForEdition = kanjiInfos
       .filter((kanjiInfo) => kanjiInfo.heisigId[edition] != null)
       .toSorted((a, b) => a.heisigId[edition]! - b.heisigId[edition]!);
-
     writeFileSync(`${outFileBase}.csv`, getCsv(kanjiInfosForEdition, edition));
     writeFileSync(
       `${outFileBase}.html`,
       getHtml(kanjiInfosForEdition, edition)
     );
+    console.log(`Wrote ${outFileBase}.csv and ${outFileBase}.html`);
   }
 }
 
