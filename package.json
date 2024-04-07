@@ -1,0 +1,23 @@
+{
+  "name": "heisig-jpdb",
+  "version": "0.0.0",
+  "description": "Heisig and jpdb.io kanji keyword comparison",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rm -f docs/kanji*; tsx src/index.ts"
+  },
+  "author": "Jo Liss",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "@types/cheerio": "^0.22.35",
+    "@types/papaparse": "^5.3.14",
+    "axios": "^1.6.8",
+    "cheerio": "1.0.0-rc.12",
+    "memoize-fs": "^3.0.4",
+    "papaparse": "^5.4.1",
+    "tsx": "^4.7.2",
+    "typescript": "^5.4.4"
+  },
+  "dependencies": {
+  }
+}
