@@ -1,14 +1,21 @@
 {
   "name": "heisig-jpdb",
   "version": "0.0.0",
+  "private": true,
   "description": "Heisig and jpdb.io kanji keyword comparison",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joliss/heisig-jpdb"
+  },
+  "homepage": "https://joliss.github.io/heisig-jpdb/",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "tsc",
     "build": "rm -f docs/kanji*; tsx src/index.ts"
   },
   "author": "Jo Liss",
   "license": "Apache-2.0",
   "devDependencies": {
+    "@nlpjs/lang-en": "^4.26.1",
     "@types/cheerio": "^0.22.35",
     "@types/papaparse": "^5.3.14",
     "axios": "^1.6.8",
@@ -17,7 +24,5 @@
     "papaparse": "^5.4.1",
     "tsx": "^4.7.2",
     "typescript": "^5.4.4"
-  },
-  "dependencies": {
   }
 }

@@ -1,3031 +1,3031 @@
-kanji,heisigId,heisigKeyword,jpdbKeyword
-一,1,one,one
-二,2,two,two
-三,3,three,three
-四,4,four,four
-五,5,five,five
-六,6,six,six
-七,7,seven,seven
-八,8,eight,eight
-九,9,nine,nine
-十,10,ten,ten
-口,11,mouth,mouth
-日,12,day,sun
-月,13,month,moon
-田,14,rice field,rice field
-目,15,eye,eye
-古,16,old,old
-吾,17,I,me (ceremonial)
-冒,18,risk,dare
-朋,19,companion,companion
-明,20,bright,bright
-唱,21,chant,chant
-晶,22,sparkle,crystal
-品,23,goods,goods
-呂,24,spine,bathtub
-昌,25,prosperous,good and prosperous
-早,26,early,early
-旭,27,rising sun,rising sun
-世,28,generation,world
-胃,29,stomach,stomach
-旦,30,nightbreak,start of a day
-胆,31,gall bladder,gall bladder
-亘,32,span,span
-凹,33,concave,concave
-凸,34,convex,convex
-旧,35,olden times,old times
-自,36,oneself,self
-白,37,white,white
-百,38,hundred,hundred
-中,39,in,in
-千,40,thousand,thousand
-舌,41,tongue,tongue
-升,42,measuring box,almost 2 litres
-昇,43,rise up,ascend
-丸,44,round,circle
-寸,45,measurement,a few centimeters
-専,46,specialty,specialty
-博,47,Dr.,expert
-占,48,fortune-telling,fortune-telling
-上,49,above,above
-下,50,below,below
-卓,51,eminent,table
-朝,52,morning,morning
-只,53,only,ordinary
-貝,54,shellfish,shellfish
-貞,55,upright,principled
-員,56,employee,member
-見,57,see,see
-児,58,newborn babe,kid
-元,59,beginning,origin
-頁,60,page,page
-頑,61,stubborn,stubborn
-凡,62,mediocre,mediocre
-負,63,defeat,lose to (something)
-万,64,ten thousand,ten thousand
-句,65,phrase,phrase
-肌,66,texture,skin
-旬,67,decameron,ten days
-勺,68,ladle,a spoonful of fluid
-的,69,bull's eye,target
-首,70,neck,neck
-乙,71,fish guts,latter
-乱,72,riot,chaos
-直,73,straightaway,straight
-具,74,tool,tool
-真,75,true,truth
-工,76,craft,construction
-左,77,left,left
-右,78,right,right
-有,79,possess,be in possession
-賄,80,bribe,supply with
-貢,81,tribute,tribute
-項,82,paragraph,paragraph
-刀,83,sword,katana
-刃,84,blade,edge (of a knife or sword)
-切,85,cut,cut
-召,86,seduce,to summon
-昭,87,shining,shining
-則,88,rule,rules
-副,89,vice-,secondary
-別,90,separate,separate
-丁,91,street,street
-町,92,village,town
-可,93,can,can do
-頂,94,place on the head,top of
-子,95,child,child
-孔,96,cavity,small hole
-了,97,complete,finish
-女,98,woman,woman
-好,99,fond,liked
-如,100,likeness,comparable
-母,101,mama,mother
-貫,102,pierce,pierce through
-兄,103,elder brother,older brother
-克,104,overcome,overcome
-小,105,little,small
-少,106,few,few
-大,107,large,large
-多,108,many,many
-夕,109,evening,evening (before sunset)
-汐,110,eventide,evening tide
-外,111,outside,outside
-名,112,name,name
-石,113,stone,stone
-肖,114,resemblance,be worthy of
-硝,115,nitrate,nitric
-砕,116,smash,break into pieces
-砂,117,sand,sand
-削,118,plane,scrape off
-光,119,ray,ray
-太,120,plump,plump
-器,121,utensil,instrument
-臭,122,stinking,smelly
-妙,123,exquisite,strange
-省,124,focus,cut down and focus
-厚,125,thick,thick (in size)
-奇,126,strange,odd
-川,127,stream,river
-州,128,state,state
-順,129,obey,sequence
-水,130,water,water
-氷,131,icicle,ice
-永,132,eternity,eternity
-泉,133,spring,fountain
-原,134,meadow,original
-願,135,petition,wish
-泳,136,swim,swim
-沼,137,marsh,swamp
-沖,138,open sea,open sea
-江,139,creek,large river
-汁,140,soup,soup
-潮,141,tide,tide
-源,142,source,source
-活,143,lively,activity
-消,144,extinguish,extinguish
-況,145,but of course,state of affairs
-河,146,river,waterway
-泊,147,overnight,stay overnight
-湖,148,lake,lake
-測,149,fathom,survey
-土,150,soil,earth
-吐,151,spit,vomit
-圧,152,pressure,pressure
-埼,153,cape,small peninsula
-垣,154,hedge,fence
-圭,155,squared jewel,square jewel
-封,156,seal,seal
-涯,157,horizon,horizon
-寺,158,Buddhist temple,Buddhist temple
-時,159,time,time
-均,160,level,equalize
-火,161,fire,fire
-炎,162,inflammation,intense flame
-煩,163,anxiety,troublesome
-淡,164,thin,watered down
-灯,165,lamp,lamp
-畑,166,farm,farm field
-災,167,disaster,natural disaster
-灰,168,ashes,ashes
-点,169,spot,point
-照,170,illuminate,illuminate
-魚,171,fish,fish
-漁,172,fishing,gathering seafood
-里,173,ri,home village
-黒,174,black,black
-墨,175,black ink,black ink
-鯉,176,carp,carp
-量,177,quantity,quantity
-厘,178,rin,one-hundredth
-埋,179,bury,to fill up (a hole)
-同,180,same,same
-洞,181,den,cave
-胴,182,trunk,torso
-向,183,yonder,direction
-尚,184,esteem,even more
-字,185,character,a character
-守,186,guard,protect
-完,187,perfect,complete
-宣,188,proclaim,formally declare
-宵,189,wee hours,early night
-安,190,relax,peace of mind
-宴,191,banquet,banquet
-寄,192,draw near,get near
-富,193,wealth,wealth
-貯,194,savings,save up
-木,195,tree,tree
-林,196,grove,a bunch of trees
-森,197,forest,forest
-桂,198,Japanese Judas-tree,katsura tree
-柏,199,oak,oak
-枠,200,frame,outer frame
-梢,201,treetops,treetops
-棚,202,shelf,shelf
-杏,203,apricot,apricot
-桐,204,paulownia,paulownia tree
-植,205,plant,plant
-枯,206,wither,wither
-朴,207,crude,crude
-村,208,town,village
-相,209,inter-,towards each other
-机,210,desk,wooden desk
-本,211,book,book
-札,212,tag,note
-暦,213,calendar,calendar
-案,214,plan,proposal
-燥,215,parch,dried up
-未,216,not yet,not yet
-末,217,extremity,end part
-沫,218,splash,splash
-味,219,flavor,flavor
-妹,220,younger sister,younger sister
-朱,221,vermilion,deep red
-株,222,stocks,stocks
-若,223,young,young
-草,224,grass,grass
-苦,225,suffering,suffering
-寛,226,tolerant,lenient
-薄,227,dilute,thin in volume
-葉,228,leaf,leaf
-模,229,imitation,look like something
-漠,230,vague,boundless
-墓,231,grave,grave
-暮,232,livelihood,day-to-day life
-膜,233,membrane,membrane
-苗,234,seedling,seedling
-兆,235,portent,omen
-桃,236,peach tree,peach
-眺,237,stare,stare at
-犬,238,dog,dog
-状,239,status quo,condition
-黙,240,silence,shut up
-然,241,sort of thing,sort of thing
-荻,242,reed,silvergrass
-狩,243,hunt,hunt
-猫,244,cat,cat
-牛,245,cow,cow
-特,246,special,special
-告,247,revelation,reveal
-先,248,before,before (timewise)
-洗,249,wash,wash
-介,250,jammed in,mediate
-界,251,world,realm
-茶,252,tea,tea
-合,253,fit,come together
-塔,254,pagoda,tower
-王,255,king,king
-玉,256,jewel,ball
-宝,257,treasure,treasure
-珠,258,pearl,pearl
-現,259,present,right now
-狂,260,lunatic,insane
-皇,261,emperor,imperial
-呈,262,display,to present
-全,263,whole,whole
-栓,264,plug,plug
-理,265,logic,logic
-主,266,lord,(one's) master
-注,267,pour,pour
-柱,268,pillar,pillar
-金,269,gold,gold
-銑,270,pig iron,pig iron
-鉢,271,bowl,bowl
-銅,272,copper,copper
-釣,273,angling,fishing
-針,274,needle,needle
-銘,275,inscription,engraved inscription
-鎮,276,tranquillize,calm down
-道,277,road-way,roadway
-導,278,guidance,to guide
-辻,279,crossing,street corner
-迅,280,swift,swift
-造,281,create,create
-迫,282,urge,draw very near
-逃,283,escape,escape
-辺,284,environs,local area
-巡,285,patrol,go around
-車,286,car,vehicle
-連,287,take along,take along
-軌,288,rut,tracks
-輸,289,transport,transport (in or out)
-前,290,in front,in front of
-各,291,each,each
-格,292,status,status
-略,293,abbreviation,outline
-客,294,guest,guest
-額,295,forehead,amount of money
-夏,296,summer,summer
-処,297,dispose,dispose of
-条,298,twig,clause
-落,299,fall,fall down
-冗,300,superfluous,superfluous
-軍,301,army,army
-輝,302,radiance,shine
-運,303,carry,carry
-冠,304,crown,crown
-夢,305,dream,dream
-坑,306,pit,pit
-高,307,tall,high
-享,308,receive,receive naturally
-塾,309,cram school,cram school
-熟,310,mellow,mature
-亭,311,pavilion,establishment
-京,312,capital,capital
-涼,313,refreshing,refreshing coolness
-景,314,scenery,scenery
-鯨,315,whale,whale
-舎,316,cottage,building
-周,317,circumference,circumference
-週,318,week,week
-士,319,gentleman,professional
-吉,320,good luck,good luck
-壮,321,robust,robust
-荘,322,villa,villa
-売,323,sell,sell
-学,324,study,study
-覚,325,memorize,awareness
-栄,326,flourish,flourish
-書,327,write,write
-津,328,haven,harborside
-牧,329,breed,flock
-攻,330,aggression,attack
-敗,331,failure,defeated
-枚,332,sheet of,a sheet of
-故,333,happenstance,past
-敬,334,awe,respect
-言,335,say,say
-警,336,admonish,to police (something)
-計,337,plot,measure
-獄,338,prison,prison
-訂,339,revise,revise
-討,340,chastise,attack to kill
-訓,341,instruction,instruct
-詔,342,imperial edict,imperial edict
-詰,343,packed,packed with
-話,344,tale,to speak
-詠,345,recitation,compose a poem
-詩,346,poem,poem
-語,347,word,language
-読,348,read,read
-調,349,tune,tone
-談,350,discuss,conversation
-諾,351,consent,consent
-諭,352,rebuke,rebuke
-式,353,style,ceremony
-試,354,test,test
-弐,355,II (two),two (formal)
-域,356,range,region
-賊,357,burglar,bandit
-栽,358,plantation,cultivate (a plant)
-載,359,load,appear in print
-茂,360,overgrown,overgrown
-成,361,turn into,become
-城,362,castle,castle
-誠,363,sincerity,sincerity
-威,364,intimidate,terrifying authority
-滅,365,destroy,perish
-減,366,dwindle,reduction
-桟,367,scaffold,wooden crosspiece
-銭,368,coin,coin
-浅,369,shallow,shallow
-止,370,stop,stop
-歩,371,walk,walk
-渉,372,ford,cross a river on foot
-頻,373,repeatedly,repeatedly
-肯,374,agreement,positive agreement
-企,375,undertake,scheme
-歴,376,curriculum,chronicle
-武,377,warrior,military
-賦,378,levy,levy
-正,379,correct,correct
-証,380,evidence,proof
-政,381,politics,politics
-定,382,determine,define
-錠,383,lock,a lock
-走,384,run,run
-超,385,transcend,exceed
-赴,386,proceed,proceed
-越,387,surpass,go beyond
-是,388,just so,go with
-題,389,topic,topic
-堤,390,dike,embankment
-建,391,build,build
-延,392,prolong,prolong
-誕,393,nativity,birth
-礎,394,cornerstone,cornerstone
-婿,395,bridegroom,bridegroom
-衣,396,garment,garment
-裁,397,tailor,to judge
-装,398,attire,outfit
-裏,399,back,backside
-壊,400,demolition,break
-哀,401,pathetic,pitiful
-遠,402,distant,far
-猿,403,monkey,monkey
-初,404,first time,first time
-布,405,linen,cloth
-帆,406,sail,sail
-幅,407,hanging scroll,width
-帽,408,cap,hat
-幕,409,curtain,curtain
-幌,410,canopy,canopy
-錦,411,brocade,beautifully embroidered
-市,412,market,city
-姉,413,elder sister,older sister
-肺,414,lungs,lung
-帯,415,sash,belt
-滞,416,stagnate,stay in one place
-刺,417,thorn,stab
-制,418,system,control
-製,419,made in...,manufactured
-転,420,revolve,roll around
-芸,421,technique,art
-雨,422,rain,rain
-雲,423,cloud,cloud
-曇,424,cloudy weather,get cloudy
-雷,425,thunder,thunder
-霜,426,frost,frost
-冬,427,winter,winter
-天,428,heavens,heaven
-橋,429,bridge,bridge
-嬌,430,attractive,charming
-立,431,stand up,standing up
-泣,432,cry,cry
-章,433,badge,chapter
-競,434,vie,compete
-帝,435,sovereign,emperor
-童,436,juvenile,preteen
-瞳,437,pupil,pupil (of eye)
-鐘,438,bell,large bell
-商,439,make a deal,make a deal
-嫡,440,legitimate wife,legitimate wife
-適,441,suitable,fitting
-滴,442,drip,drip
-敵,443,enemy,enemy
-匕,444,spoon,spoon
-北,445,north,north
-背,446,stature,back of the body
-比,447,compare,compare (things of the same type)
-昆,448,descendants,descendants
-皆,449,all,all
-混,450,mix,mix
-渇,451,thirst,thirst
-謁,452,audience,audience
-褐,453,brown,brown
-喝,454,hoarse,hoarse
-旨,455,delicious,tasty
-脂,456,fat,fat
-壱,457,I (one),one (formal)
-毎,458,every,every
-敏,459,cleverness,quick-witted
-梅,460,plum,Japanese plum
-海,461,sea,sea
-乞,462,beg,beg
-乾,463,drought,dry
-腹,464,abdomen,belly
-複,465,duplicate,multiple
-欠,466,lack,lack of
-吹,467,blow,blow
-炊,468,cook,cook
-歌,469,song,song
-軟,470,soft,soft (consistency)
-次,471,next,next
-茨,472,briar,wild rose
-資,473,assets,resources
-姿,474,figure,figure
-諮,475,consult with,consult with
-賠,476,compensation,compensation
-培,477,cultivate,cultivate (an organism)
-剖,478,divide,divide
-音,479,sound,sound
-暗,480,darkness,dark
-韻,481,rhyme,rhyme
-識,482,discriminating,be conscious of
-鏡,483,mirror,mirror
-境,484,boundary,border
-亡,485,deceased,deceased
-盲,486,blind,blind
-妄,487,delusion,reckless
-荒,488,laid waste,wild
-望,489,ambition,hope
-方,490,direction,way
-妨,491,disturb,obstruct
-坊,492,boy,boy
-芳,493,perfumed,sweet smelling
-肪,494,obese,obese
-訪,495,call on,formal visit
-放,496,set free,release
-激,497,violent,intense
-脱,498,undress,detach
-説,499,rumor / explanation,theory
-鋭,500,pointed,sharp
-曽,501,formerly,great (grandparent or grandchild)
-増,502,increase,increase
-贈,503,presents,gift
-東,504,east,east
-棟,505,ridgepole,main pillar
-凍,506,frozen,frozen
-妊,507,pregnancy,get pregnant
-廷,508,courts,court
-染,509,dye,dye
-燃,510,burn,burn
-賓,511,V.I.P.,visitor
-歳,512,year-end,years old
-県,513,prefecture,prefecture
-栃,514,horse chestnut,horse chestnut
-地,515,ground,ground
-池,516,pond,pond
-虫,517,insect,insect
-蛍,518,lightning bug,firefly
-蛇,519,snake,snake
-虹,520,rainbow,rainbow
-蝶,521,butterfly,butterfly
-独,522,single,alone
-蚕,523,silkworm,silkworm
-風,524,wind,wind
-己,525,self,oneself
-起,526,rouse,to occur
-妃,527,queen,wife of a ruler
-改,528,reformation,reform
-記,529,scribe,regularly record
-包,530,wrap,wrap
-胞,531,placenta,cell
-砲,532,cannon,cannon
-泡,533,bubbles,bubble
-亀,534,tortoise,turtle
-電,535,electricity,electric
-竜,536,dragon,dragon
-滝,537,waterfall,waterfall
-豚,538,pork,pig
-逐,539,pursue,pursue
-遂,540,consummate,accomplish
-家,541,house,house
-嫁,542,marry into,bride
-豪,543,overpowering,greatest
-腸,544,intestines,intestines
-場,545,location,location
-湯,546,hot water,hot water
-羊,547,sheep,sheep
-美,548,beauty,beauty
-洋,549,ocean,ocean
-詳,550,detailed,detailed
-鮮,551,fresh,fresh
-達,552,accomplished,accomplished
-羨,553,envious,envy (without malice)
-差,554,distinction,difference
-着,555,don,wear
-唯,556,solely,only
-焦,557,char,get burned
-礁,558,reef,reef
-集,559,gather,gather together
-准,560,quasi-,being almost like
-進,561,advance,advance
-雑,562,miscellaneous,crude
-雌,563,feminine,bitch (female animal)
-準,564,semi-,standard
-奮,565,stirred up,arouse
-奪,566,rob,steal (by force)
-確,567,assurance,certain
-午,568,noon,noon
-許,569,permit,permit
-歓,570,delight,delight
-権,571,authority,right (to do something)
-観,572,outlook,observe
-羽,573,feathers,feathers
-習,574,learn,learn
-翌,575,the following,the following
-曜,576,weekday,weekday
-濯,577,laundry,rinse with water
-曰,578,sayeth,sayeth
-困,579,quandary,distressed
-固,580,harden,solidify
-国,581,country,country
-団,582,group,group
-因,583,cause,cause
-姻,584,matrimony,matrimony
-園,585,park,park
-回,586,-times,going around
-壇,587,podium,podium
-店,588,store,shop
-庫,589,warehouse,storage
-庭,590,courtyard,garden
-庁,591,government office,government office
-床,592,bed,floor
-麻,593,hemp,hemp
-磨,594,grind,polish
-心,595,heart,heart
-忘,596,forget,forget
-忍,597,endure,ninja
-認,598,acknowledge,admit
-忌,599,mourning,mourning
-志,600,intention,intention
-誌,601,document,magazine
-忠,602,loyalty,loyalty
-串,603,shish kebab,skewer
-患,604,afflicted,afflicted
-思,605,think,think (that something is true)
-恩,606,grace,debt of gratitude
-応,607,apply,respond with action
-意,608,idea,idea
-想,609,concept,heartfelt thought
-息,610,breath,breath
-憩,611,recess,take a break
-恵,612,favor,favored
-恐,613,fear,fear
-惑,614,beguile,lead astray
-感,615,emotion,feelings
-憂,616,melancholy,anxiety
-寡,617,widow,widow
-忙,618,busy,busy
-悦,619,ecstasy,ecstasy
-恒,620,constancy,constant
-悼,621,lament,lament
-悟,622,enlightenment,enlightenment
-怖,623,dreadful,scary
-慌,624,disconcerted,flustered
-悔,625,repent,regret
-憎,626,hate,hate
-慣,627,accustomed,get used to
-愉,628,pleasure,fun
-惰,629,lazy,lazy
-慎,630,humility,careful
-憾,631,remorse,remorse
-憶,632,recollection,memory
-慕,633,pining,adore
-添,634,annexed,addition
-必,635,invariably,certainly
-泌,636,ooze,ooze
-手,637,hand,hand
-看,638,watch over,watch over
-摩,639,chafe,grind against
-我,640,ego,me (old fashioned)
-義,641,righteousness,justice
-議,642,deliberation,deliberation
-犠,643,sacrifice,sacrifice
-抹,644,rub,grind into a powder
-抱,645,embrace,hug
-搭,646,board,board
-抄,647,extract,extract
-抗,648,confront,oppose
-批,649,criticism,criticism
-招,650,beckon,beckon
-拓,651,clear the land,clear the way
-拍,652,clap,clap rythmically
-打,653,strike,strike
-拘,654,arrest,constrain
-捨,655,discard,throw away
-拐,656,kidnap,kidnap
-摘,657,pinch,pluck
-挑,658,challenge,challenge
-指,659,finger,finger
-持,660,hold,have
-括,661,fasten,tie a loop around
-揮,662,brandish,to wield (physically)
-推,663,conjecture,infer
-揚,664,hoist,raise and suspend
-提,665,propose,propose
-損,666,damage,harmful loss
-拾,667,pick up,pick up (off the ground)
-担,668,shouldering,to shoulder
-拠,669,foothold,foundation
-描,670,sketch,paint a picture
-操,671,maneuver,manipulate
-接,672,touch,come in contact
-掲,673,put up a notice,put up (a notice)
-掛,674,hang,hang
-研,675,polish,refine
-戒,676,commandment,commandment
-械,677,contraption,contraption
-鼻,678,nose,nose
-刑,679,punish,criminal punishment
-型,680,mold,model
-才,681,genius,talent
-財,682,property,riches
-材,683,lumber,raw materials
-存,684,suppose,existence
-在,685,exist,presence
-乃,686,from,archaic の (girly)
-携,687,portable,carry in a hand
-及,688,reach out,reach
-吸,689,suck,suck
-扱,690,handle,to handle
-丈,691,length,3 meters
-史,692,history,history
-吏,693,officer,government official
-更,694,grow late,all over again
-硬,695,stiff,hard like a rock
-又,696,or again,once again
-双,697,pair,pair
-桑,698,mulberry,mulberry
-隻,699,vessels,(seafaring) vessel
-護,700,safeguard,keep safe
-獲,701,seize,capture in a hunt
-奴,702,guy,guy
-怒,703,angry,angry
-友,704,friend,friend
-抜,705,slip out,pull out
-投,706,throw,throw
-没,707,drown,go under
-設,708,establishment,set up
-撃,709,beat,fire a gun
-殻,710,husk,husk
-支,711,branch,support
-技,712,skill,skill
-枝,713,bough,branch
-肢,714,limb,limb
-茎,715,stalk,stem
-怪,716,suspicious,suspicious
-軽,717,lightly,lightweight
-叔,718,uncle,uncle
-督,719,coach,overseer
-寂,720,loneliness,lonely
-淑,721,graceful,ladylike
-反,722,anti-,be against
-坂,723,slope,slope
-板,724,plank,plank
-返,725,return,return something
-販,726,marketing,make commercially available
-爪,727,claw,claw
-妥,728,gentle,suitable
-乳,729,milk,milk
-浮,730,floating,float
-将,731,leader,commander
-奨,732,exhort,encourage (someone to do something)
-採,733,pick,collect
-菜,734,vegetable,vegetable
-受,735,accept,receive
-授,736,impart,to award
-愛,737,love,love
-払,738,pay,pay
-広,739,wide,wide
-拡,740,broaden,expand horizontally
-鉱,741,mineral,ore
-弁,742,valve,dialect
-雄,743,masculine,stud (male animal)
-台,744,pedestal,pedestal
-怠,745,neglect,idle
-治,746,reign,rein in
-始,747,commence,begin
-胎,748,womb,womb
-窓,749,window,window
-去,750,gone,past
-法,751,method,law
-会,752,meeting,meeting
-至,753,climax,apex
-室,754,room,room
-到,755,arrival,arrival
-致,756,doth,politely do
-互,757,mutually,mutual
-棄,758,abandon,discard
-育,759,bring up,nurture
-撤,760,remove,withdraw
-充,761,allot,distribute
-銃,762,gun,gun
-硫,763,sulfur,sulphur
-流,764,current,current (in a fluid)
-允,765,license,license
-唆,766,tempt,tempt
-出,767,exit,exit
-山,768,mountain,mountain
-拙,769,bungling,unskillful
-岩,770,boulder,boulder
-炭,771,charcoal,charcoal
-岐,772,branch off,branch off
-峠,773,mountain peak,mountain pass
-崩,774,crumble,crumble
-密,775,secrecy,intimate
-蜜,776,honey,honey
-嵐,777,storm,storm
-崎,778,promontory,Nagasaki peninsula
-入,779,enter,enter
-込,780,crowded,crowded
-分,781,part,part
-貧,782,poverty,poor
-頒,783,partition,partition
-公,784,public,public
-松,785,pine tree,pine tree
-翁,786,venerable old man,venerable old man
-訟,787,sue,lawsuit
-谷,788,valley,valley
-浴,789,bathe,bath
-容,790,contain,contain
-溶,791,melt,melt
-欲,792,longing,desire
-裕,793,abundant,abundant
-鉛,794,lead (metal),lead (metal)
-沿,795,run alongside,run alongside
-賞,796,prize,prize
-党,797,party,political party
-堂,798,public chamber,assembly hall
-常,799,usual,usual
-裳,800,skirt,skirt
-掌,801,manipulate,palm of a hand
-皮,802,pelt,skin (of an animal or a plant)
-波,803,waves,a wave
-婆,804,old woman,old woman
-披,805,expose,unveil to an audience
-破,806,rend,to tear
-被,807,incur,be a target of
-残,808,remainder,left behind
-殉,809,martyrdom,martyrdom
-殊,810,particularly,especially
-殖,811,augment,reproduce and multiply
-列,812,file,row
-裂,813,split,split
-烈,814,ardent,violent
-死,815,death,death
-葬,816,interment,funeral
-瞬,817,wink,blink
-耳,818,ear,ear
-取,819,take,take
-趣,820,gist,preference
-最,821,utmost,utmost
-撮,822,snapshot,photograph
-恥,823,shame,shame
-職,824,post,being employed
-聖,825,holy,holy
-敢,826,daring,bold
-聴,827,listen,actively listen
-懐,828,pocket,pocket of nostalgia
-慢,829,ridicule,arrogant
-漫,830,loose,aimless
-買,831,buy,buy
-置,832,placement,put down
-罰,833,penalty,penalty
-寧,834,rather,better
-濁,835,voiced,muddy
-環,836,ring,loop
-還,837,send back,finally return
-夫,838,husband,husband
-扶,839,aid,aid
-渓,840,mountain stream,valley with a river
-規,841,standard,criteria
-替,842,exchange,replace
-賛,843,approve,approve
-潜,844,submerge,lurk
-失,845,lose,permanent loss
-鉄,846,iron,iron
-迭,847,alternate,alternate
-臣,848,retainer,government minister
-姫,849,princess,princess
-蔵,850,storehouse,stash
-臓,851,entrails,entrails
-賢,852,intelligent,clever
-堅,853,strict,firm
-臨,854,look to,face something
-覧,855,perusal,view
-巨,856,gigantic,gigantic
-拒,857,repel,refuse
-力,858,power,power
-男,859,male,man
-労,860,labor,labor
-募,861,recruit,recruit
-劣,862,inferiority,inferior
-功,863,achievement,success
-勧,864,persuade,recommend (a course of action)
-努,865,toil,make an effort
-励,866,encourage,encourage (someone to become more lively)
-加,867,add,add
-賀,868,congratulations,congratulations
-架,869,erect,framework
-脇,870,armpit,armpit
-脅,871,threaten,threaten
-協,872,co-,cooperative
-行,873,going,go
-律,874,rhythm,regulate
-復,875,restore,return to normal
-得,876,gain,gain
-従,877,accompany,obey
-徒,878,junior,follower
-待,879,wait,wait
-往,880,journey,go (with the intention to come back)
-征,881,subjugate,subjugate
-径,882,diameter,diameter
-彼,883,he,he
-役,884,duty,role
-徳,885,benevolence,virtue
-徹,886,penetrate,penetrate
-徴,887,indications,sign (of something)
-懲,888,penal,punish and teach a lesson
-微,889,delicate,micro
-街,890,boulevard,town district
-衡,891,equilibrium,equilibrium
-稿,892,draft,draft
-稼,893,earnings,earn income
-程,894,extent,extent
-税,895,tax,tax
-稚,896,immature,immature
-和,897,harmony,harmony
-移,898,shift,transfer
-秒,899,second,second
-秋,900,autumn,autumn
-愁,901,distress,distress
-私,902,private,private
-秩,903,regularity,regularity
-秘,904,secret,secret
-称,905,appellation,claim a title
-利,906,profit,profit
-梨,907,pear tree,pear
-穫,908,harvest,harvest
-穂,909,ear of a plant,head of a plant
-稲,910,rice plant,rice plant
-香,911,incense,nice smell
-季,912,seasons,time of year
-委,913,committee,committee
-秀,914,excel,excel
-透,915,transparent,transparent
-誘,916,entice,invite
-穀,917,cereals,grains
-菌,918,germ,microbe
-米,919,rice,rice
-粉,920,flour,powder
-粘,921,sticky,sticky
-粒,922,grains,a single grain
-粧,923,cosmetics,cosmetics
-迷,924,astray,be lost
-粋,925,chic,style
-糧,926,provisions,provisions
-菊,927,chrysanthemum,chrysanthemum
-奥,928,core,deep inside
-数,929,number,number
-楼,930,watchtower,building with at least two floors
-類,931,sort,kind (of something)
-漆,932,lacquer,lacquer
-様,933,Esq.,-sama
-求,934,request,seek
-球,935,ball,sphere
-救,936,salvation,rescue
-竹,937,bamboo,bamboo
-笑,938,laugh,laugh
-笠,939,bamboo hat,Asian-style conical hat
-笹,940,bamboo grass,bamboo grass
-筋,941,muscle,muscle
-箱,942,box,box
-筆,943,writing brush,writing brush
-筒,944,cylinder,cylinder
-等,945,etc.,equal
-算,946,calculate,calculate
-答,947,solution,answer
-策,948,scheme,plan
-簿,949,register,register
-築,950,fabricate,construct
-人,951,person,person
-佐,952,assistant,assistant
-但,953,however,however
-住,954,dwell,live in
-位,955,rank,rank
-仲,956,go-between,relationship
-体,957,body,body
-悠,958,remote,distant
-件,959,affair,case
-仕,960,attend,serve
-他,961,other,other
-伏,962,prostrated,lay face down
-伝,963,transmit,transmit
-仏,964,Buddha,Buddha
-休,965,rest,rest
-仮,966,provisional,temporary
-伯,967,chief,count (nobleman)
-俗,968,vulgar,common
-信,969,faith,belief
-佳,970,excellent,excellent
-依,971,reliant,depend on
-例,972,example,example
-個,973,individual,individual
-健,974,healthy,healthy
-側,975,side,side (of something)
-侍,976,waiter,samurai
-停,977,halt,temporary stop
-値,978,price,numeric value
-倣,979,emulate,emulate
-倒,980,overthrow,collapse
-偵,981,spy,to spy
-僧,982,Buddhist priest,Buddhist priest
-億,983,hundred million,hundred million
-儀,984,ceremony,ritual
-償,985,reparation,make up for something
-仙,986,hermit,hermit
-催,987,sponsor,to host
-仁,988,humanity,humanity
-侮,989,scorn,look down on
-使,990,use,use (something physical)
-便,991,convenience,convenience
-倍,992,double,double something
-優,993,tenderness,gentle
-伐,994,fell,cut down
-宿,995,inn,place to sleep
-傷,996,wound,wound
-保,997,protect,preserve
-褒,998,praise,praise
-傑,999,greatness,the best
-付,1000,adhere,attach
-符,1001,token,token
-府,1002,municipality,central office
-任,1003,responsibility,obligation
-賃,1004,fare,rental payment
-代,1005,substitute,substitute
-袋,1006,sack,sack
-貸,1007,lend,lend
-化,1008,change,transformation
-花,1009,flower,flower
-貨,1010,freight,currency
-傾,1011,lean,lean to the side
-何,1012,what,what
-荷,1013,baggage,baggage
-俊,1014,sagacious,outstanding talent
-傍,1015,bystander,on the side
-久,1016,long time,long time
-畝,1017,furrow,furrow
-囚,1018,captured,prisoner
-内,1019,inside,inside
-丙,1020,third class,third in class
-柄,1021,design,pattern
-肉,1022,meat,meat
-腐,1023,rot,rot
-座,1024,sit,to sit
-卒,1025,graduate,graduate
-傘,1026,umbrella,umbrella
-匁,1027,monme,monme
-以,1028,by means of,by means of
-似,1029,similar,resemble
-併,1030,join,match (to be the same)
-瓦,1031,tile,tile
-瓶,1032,flower pot,bottle
-宮,1033,Shinto shrine,Shinto shrine
-営,1034,occupation,manage
-善,1035,virtuous,morally good
-年,1036,year,year
-夜,1037,night,night
-液,1038,fluid,fluid
-塚,1039,hillock,pile of (dirt)
-幣,1040,cash,cash
-弊,1041,abuse,not good
-喚,1042,yell,scream
-換,1043,interchange,exchange
-融,1044,dissolve,dissolve
-施,1045,alms,carry out
-旋,1046,rotation,swirl
-遊,1047,play,play
-旅,1048,trip,travel
-勿,1049,not,must not
-物,1050,thing,thing
-易,1051,easy,easy
-賜,1052,grant,grant
-尿,1053,urine,urine
-尼,1054,nun,nun
-泥,1055,mud,mud
-塀,1056,fence,wall fence
-履,1057,footgear,put on legwear
-屋,1058,roof,roof
-握,1059,grip,grip
-屈,1060,yield,bend
-掘,1061,dig,dig
-堀,1062,ditch,moat
-居,1063,reside,to be (animate object)
-据,1064,set,fixed in place
-層,1065,stratum,layer
-局,1066,bureau,bureau
-遅,1067,slow,slow
-漏,1068,leak,leak
-刷,1069,printing,print
-尺,1070,shaku,measuring ruler
-尽,1071,exhaust,completely exhaust
-沢,1072,swamp,mountain stream
-訳,1073,translate,translation
-択,1074,choose,choice
-昼,1075,daytime,midday
-戸,1076,door,door
-肩,1077,shoulder,shoulder
-房,1078,tassel,cluster
-扇,1079,fan,folding fan
-炉,1080,hearth,furnace
-戻,1081,re-,turn back to how it was
-涙,1082,tears,tears
-雇,1083,employ,hire
-顧,1084,look back,look back on
-啓,1085,disclose,revelation
-示,1086,show,demonstrate
-礼,1087,salutation,polite
-祥,1088,auspicious,happy omen
-祝,1089,celebrate,celebrate
-福,1090,blessing,good fortune
-祉,1091,welfare,welfare
-社,1092,company,company
-視,1093,inspection,look at
-奈,1094,Nara,Nara (city)
-尉,1095,military officer,military officer
-慰,1096,consolation,console and provide comfort
-款,1097,goodwill,goodwill
-禁,1098,prohibition,prohibit
-襟,1099,collar,collar
-宗,1100,religion,religion
-崇,1101,adore,respect and revere
-祭,1102,ritual,festival
-察,1103,guess,guess
-擦,1104,grate,rub
-由,1105,wherefore,reason
-抽,1106,pluck,take out
-油,1107,oil,oil
-袖,1108,sleeve,sleeve
-宙,1109,mid-air,midair
-届,1110,deliver,delivery
-笛,1111,flute,flute
-軸,1112,axis,axis
-甲,1113,armor,outer shell
-押,1114,push,push
-岬,1115,headland,cape (on coast)
-挿,1116,insert,insert
-申,1117,speaketh,say humbly
-伸,1118,expand,stretch
-神,1119,gods,god
-捜,1120,search,search
-果,1121,fruit,fruit
-菓,1122,candy,sweets
-課,1123,chapter,subsection
-裸,1124,naked,naked
-斤,1125,ax,axe
-析,1126,chop,break apart
-所,1127,place,place
-祈,1128,pray,pray
-近,1129,near,near
-折,1130,fold,fold
-哲,1131,philosophy,philosophy
-逝,1132,departed,pass away
-誓,1133,vow,vow
-暫,1134,temporarily,temporarily
-漸,1135,steadily,steadily
-断,1136,severance,be cut off
-質,1137,substance,quality
-斥,1138,reject,reject
-訴,1139,accusation,sue
-昨,1140,yesterday,previous
-詐,1141,lie,falsehood
-作,1142,make,make
-雪,1143,snow,snow
-録,1144,record,record on something
-尋,1145,inquire,inquire
-急,1146,hurry,hurry
-穏,1147,calm,calm
-侵,1148,encroach,invade
-浸,1149,immersed,immersed in
-寝,1150,lie down,lie down
-婦,1151,lady,housewife
-掃,1152,sweep,sweep
-当,1153,hit,hit (the target)
-争,1154,contend,conflict
-浄,1155,clean,cleanse
-事,1156,matter,occurence
-唐,1157,T'ang,Chinese foreigner
-糖,1158,sugar,sugar
-康,1159,sane,peaceful
-逮,1160,apprehend,arrest
-伊,1161,Italy,Italy
-君,1162,old boy,young master
-群,1163,flock,a pack (e.g. of dogs)
-耐,1164,proof,withstand
-需,1165,demand,demand (for something)
-儒,1166,Confucian,confucian
-端,1167,edge,boundary
-両,1168,both,both
-満,1169,full,full
-画,1170,brush-stroke,drawing
-歯,1171,tooth,tooth
-曲,1172,bend,curved
-曹,1173,cadet,cadet
-遭,1174,encounter,encounter a difficulty
-漕,1175,rowing,rowing
-槽,1176,vat,tank (of liquid)
-斗,1177,Big Dipper,18 litres
-料,1178,fee,ingredients
-科,1179,department,department
-図,1180,map,diagram
-用,1181,utilize,used for
-庸,1182,comfortable,commonplace
-備,1183,equip,equip
-昔,1184,once upon a time,long ago
-錯,1185,confused,mix something up
-借,1186,borrow,borrow
-惜,1187,pity,reluctant (to part with)
-措,1188,set aside,set aside
-散,1189,scatter,scatter around
-廿,1190,twenty,twenty
-庶,1191,commoner,commoner
-遮,1192,intercept,interrupt
-席,1193,seat,seat
-度,1194,degrees,degrees
-渡,1195,transit,ferry over
-奔,1196,bustle,run very fast
-噴,1197,erupt,erupt
-墳,1198,tomb,tomb
-憤,1199,aroused,grudge
-焼,1200,bake,roast
-暁,1201,daybreak,dawn
-半,1202,half,half
-伴,1203,consort,accompany
-畔,1204,paddy ridge,shore
-判,1205,judgment,judgement
-券,1206,ticket,ticket
-巻,1207,scroll,scroll
-圏,1208,sphere,area of influence
-勝,1209,victory,win
-藤,1210,wisteria,wisteria (a type of plant)
-謄,1211,facsimilie,certified copy
-片,1212,one-sided,one of a pair
-版,1213,printing block,edition
-之,1214,of,archaic の (manly)
-乏,1215,destitution,scarcity
-芝,1216,turf,lawn
-不,1217,negative,negative
-否,1218,negate,negate
-杯,1219,cupfuls,cup of liquid
-矢,1220,dart,arrow
-矯,1221,rectify,fix a flaw
-族,1222,tribe,tribe
-知,1223,know,know
-智,1224,wisdom,wisdom of old
-矛,1225,halberd,halberd
-柔,1226,tender,soft (to touch)
-務,1227,task,perform a task
-霧,1228,fog,fog
-班,1229,squad,squad
-帰,1230,homecoming,return home
-弓,1231,bow,bow (weapon)
-引,1232,pull,pull
-弔,1233,condolences,condolences
-弘,1234,vast,vast
-強,1235,strong,strong
-弱,1236,weak,weak
-沸,1237,seethe,heat until boiling point
-費,1238,expense,expense
-第,1239,No.,ordinal number
-弟,1240,younger brother,younger brother
-巧,1241,adroit,skillful
-号,1242,nickname,ID number
-朽,1243,decay,decay
-誇,1244,boast,be proud of
-汚,1245,dirty,dirty
-与,1246,bestow,bestow upon
-写,1247,copy,copy
-身,1248,somebody,one's body
-射,1249,shoot,shoot
-謝,1250,apologize,apologize
-老,1251,old man,elderly
-考,1252,consider,think (about something)
-孝,1253,filial piety,duty to one's parents
-教,1254,teach,teach
-拷,1255,torture,torture
-者,1256,someone,someone
-煮,1257,boil,cook by boiling
-著,1258,renowned,literary work
-署,1259,signature,field office
-暑,1260,sultry,hot
-諸,1261,various,various
-猪,1262,boar,boar
-渚,1263,strand,strand
-賭,1264,gamble,bet
-峡,1265,gorge,ravine
-狭,1266,cramped,narrow
-挟,1267,sandwiched,put between
-追,1268,chase,follow
-師,1269,expert,mentor
-帥,1270,commander,high command
-官,1271,bureaucrat,bureaucrat
-棺,1272,coffin,coffin
-管,1273,pipe,pipe
-父,1274,father,father
-交,1275,mingle,mingle
-効,1276,merit,be effective
-較,1277,contrast,thoroughly compare
-校,1278,exam,school
-足,1279,leg,foot
-促,1280,stimulate,urge
-距,1281,long-distance,separated by
-路,1282,path,path
-露,1283,dew,exposed to morning dew
-跳,1284,hop,jump up
-躍,1285,leap,jump around
-践,1286,tread,tread
-踏,1287,step,to step on
-骨,1288,skeleton,bone
-滑,1289,slippery,slippery
-髄,1290,marrow,marrow
-禍,1291,calamity,calamity and misfortune
-渦,1292,whirlpool,whirlpool
-過,1293,overdo,surpass something
-阪,1294,Heights,hillside
-阿,1295,Africa,Africa
-際,1296,occasion,edge
-障,1297,hinder,obstruction
-随,1298,follow,follow as one's told
-陪,1299,auxiliary,one's superior
-陽,1300,sunshine,sunshine
-陳,1301,line up,to express
-防,1302,ward off,prevent
-附,1303,affixed,attachment
-院,1304,Inst.,institution
-陣,1305,camp,army camp
-隊,1306,regiment,squad
-墜,1307,crash,fall down and crash
-降,1308,descend,descend
-階,1309,story,floor (of a building)
-陛,1310,highness,highness
-隣,1311,neighboring,neighbor
-隔,1312,isolate,isolate
-隠,1313,conceal,to hide
-堕,1314,degenerate,fall into corruption
-陥,1315,collapse,cave in
-穴,1316,hole,hole
-空,1317,empty,empty air
-控,1318,withdraw,refrain
-突,1319,stab,thrust
-究,1320,research,research
-窒,1321,plug up,suffocate
-窃,1322,stealth,secretly
-窪,1323,depression,depressed shape
-搾,1324,squeeze,squeeze out (a liquid)
-窯,1325,kiln,kiln
-窮,1326,hard up,reach a limit
-探,1327,grope,to feel around for
-深,1328,deep,deep
-丘,1329,hill,hill
-岳,1330,Point,mountain peak
-兵,1331,soldier,soldier
-浜,1332,seacoast,beach
-糸,1333,thread,thread
-織,1334,weave,weave
-繕,1335,darning,darning
-縮,1336,shrink,shrink
-繁,1337,luxuriant,grow thickly
-縦,1338,vertical,vertical
-線,1339,line,line
-締,1340,tighten,tighten
-維,1341,fiber,maintain
-羅,1342,gauze,lightweight fabric
-練,1343,practice,practice
-緒,1344,thong,strap
-続,1345,continue,continue
-絵,1346,picture,picture
-統,1347,overall,overall
-絞,1348,strangle,strangle
-給,1349,salary,supply (of something)
-絡,1350,entwine,entangle
-結,1351,tie,tied together
-終,1352,end,end
-級,1353,class,class
-紀,1354,chronicle,era
-紅,1355,crimson,deep red
-納,1356,settlement,to supply
-紡,1357,spinning,to spin (yarn)
-紛,1358,distract,confusion
-紹,1359,introduce,introduce
-経,1360,sutra,Buddhist scripture
-紳,1361,sire,gentleman
-約,1362,promise,promise
-細,1363,dainty,thin
-累,1364,accumulate,successive
-索,1365,cord,link
-総,1366,general,general
-綿,1367,cotton,cotton
-絹,1368,silk,silk
-繰,1369,winding,spin
-継,1370,inherit,inherit
-緑,1371,green,green
-縁,1372,affinity,connected by fate
-網,1373,netting,net
-緊,1374,tense,tense
-紫,1375,purple,purple
-縛,1376,truss,tie up
-縄,1377,straw rope,rope
-幼,1378,infancy,very young
-後,1379,behind,after
-幽,1380,faint,faint
-幾,1381,how many,how many
-機,1382,mechanism,machine
-玄,1383,mysterious,dark and mysterious
-畜,1384,livestock,livestock
-蓄,1385,amass,store a large amount
-弦,1386,bowstring,string (of an instrument)
-擁,1387,hug,hug
-滋,1388,nourishing,nourishing
-慈,1389,mercy,mercy
-磁,1390,magnet,magnetic
-系,1391,lineage,lineage
-係,1392,person in charge,be involved with
-孫,1393,grandchild,grandchild
-懸,1394,suspend,hang (figuratively)
-却,1395,instead,repel
-脚,1396,shins,leg
-卸,1397,wholesale,wholesale
-御,1398,honorable,honorable
-服,1399,clothing,clothes
-命,1400,fate,continued existence
-令,1401,orders,orders
-零,1402,zero,zero
-齢,1403,age,age
-冷,1404,cool,cold (to the touch)
-領,1405,jurisdiction,territory
-鈴,1406,small bell,bell
-勇,1407,courage,courage
-通,1408,traffic,pass through
-踊,1409,jump,dance
-疑,1410,doubt,doubt
-擬,1411,mimic,imitate
-凝,1412,congeal,thicken
-範,1413,pattern,exemplar
-犯,1414,crime,perpetrator
-厄,1415,unlucky,unlucky
-危,1416,dangerous,dangerous
-宛,1417,address,addressed to
-腕,1418,arm,arm
-苑,1419,garden,man-made garden
-怨,1420,grudge,hateful grudge
-柳,1421,willow,willow tree
-卵,1422,egg,egg
-留,1423,detain,hold in place
-貿,1424,trade,trade
-印,1425,stamp,stamp
-興,1426,entertain,vitalize
-酉,1427,sign of the bird,sign of the bird
-酒,1428,sake,alcoholic drink
-酌,1429,bartending,bartending
-酵,1430,fermentation,fermentation
-酷,1431,cruel,cruel
-酬,1432,repay,repay
-酪,1433,dairy products,dairy products
-酢,1434,vinegar,vinegar
-酔,1435,drunk,drunk
-配,1436,distribute,hand out
-酸,1437,acid,acid
-猶,1438,waver,still more
-尊,1439,revered,esteem
-豆,1440,beans,bean
-頭,1441,head,head
-短,1442,short,short
-豊,1443,bountiful,plentiful
-鼓,1444,drum,drum
-喜,1445,rejoice,joy
-樹,1446,timber-trees,deeply rooted tree
-皿,1447,dish,dish
-血,1448,blood,blood
-盆,1449,basin,basin
-盟,1450,alliance,ally
-盗,1451,steal,steal
-温,1452,warm,warm (to the touch)
-監,1453,oversee,supervise
-濫,1454,overflow,excessive
-鑑,1455,specimen,expert opinion
-猛,1456,fierce,fierce
-盛,1457,boom,a heap of
-塩,1458,salt,salt
-銀,1459,silver,silver
-恨,1460,resentment,resent
-根,1461,root,root
-即,1462,instant,instant
-爵,1463,baron,baron
-節,1464,node,joint
-退,1465,retreat,retreat
-限,1466,limit,limit
-眼,1467,eyeball,eyeball
-良,1468,good,good
-朗,1469,melodious,bright and clear
-浪,1470,wandering,wandering
-娘,1471,daughter,daughter
-食,1472,eat,eat
-飯,1473,meal,meal
-飲,1474,drink,drink
-飢,1475,hungry,hunger
-餓,1476,starve,starved
-飾,1477,decorate,decorate
-館,1478,Bldg.,public building
-養,1479,foster,support growth
-飽,1480,sated,be full and have enough
-既,1481,previously,already
-概,1482,outline,approximate
-慨,1483,rue,stirring
-平,1484,even,flat
-呼,1485,call,call
-坪,1486,two-mat area,two-mat area
-評,1487,evaluate,evaluate
-刈,1488,reap,trim
-希,1489,hope,dilute
-凶,1490,villain,bad luck
-胸,1491,bosom,chest
-離,1492,detach,physical distance
-殺,1493,kill,kill
-純,1494,genuine,pure
-鈍,1495,dull,dull
-辛,1496,spicy,spicy
-辞,1497,resign,resign
-梓,1498,catalpa,catalpa
-宰,1499,superintend,primary supervisor
-壁,1500,wall,wall
-避,1501,evade,avoid
-新,1502,new,new
-薪,1503,firewood,firewood
-親,1504,parent,parent
-幸,1505,happiness,happiness
-執,1506,tenacious,devoted
-報,1507,report,report
-叫,1508,shout,shout
-糾,1509,twist,twist
-収,1510,income,obtain
-卑,1511,lowly,vulgar
-碑,1512,tombstone,monument with an inscription
-陸,1513,land,land
-睦,1514,intimate,friendly
-勢,1515,forces,vigor
-熱,1516,heat,heat
-菱,1517,diamond,diamond shape
-陵,1518,mausoleum,mausoleum
-亥,1519,sign of the hog,sign of the boar
-核,1520,nucleus,nucleus
-刻,1521,engrave,carve into
-該,1522,above-stated,above-stated
-劾,1523,censure,censure
-述,1524,mention,statement
-術,1525,art,technique
-寒,1526,cold,cold
-醸,1527,brew,brew
-譲,1528,defer,concede
-壌,1529,lot,lot
-嬢,1530,lass,young lady
-毒,1531,poison,poison
-素,1532,elementary,elementary
-麦,1533,barley,wheat
-青,1534,blue,blue
-精,1535,refined,spirit (of life)
-請,1536,solicit,formally request
-情,1537,feelings,emotion
-晴,1538,clear up,clear up
-清,1539,pure,clean
-静,1540,quiet,quiet
-責,1541,blame,responsibility
-績,1542,exploits,achievements
-積,1543,volume,pile up and accumulate
-債,1544,bond,financial bond
-漬,1545,pickling,pickle (something)
-表,1546,surface,front side
-俵,1547,bag,straw bag
-潔,1548,undefiled,undefiled
-契,1549,pledge,pledge
-喫,1550,consume,consume
-害,1551,harm,harm
-轄,1552,control,administration
-割,1553,proportion,divide
-憲,1554,constitution,constitution
-生,1555,life,life
-星,1556,star,star
-姓,1557,surname,surname
-性,1558,sex,nature (of a person)
-牲,1559,animal sacrifice,offering
-産,1560,products,give birth
-隆,1561,hump,be in abundance
-峰,1562,summit,peak
-縫,1563,sew,sew
-拝,1564,worship,worship
-寿,1565,longevity,lifespan
-鋳,1566,casting,casting
-籍,1567,enroll,registry
-春,1568,springtime,spring
-椿,1569,camellia,camellia
-泰,1570,peaceful,Thailand
-奏,1571,play music,play music
-実,1572,reality,real
-奉,1573,dedicate,dedicate
-俸,1574,stipend,stipend
-棒,1575,rod,rod
-謹,1576,discreet,respectful
-勤,1577,diligence,devotion to work
-漢,1578,Sino-,Chinese
-嘆,1579,sigh,lament
-難,1580,difficult,difficult
-華,1581,splendor,flashy flower
-垂,1582,droop,droop
-睡,1583,drowsy,be asleep
-錘,1584,spindle,spindle
-乗,1585,ride,ride
-剰,1586,surplus,surplus
-今,1587,now,now
-含,1588,include,include
-吟,1589,versify,recite in a singing voice
-念,1590,wish,a sense of
-琴,1591,harp,harp
-陰,1592,shade,unseen location
-予,1593,beforehand,in advance
-序,1594,preface,preface
-預,1595,deposit,deposit (in someone's care)
-野,1596,plains,field
-兼,1597,concurrently,concurrently
-嫌,1598,dislike,dislike
-鎌,1599,sickle,sickle
-謙,1600,self-effacing,humble
-廉,1601,bargain,bargain
-西,1602,west,west
-価,1603,value,value
-要,1604,need,needed
-腰,1605,loins,waist
-票,1606,ballot,vote
-漂,1607,drift,drift
-標,1608,signpost,signpost
-栗,1609,chestnut,chestnut
-遷,1610,transition,transition
-覆,1611,capsize,overturn
-煙,1612,smoke,smoke
-南,1613,south,south
-楠,1614,camphor tree,camphor tree
-献,1615,offering,donate
-門,1616,gates,gate
-問,1617,question,question
-閲,1618,review,review (of a document)
-閥,1619,clique,clique
-間,1620,interval,interval
-簡,1621,simplicity,simple
-開,1622,open,open
-閉,1623,closed,closed
-閣,1624,tower,tall building
-閑,1625,leisure,time of leisure
-聞,1626,hear,hear
-潤,1627,wet,soaked
-欄,1628,column,column (in a newspaper)
-闘,1629,fight,fight to win
-倉,1630,godown,long-term warehouse
-創,1631,genesis,to originate
-非,1632,un-,go against
-俳,1633,haiku,haiku
-排,1634,repudiate,discharge
-悲,1635,sad,sad
-罪,1636,guilt,sin
-輩,1637,comrade,comrade
-扉,1638,front door,front door
-侯,1639,marquis,marquis
-候,1640,climate,season
-決,1641,decide,decide
-快,1642,cheerful,pleasant
-偉,1643,admirable,great
-違,1644,difference,different therefore wrong
-緯,1645,horizontal,latitude
-衛,1646,defense,defend
-韓,1647,Korea,Korea
-干,1648,dry,left to dry
-肝,1649,liver,liver
-刊,1650,publish,publish
-汗,1651,sweat,sweat
-軒,1652,flats,counter for houses
-岸,1653,beach,coast
-幹,1654,tree trunk,trunk
-芋,1655,potato,potato
-宇,1656,eaves,space
-余,1657,too much,be in excess
-除,1658,exclude,exclude
-徐,1659,gradually,gradually
-叙,1660,confer,describe
-途,1661,route,route
-斜,1662,diagonal,diagonal
-塗,1663,paint,paint
-束,1664,bundle,bundle
-頼,1665,trust,rely on
-瀬,1666,rapids,rapids
-勅,1667,imperial order,imperial order
-疎,1668,alienate,sparse
-速,1669,quick,fast
-整,1670,organize,put in order
-剣,1671,saber,sword
-険,1672,precipitous,risky and steep
-検,1673,examination,examine
-倹,1674,frugal,frugal
-重,1675,heavy,heavy
-動,1676,move,move
-勲,1677,meritorious deed,meritorious deed
-働,1678,work,work
-種,1679,species,seed
-衝,1680,collide,collide
-薫,1681,fragrant,fragrant herb
-病,1682,ill,illness
-痴,1683,stupid,stupid
-痘,1684,pox,smallpox
-症,1685,symptoms,medical condition
-疾,1686,rapidly,rapidly
-痢,1687,diarrhea,diarrhea
-疲,1688,tired,tired
-疫,1689,epidemic,epidemic
-痛,1690,pain,pain
-癖,1691,mannerism,habit
-匿,1692,hide,hide
-匠,1693,artisan,craft
-医,1694,doctor,medical
-匹,1695,equal,small animal
-区,1696,ward,district
-枢,1697,hinge,hinge
-殴,1698,assault,punch
-欧,1699,Europe,Europe
-抑,1700,repress,suppress
-仰,1701,faceup,look up to
-迎,1702,welcome,welcome
-登,1703,ascend,climb
-澄,1704,lucidity,clear
-発,1705,discharge,let out
-廃,1706,abolish,unused
-僚,1707,colleague,colleague
-寮,1708,dormitory,dormitory
-療,1709,heal,therapy
-彫,1710,carve,carve
-形,1711,shape,shape
-影,1712,shadow,shadow
-杉,1713,cedar,cedar
-彩,1714,coloring,color scheme
-彰,1715,patent,show publicly
-彦,1716,lad,lad
-顔,1717,face,face
-須,1718,ought,necessary
-膨,1719,swell,bulge
-参,1720,visit,admit defeat
-惨,1721,wretched,misery
-修,1722,discipline,discipline (of study)
-珍,1723,rare,unusual
-診,1724,checkup,diagnose
-文,1725,sentence,written sentence
-対,1726,vis-a-vis,opposite
-紋,1727,family crest,crest (often of a family)
-蚊,1728,mosquito,mosquito
-斉,1729,adjusted,simultaneously
-剤,1730,dose,chemical substance
-済,1731,finish,settle
-斎,1732,purification,religious purification
-粛,1733,solemn,restraint
-塁,1734,bases,base
-楽,1735,music,comfort
-薬,1736,medicine,medicine
-率,1737,ratio,ratio
-渋,1738,astringent,bitter
-摂,1739,vicarious,absorb (nutrients or knowledge)
-央,1740,center,center
-英,1741,England,England
-映,1742,reflect,reflect
-赤,1743,red,red
-赦,1744,pardon,pardon
-変,1745,unusual,change
-跡,1746,tracks,traces (of something moving or being done)
-蛮,1747,barbarian,savage
-恋,1748,romance,romantic love
-湾,1749,gulf,gulf
-黄,1750,yellow,yellow
-横,1751,sideways,sideways
-把,1752,grasp,grasp
-色,1753,color,color
-絶,1754,discontinue,cut off
-艶,1755,glossy,glossy
-肥,1756,fertilizer,fertilizer
-甘,1757,sweet,sweet
-紺,1758,navy blue,navy blue
-某,1759,so-and-so,known but unnamed
-謀,1760,conspire,conspire
-媒,1761,mediator,mediator
-欺,1762,deceit,deceive
-棋,1763,chess piece,chess piece
-旗,1764,national flag,flag
-期,1765,period,period (of time)
-碁,1766,Go,Go (the game)
-基,1767,fundamentals,fundamental
-甚,1768,tremendously,tremendously
-勘,1769,intuition,intuition
-堪,1770,withstand,endure
-貴,1771,precious,noble
-遺,1772,bequeath,legacy
-遣,1773,dispatch,use (something intangible)
-舞,1774,dance,traditional dance
-無,1775,nothingness,nothing
-組,1776,association,organized group
-粗,1777,coarse,rough
-租,1778,tariff,tariff
-祖,1779,ancestor,grandparent
-阻,1780,thwart,get in one's way
-査,1781,investigate,inspect
-助,1782,help,help
-宜,1783,best regards,best regards
-畳,1784,tatami mat,tatami mat
-並,1785,row,line up
-普,1786,universal,normal
-譜,1787,musical score,record
-湿,1788,damp,moisture
-顕,1789,appear,appear
-繊,1790,slender,fiber-like
-霊,1791,spirits,ghost
-業,1792,profession,business
-撲,1793,slap,hit (with a blunt object)
-僕,1794,me,me (boyish)
-共,1795,together,together
-供,1796,submit,offer
-異,1797,uncommon,different
-翼,1798,wing,wing
-洪,1799,deluge,flood
-港,1800,harbor,port
-暴,1801,outburst,outburst
-爆,1802,bomb,explosion
-恭,1803,respect,respectful
-選,1804,elect,select
-殿,1805,Mr.,palace
-井,1806,well,a well
-囲,1807,surround,surround
-耕,1808,till,plow (the soil)
-亜,1809,Asia,Asia
-悪,1810,bad,bad
-円,1811,circle,one yen coin
-角,1812,angle,angle
-触,1813,contact,touch
-解,1814,unravel,unravel
-再,1815,again,one more time
-講,1816,lecture,lecture
-購,1817,subscription,subscribe
-構,1818,posture,be concerned about
-溝,1819,gutter,ditch
-論,1820,argument,argument
-倫,1821,ethics,moral principles
-輪,1822,wheel,ring
-偏,1823,partial,biased
-遍,1824,everywhere,everywhere
-編,1825,compilation,knit together
-冊,1826,tome,volume (of a book)
-典,1827,code,canon
-氏,1828,family name,family name
-紙,1829,paper,paper
-婚,1830,marriage,marriage
-低,1831,lower,low
-抵,1832,resist,resist
-底,1833,bottom,bottom
-民,1834,people,people
-眠,1835,sleep,to sleep
-捕,1836,catch,capture
-浦,1837,bay,bay
-蒲,1838,bullrush,cattail (a type of plant)
-舗,1839,shop,store
-補,1840,supplement,supplementary
-邸,1841,residence,residence
-郭,1842,enclosure,enclosure
-郡,1843,county,county
-郊,1844,outskirts,outskirts
-部,1845,section,section
-都,1846,metropolis,metropolis
-郵,1847,mail,mail
-邦,1848,home country,home country
-郷,1849,hometown,hometown
-響,1850,echo,echo
-郎,1851,son,young guy
-廊,1852,corridor,corridor
-盾,1853,shield,shield
-循,1854,sequential,sequential
-派,1855,faction,belonging to a group
-脈,1856,vein,vein
-衆,1857,masses,a lot of people
-逓,1858,parcel post,parcel post
-段,1859,grade,step
-鍛,1860,forge,forge
-后,1861,empress,empress
-幻,1862,phantasm,illusion
-司,1863,director,boss
-伺,1864,pay respects,inquire (humble)
-詞,1865,parts of speech,part of speech
-飼,1866,domesticate,keep a pet
-嗣,1867,heir,heir
-舟,1868,boat,boat
-舶,1869,liner,oceangoing ship
-航,1870,navigate,navigation
-般,1871,carrier,as any other
-盤,1872,tray,plate
-搬,1873,conveyor,haul
-船,1874,ship,ship
-艦,1875,warship,warship
-艇,1876,rowboat,rowboat
-瓜,1877,melon,melon
-弧,1878,arc,arc
-孤,1879,orphan,orphan
-繭,1880,cocoon,cocoon
-益,1881,benefit,benefit
-暇,1882,spare time,free time
-敷,1883,spread,spread out
-来,1884,come,come
-気,1885,spirit,state of mind
-汽,1886,vapor,steam
-飛,1887,fly,fly
-沈,1888,sink,sink
-妻,1889,wife,wife
-衰,1890,decline,decline
-衷,1891,inmost,inmost
-面,1892,mask,surface
-革,1893,leather,leather
-靴,1894,shoes,shoes
-覇,1895,hegemony,supremacy
-声,1896,voice,voice
-呉,1897,give,give
-娯,1898,recreation,recreation
-誤,1899,mistake,error
-蒸,1900,steam,steamy
-承,1901,acquiesce,to be told
-函,1902,bin,shipping box
-極,1903,poles,extreme
-牙,1904,tusk,fang
-芽,1905,bud,bud
-邪,1906,wicked,wicked
-雅,1907,gracious,refined
-釈,1908,explanation,explanation
-番,1909,turn,place in a series
-審,1910,hearing,explain in detail
-翻,1911,flip,flip over
-藩,1912,clan,feudal clan
-毛,1913,fur,fur
-耗,1914,decrease,decrease
-尾,1915,tail,tail
-宅,1916,home,home
-託,1917,consign,entrust
-為,1918,do,for the sake of
-偽,1919,falsehood,fake
-長,1920,long,long
-張,1921,lengthen,lengthen
-帳,1922,notebook,notebook
-脹,1923,dilate,dilate
-髪,1924,hair of the head,hair
-展,1925,unfold,exhibit
-喪,1926,miss,loss of something dear
-巣,1927,nest,nest
-単,1928,simple,single
-戦,1929,war,war
-禅,1930,Zen,Zen
-弾,1931,bullet,bullet
-桜,1932,cherry tree,cherry tree
-獣,1933,animal,beast
-脳,1934,brain,brain
-悩,1935,trouble,worry
-厳,1936,stern,strict
-鎖,1937,chain,chain
-挙,1938,raise,raise and present
-誉,1939,reputation,honor
-猟,1940,game hunting,hunt wildlife
-鳥,1941,bird,bird
-鳴,1942,chirp,to ring
-鶴,1943,crane,crane
-烏,1944,crow,crow
-蔦,1945,vine,vine
-鳩,1946,pigeon,pigeon
-鶏,1947,chicken,chicken
-島,1948,island,island
-暖,1949,warmth,warm
-媛,1950,beautiful woman,woman of noble birth
-援,1951,abet,assist
-緩,1952,slacken,become loose
-属,1953,belong,belong to
-嘱,1954,entrust,request
-偶,1955,accidentally,occasional
-遇,1956,interview,encounter
-愚,1957,foolish,foolish
-隅,1958,corner,corner (of a room)
-逆,1959,inverted,reverse
-塑,1960,model,take form
-岡,1961,Mount,rising ground
-鋼,1962,steel,steel
-綱,1963,hawser,sumo belt
-剛,1964,sturdy,sturdy
-缶,1965,tin can,tin can
-陶,1966,pottery,pottery
-揺,1967,swing,shake
-謡,1968,Noh chanting,noh chanting
-就,1969,concerning,set about
-懇,1970,sociable,sincere
-墾,1971,groundbreaking,groundbreaking
-免,1972,excuse,be exempt
-逸,1973,elude,deviate (from something)
-晩,1974,nightfall,evening (after sunset)
-勉,1975,exertion,try hard
-象,1976,elephant,elephant
-像,1977,statue,statue
-馬,1978,horse,horse
-駒,1979,pony,chess piece
-験,1980,verification,verification
-騎,1981,equestrian,horseman
-駐,1982,parking,stop and park
-駆,1983,drive,to dash
-駅,1984,station,train station
-騒,1985,boisterous,make noise
-駄,1986,burdensome,low quality
-驚,1987,wonder,surprise
-篤,1988,fervent,fervent
-騰,1989,inflation,inflation
-虎,1990,tiger,tiger
-虜,1991,captive,captive
-膚,1992,skin,skin (medical)
-虚,1993,void,without a physical form
-戯,1994,frolic,playful
-虞,1995,uneasiness,uneasiness
-慮,1996,prudence,consider carefully
-劇,1997,drama,drama
-虐,1998,tyrannize,oppress
-鹿,1999,deer,deer
-薦,2000,recommend,recommend (something or someone)
-慶,2001,jubilation,congratulate
-麗,2002,lovely,lovely
-熊,2003,bear,bear
-能,2004,ability,ability
-態,2005,attitude,seems like
-寅,2006,sign of the tiger,sign of the tiger
-演,2007,performance,performance
-辰,2008,sign of the dragon,sign of the dragon
-辱,2009,embarrass,disgrace
-震,2010,quake,tremors
-振,2011,shake,to wave
-娠,2012,with child,be pregnant
-唇,2013,lips,lips
-農,2014,agriculture,farming
-濃,2015,concentrated,thick (consistency)
-送,2016,send off,send something
-関,2017,connection,connected to
-咲,2018,blossom,blossom
-鬼,2019,ghost,oni
-醜,2020,ugly,ugly
-魂,2021,soul,soul
-魔,2022,witch,demon
-魅,2023,fascination,charm
-塊,2024,clod,lump
-襲,2025,attack,assault
-嚇,2026,upbraid,intimidate
-朕,2027,majestic plural,majestic plural
-雰,2028,atmosphere,atmosphere
-箇,2029,item,item
-錬,2030,tempering,temper
-遵,2031,abide by,conform
-罷,2032,quit,to cease
-屯,2033,barracks,barracks
-且,2034,moreover,there is more
-藻,2035,seaweed,seaweed
-隷,2036,slave,slave
-癒,2037,healing,heal
-丹,2038,cinnabar,rust colored
-潟,2039,lagoon,lagoon
-丑,2040,sign of the cow,sign of the cow
-卯,2041,sign of the hare,sign of the hare
-巳,2042,sign of the snake,sign of the snake
-此,2043,this here,this here
-柴,2044,brushwood,brushwood
-砦,2045,fort,fort
-些,2046,whit,whit
-髭,2047,beard,beard
-璃,2048,crystal,crystal
-禽,2049,fowl,fowl
-檎,2050,apple,apple
-憐,2051,sympathize with,sympathize with
-燐,2052,phosphorus,phosphorus
-麟,2053,camelopard,camelopard
-鱗,2054,scaled,scaled
-奄,2055,encompassing,obstruct (by covering)
-庵,2056,hermitage,hermitage
-掩,2057,shrouded,concealed
-俺,2058,myself,me (manly)
-悛,2059,make amends,make amends
-駿,2060,steed,excellent horse
-峻,2061,steep,steep mountain
-竣,2062,complete a job,complete a job
-臼,2063,mortar,mortar (a hollow cup)
-舅,2064,father-in-law,father-in-law
-鼠,2065,mouse,mouse
-鑿,2066,bore,bore
-毀,2067,break,demolish
-艘,2068,small craft,small craft
-犀,2069,rhinoceros,rhinoceros
-皐,2070,lunar month,lunar month
-脊,2071,spinal column,backbone
-畷,2072,rice-field footpath,rice-field footpath
-綴,2073,mend,mend
-爾,2074,let it be,let it be
-璽,2075,imperial seal,imperial seal
-鎧,2076,suit of armor,suit of armor
-凱,2077,triumph,triumph
-妖,2078,bewitched,supernatural allure
-沃,2079,irrigate,irrigate
-呑,2080,quaff,swallow whole
-韮,2081,leek,leek
-籤,2082,lottery,lottery
-懺,2083,penitential,penitential
-芻,2084,hay,hay
-雛,2085,chick,chick
-趨,2086,scurry,run towards
-尤,2087,understandably,plausible
-稽,2088,training,training
-厖,2089,immense,immense
-采,2090,grab,colorful dice
-或,2091,a  (a certain),a certain
-斬,2092,chop off,slice to kill
-兎,2093,rabbit,rabbit
-也,2094,est,to be (archaic)
-尭,2095,lofty,lofty
-巴,2096,comma-design,swirly pattern
-甫,2097,offspring,start of
-疋,2098,critters,small animal (archaic)
-菫,2099,violet,violet
-曼,2100,mandala,mandala
-巾,2101,towel,piece of fabric
-云,2102,quote,quote
-卜,2103,augury,crooked divining rod
-喬,2104,heaven-high,tall
-莫,2105,shalt,want not
-倭,2106,Yamato,Yamato
-侠,2107,chivalry,chivalry
-倦,2108,fed up,be tired of and have enough
-佼,2109,comely,comely
-俄,2110,abrupt,abrupt
-佃,2111,work a field,work a field
-伶,2112,minstrel,minstrel
-仔,2113,animal offspring,animal offspring
-仇,2114,foe,foe
-伽,2115,look after,look after
-僅,2116,trifle,trifle
-僻,2117,biased,biased
-儲,2118,make a profit,make a profit
-倖,2119,bliss,happy person
-僑,2120,emigrant,emigrant
-侶,2121,partner,partner
-伎,2122,performing artist,performing artist
-侃,2123,integrity,integrity
-倶,2124,mate,mate
-侭,2125,as is,as is
-佑,2126,adjutant,adjutant
-俣,2127,fork in a road,fork in a road
-傭,2128,hire,hired for money
-偲,2129,memorial,memorial
-脩,2130,dried meat,dried meat
-倅,2131,my son,my son
-做,2132,make do,make do
-凄,2133,nifty,amazing
-冴,2134,sharp,clarity
-凋,2135,wilt,wilt
-凌,2136,pull through,pull through
-冶,2137,metallurgy,metallurgy
-凛,2138,stately,stately
-凧,2139,kite,kite
-凪,2140,lull,lull
-夙,2141,earlybird,earlybird
-鳳,2142,phoenix,phoenix
-劉,2143,slaughter,slaughter
-刹,2144,moment,pagoda
-剥,2145,peel off,peel off
-剃,2146,shave,shave
-匂,2147,aroma,scent
-勾,2148,flexed,flexed
-厭,2149,despondent,be bored of and have enough
-雁,2150,wild goose,wild goose
-贋,2151,counterfeit,counterfeit
-厨,2152,kitchen,kitchen
-仄,2153,insinuate,insinuate
-哨,2154,scout,scout
-嘲,2155,derision,mockery
-咎,2156,reprehend,reprehend
-囁,2157,whisper,whisper
-喋,2158,chatter,chat
-咽,2159,windpipe,windpipe
-嘩,2160,quarrel,quarrel
-噂,2161,gossip,rumor
-咳,2162,cough,cough
-喧,2163,clamor,noisy
-喉,2164,throat,throat
-唾,2165,saliva,saliva
-叩,2166,bash,hit (with a hand)
-嘘,2167,fib,lie
-啄,2168,peck at,peck at
-呪,2169,curse,curse
-吠,2170,barking,barking
-吊,2171,dangle,dangle
-噛,2172,chew,bite
-叶,2173,within my ability,become true (a wish or a prayer)
-吻,2174,sides of the mouth,sides of the mouth
-吃,2175,stammer,stammer
-噺,2176,spin a tale,spin a tale
-噌,2177,miso,miso
-唄,2178,pop song,shamisen song
-叱,2179,scold,scold
-邑,2180,city walls,city walls
-呆,2181,dumbfounded,dumbfounded
-喰,2182,ingest,feed on (something)
-埴,2183,clay,clay
-坤,2184,authochthonous,authochthonous
-堆,2185,piled high,piled high
-壕,2186,dugout,trench (not filled with water)
-垢,2187,blemish,filth
-坦,2188,flat,even
-埠,2189,wharf,wharf
-填,2190,stuff up,stuff something with
-堰,2191,dam,dam
-堵,2192,railing,railing
-嬰,2193,suckling infant,suckling infant
-姦,2194,violate,violate
-妬,2195,jealous,malicious jealousy
-婢,2196,handmaiden,handmaiden
-婉,2197,well finished,graceful
-娼,2198,harlot,whore
-妓,2199,courtesan,courtesan
-娃,2200,fair,fair
-姪,2201,niece,niece
-嫉,2202,envy,hateful jealousy
-嬬,2203,mistress,mistress
-姥,2204,aged woman,elderly woman
-姑,2205,mother-in-law,mother-in-law
-姐,2206,young miss,young miss
-嬉,2207,overjoyed,delighted
-孕,2208,expecting,be filled with
-孜,2209,assiduous,assiduous
-宥,2210,soothe,soothe
-寓,2211,imply,imply
-宏,2212,extensive,extensive
-牢,2213,jail,jail
-塞,2214,block up,blockage
-宋,2215,Sung dynasty,Sung dynasty
-宍,2216,venison,venison
-屠,2217,butchering,butcher
-屁,2218,fart,fart
-屑,2219,rubbish,rubbish
-尻,2220,buttocks,butt
-屡,2221,frequently,frequently
-屍,2222,corpse,corpse
-屏,2223,folding screen,folding screen
-嵩,2224,high-reaching,high-reaching
-崚,2225,rugged mountains,rugged mountains
-峨,2226,high mountain,high mountain
-崖,2227,bluffs,bluffs
-嶺,2228,mountaintop,mountain ridge
-嵌,2229,fit into,fit into
-嵯,2230,rocky,rocky
-帖,2231,quire,quire
-幡,2232,banner,banner
-幟,2233,pennant,pennant
-庖,2234,cleaver,cleaver
-廓,2235,licensed quarters,licensed quarters
-庇,2236,overhang,overhang
-鷹,2237,hawk,hawk
-庄,2238,shire,manor
-廟,2239,tomb sanctuary,tomb sanctuary
-彊,2240,strengthen,strengthen
-弥,2241,more and more,increasingly extend
-弛,2242,loosen,relax (tension)
-粥,2243,rice gruel,rice gruel
-挽,2244,lathe,lathe
-撞,2245,bump into,bump into
-扮,2246,disguise,disguise
-掠,2247,pillage,pillage
-挨,2248,shove,push open
-掴,2249,clutch,grab
-捺,2250,impress,impress into
-捻,2251,wrenching,wrenching
-掻,2252,scratch,to scratch
-撰,2253,assortment,compilation
-拭,2254,wipe,wipe
-揃,2255,muster,make a full set
-捌,2256,deal with,deal with
-撹,2257,churn up,churn up
-摺,2258,rubbing,rub and leave material
-按,2259,press down on,press down on
-捉,2260,nab,grab and hold
-拶,2261,imminent,squeeze fingers
-播,2262,disseminate,disseminate
-揖,2263,interpretation,interpretation
-托,2264,receptable,receptable
-捧,2265,dedicate,dedicate with both hands
-撚,2266,twirl,twirl
-挺,2267,counter for tools,counter for tools
-擾,2268,commotion,commotion
-捗,2269,make headway,make headway
-撫,2270,petting,petting
-撒,2271,sprinkle,sprinkle
-擢,2272,outstanding,outstanding
-捷,2273,spoils,spoils
-抉,2274,gouge out,take out what's buried inside
-怯,2275,wince,recoil in fear
-惟,2276,ponder,ponder
-惚,2277,infatuation,fall in love
-怜,2278,quickwitted,quickwitted
-惇,2279,considerate,considerate
-憧,2280,yearn,yearn for
-恰,2281,as if,as if
-恢,2282,enlarge,enlarge
-悌,2283,respect for elders,respect for elders
-湧,2284,bubble up,spring forth
-澪,2285,canal,canal
-洸,2286,glistening,glistening
-滉,2287,bounding main,bounding main
-漱,2288,gargle,gargle
-洲,2289,continent,sandbank
-洵,2290,swirling waters,swirling waters
-滲,2291,seep,seep
-洒,2292,rinse,rinse
-沐,2293,douse,douse
-泪,2294,teardrops,teardrops
-渾,2295,gushing,gushing
-沙,2296,grains of sand,grains of sand
-涜,2297,blaspheme,desecrate
-淫,2298,lewd,lewd
-梁,2299,roofbeam,roof beam
-澱,2300,sediment,sediment
-氾,2301,widespread,widespread
-洛,2302,old Kyoto,old capital
-汝,2303,thou,thou
-漉,2304,filter,filter
-瀕,2305,on the verge of,on the verge of
-濠,2306,moat,trench (filled with water)
-溌,2307,spray,spray
-溺,2308,drowning,to drown
-湊,2309,port,piece together
-淋,2310,solitude,solitude
-浩,2311,abounding,vast and great
-汀,2312,water’s edge,water’s edge
-鴻,2313,large goose,large goose
-潅,2314,souse,souse
-溢,2315,brimming,overflow
-汰,2316,cleanse,sieve through
-湛,2317,inundate,inundate
-淳,2318,immaculate,immaculate
-潰,2319,defile,crush
-渥,2320,moisten,moisten
-灘,2321,rough seas,rough seas
-汲,2322,draw water,draw water
-瀞,2323,river pool,river pool
-溜,2324,cumulation,accumulate
-渕,2325,abyss,abyss
-沌,2326,chaos,primeval chaos
-汎,2327,pan-,far reaching
-濾,2328,strainer,strainer
-濡,2329,drench,get wet
-淀,2330,eddy,stagnate
-涅,2331,fabrication,fabrication
-釜,2332,cauldron,cauldron
-斧,2333,hatchet,hatchet
-爺,2334,grandpa,old geezer
-猾,2335,sly,sly
-猥,2336,indecent,indecent
-狡,2337,cunning,cunning
-狸,2338,racoon dog,racoon dog
-狼,2339,wolf,wolf
-狽,2340,flustered,lose one's presence of mind
-狗,2341,pup,pup
-狐,2342,fox,fox
-狛,2343,a-un,a-un
-狙,2344,aim at,aim at
-獅,2345,lion,lion
-狒,2346,baboon,baboon
-莨,2347,tobacco,tobacco
-茉,2348,jasmine,jasmine
-莉,2349,hawthorn,hawthorn
-苺,2350,strawberry,strawberry
-萩,2351,bush clover,bush clover
-藝,2352,technique (old),art [old]
-薙,2353,trim,mow down
-蓑,2354,straw raincoat,straw raincoat
-萎,2355,numb,wither
-苔,2356,moss,moss
-蕩,2357,prodigal,prodigal
-蔽,2358,cover over,to cover
-蔓,2359,tendril,tendril
-蓮,2360,lotus,lotus (a type of flower)
-芙,2361,lotus flower,lotus flower
-蓉,2362,lotus blossom,lotus blossom
-蘭,2363,orchid,orchid
-芦,2364,hollow reed,hollow reed
-薯,2365,yam,yam
-菖,2366,iris,iris (flower)
-蕉,2367,banana,banana
-芯,2368,wick,wick
-蕎,2369,buckwheat,buckwheat
-蕗,2370,butterbur,butterbur
-藍,2371,indigo,indigo
-茄,2372,eggplant,eggplant
-苛,2373,bullying,bullying
-蔭,2374,behind the scenes,shaded by grass
-蓬,2375,wormwood,wormwood
-芥,2376,mustard,trash
-萌,2377,germinate,sprout
-葡,2378,grape,grape
-萄,2379,grape vine,grape vine
-蘇,2380,resurrect,resurrect
-蕃,2381,grow wild,grow wild
-苓,2382,cocklebur,cocklebur
-菰,2383,rush mat,rush mat
-蒙,2384,darken,ignorance
-茅,2385,grassy reed,grassy reed
-芭,2386,plantain,plantain
-苅,2387,mow,trim grass
-蓋,2388,lid,lid
-葱,2389,onion,onion
-蔑,2390,revile,scorn
-葵,2391,hollyhock,hollyhock
-葺,2392,shingling,shingling
-蕊,2393,stamen,stamen
-茸,2394,mushroom,mushroom
-蒔,2395,sowing,sow seeds
-芹,2396,parsley,parsley
-苫,2397,thatching,thatching
-葛,2398,kudzu,kudzu (a type of plant)
-蒼,2399,pale blue,pale blue
-藁,2400,straw,straw
-蕪,2401,turnip,turnip
-藷,2402,sweet potato,sweet potato
-薮,2403,quack,quack
-蒜,2404,garlic,garlic
-蕨,2405,bracken,bracken
-蔚,2406,grow plentiful,grow plentiful
-茜,2407,madder red,madder red
-莞,2408,candle rush,smile sweetly
-蒐,2409,collector,collector
-菅,2410,sedge,sedge (a type of plant)
-葦,2411,ditch reed,ditch reed
-迪,2412,Way,road to enlightenment
-辿,2413,track down,track down
-這,2414,crawl,crawl
-迂,2415,detour,detour
-遁,2416,elude,elude
-逢,2417,tryst,meet face-to-face
-遥,2418,far off,far off
-遼,2419,remote,remote
-逼,2420,pressing,pressing
-迄,2421,until,until
-遜,2422,modest,modest
-逗,2423,standstill,standstill
-郁,2424,cultured,cultured
-鄭,2425,courtesy,courtesy
-隙,2426,chink,gap
-隈,2427,nook,nook
-憑,2428,possessed,possessed
-惹,2429,attract,attract
-悉,2430,without exception,without exception
-忽,2431,instantaneously,instantaneously
-惣,2432,firstborn son,firstborn son
-愈,2433,in the nick of time,in the nick of time
-恕,2434,sensitive,sensitive
-昴,2435,overarching,overarching
-晋,2436,progress,Jin dynasty
-曖,2437,equivocal,unclear
-晟,2438,aglow,aglow
-暈,2439,halo,halo
-暉,2440,glitter,glitter
-旱,2441,dry weather,dry weather
-晏,2442,clear skies,clear skies
-晨,2443,morrow,morrow
-晒,2444,bleaching,bleaching
-昧,2445,obscure,vague
-晃,2446,limpid,sun rays
-曝,2447,air out,exposure
-曙,2448,dawn,daybreak
-昂,2449,elevate,get worked up
-旺,2450,effulgent,full of vigor
-昏,2451,dusk,lose consciousness
-晦,2452,last day of the month,last day of the month
-腎,2453,kidney,kidney
-股,2454,thigh,thighs
-膿,2455,pus,pus
-腑,2456,viscera,viscera
-胱,2457,bladder,bladder
-胚,2458,embryo,embryo
-肛,2459,anus,anal
-臆,2460,cowardice,be hesitant
-膝,2461,knee,knee
-脆,2462,fragile,fragile
-肋,2463,rib,rib
-肘,2464,elbow,elbow
-腔,2465,body cavity,body cavity
-腺,2466,gland,gland
-腫,2467,tumor,become swollen
-膳,2468,dining tray,dining tray
-肱,2469,armrest,armrest
-胡,2470,uncivilized,ancient barbarian
-楓,2471,maple tree,maple tree
-枕,2472,pillow,pillow
-楊,2473,purple willow,purple willow
-椋,2474,Oriental elm,Oriental elm
-榛,2475,hazel,hazel (a type of small tree)
-櫛,2476,comb,comb
-槌,2477,wooden hammer,wooden hammer
-樵,2478,mallet,mallet
-梯,2479,ladder,ladder
-椅,2480,chair,chair
-柿,2481,persimmon,persimmon
-柑,2482,citrus tree,citrus tree
-桁,2483,girder,number of digits
-杭,2484,picket,picket
-柊,2485,holly,holly
-柚,2486,citron,citron
-椀,2487,wooden bowl,wooden bowl
-栂,2488,hemlock,hemlock
-柾,2489,spindle tree,spindle tree
-榊,2490,sacred Shinto tree,sacred tree
-樫,2491,evergreen oak,evergreen oak
-槙,2492,Chinese black pine,Chinese black pine
-楢,2493,Japanese oak,Japanese oak
-橘,2494,mandarin orange,mandarin orange
-桧,2495,Japanese cypress,Japanese cypress
-棲,2496,roost,inhabit
-栖,2497,nestle,inhabit a nest
-梗,2498,spiny,round tube
-桔,2499,bellflower,bellflower
-杜,2500,temple grove,temple grove
-杷,2501,grain rake,farmer's rake
-梶,2502,oar,oar
-杵,2503,wooden pestle,wooden pestle
-杖,2504,cane,cane
-椎,2505,sweet oak,part of the spine
-樽,2506,barrel,barrel
-柵,2507,palisade,palisade
-櫓,2508,turret,watchtower (with archers)
-橿,2509,sturdy oak,sturdy oak
-杓,2510,wooden ladle,wooden ladle
-李,2511,damson,plum
-棉,2512,raw cotton,raw cotton
-楯,2513,escutcheon,wooden shield
-榎,2514,hackberry,hackberry
-樺,2515,birch,birch
-槍,2516,lance,spear
-柘,2517,wild mulberry,wild mulberry
-梱,2518,bale,bale
-枇,2519,loquat,loquat
-樋,2520,downspout,downspout
-橇,2521,sled,sled
-槃,2522,enjoyment,enjoyment
-栞,2523,bookmark,bookmark
-椰,2524,coconut tree,coconut tree
-檀,2525,sandalwood,sandalwood
-樗,2526,plotosid,plotosid
-槻,2527,zelkova,zelkova
-椙,2528,cryptomeria,cryptomeria
-彬,2529,copious,copious
-桶,2530,bucket,bucket
-楕,2531,ellipse,ellipse
-樒,2532,star-anise,star-anise
-毬,2533,furball,furball
-燿,2534,twinkle,twinkle
-燎,2535,watchfire,watchfire
-炬,2536,torch,torch
-焚,2537,kindle,kindle
-灸,2538,moxa,moxa
-燭,2539,candlelight,candlelight
-煽,2540,fanning,fan flames
-煤,2541,soot,soot
-煉,2542,firing,refine over a flame
-燦,2543,dazzling,brilliant
-灼,2544,refulgent,refulgent
-烙,2545,branding,branding
-焔,2546,flames,flames
-熔,2547,fuse metal,fuse metal
-煎,2548,roast,dry-roasted
-烹,2549,stew,stew
-牽,2550,tug,tug
-牝,2551,female animal,female animal
-牡,2552,male animal,male animal
-瑶,2553,precious stone,precious stone
-琳,2554,chime,chime
-瑠,2555,marine blue,marine blue
-斑,2556,speckled,spot
-琉,2557,lapis lazuli,lapis lazuli
-弄,2558,tinker with,tinker with
-瑳,2559,burnish,burnish
-琢,2560,hone,hone
-珊,2561,coral,coral
-瑚,2562,coral reef,coral reef
-瑞,2563,fortunate,good omen
-珪,2564,silicon,silicon
-玖,2565,jet,jet
-瑛,2566,crystal stone,crystal stone
-玩,2567,toy,toy
-玲,2568,tinkling,tinkling
-畏,2569,apprehensive,apprehensive
-畢,2570,lastly,lastly
-畦,2571,paddy-field ridge,paddy-field ridge
-痒,2572,itch,itch
-痰,2573,phlegm,phlegm
-疹,2574,measles,skin rash
-痔,2575,hemorrhoids,hemorrhoids
-癌,2576,cancer,cancer
-痩,2577,lose weight,lose weight
-痕,2578,scar,scar
-痺,2579,paralysis,paralysis
-眸,2580,apple of the eye,iris (of eye)
-眩,2581,dizzy,dazzling
-瞭,2582,obvious,unambiguous
-眉,2583,eyebrow,eyebrow
-雉,2584,pheasant,pheasant
-矩,2585,carpenter’s square,carpenter’s square
-磐,2586,crag,large rock in which the gods dwell
-碇,2587,grapnel,grapnel
-碧,2588,blue-green,blue-green
-硯,2589,inkstone,inkstone
-砥,2590,grindstone,whetstone
-碗,2591,teacup,teacup
-碍,2592,obstacle,obstacle
-碩,2593,illustrious,illustrious
-磯,2594,rocky beach,rocky beach
-砺,2595,whetstone,whetstone
-碓,2596,mill,mill
-禦,2597,fend off,fend off
-祷,2598,beseech,beseech
-祐,2599,ancestral tablet,ancestral tablet
-祇,2600,local god,earthly god
-祢,2601,ancestral shrine,ancestral shrine
-禄,2602,salarium,salary
-禎,2603,felicitation,felicitation
-秤,2604,balancing scales,balancing scales
-黍,2605,millet,millet
-禿,2606,bald,bald
-稔,2607,bear fruit,bear fruit
-稗,2608,crabgrass,crabgrass
-穣,2609,bumper crop,yielding abundantly
-稜,2610,imperial authority,imperial authority
-稀,2611,sparse,rare
-穆,2612,obeisant,obeisant
-窺,2613,peep,look through something narrow
-窄,2614,tight,tight
-窟,2615,cavern,den
-穿,2616,drill,drill
-竃,2617,kitchen stove,kitchen stove
-竪,2618,longness,longness
-颯,2619,rustling,rustling
-站,2620,outpost,outpost
-靖,2621,repose,repose
-妾,2622,concubine,concubine
-衿,2623,lapel,lapel
-裾,2624,hem,hem
-袷,2625,lined kimono,lined kimono
-袴,2626,pleated skirt,hakama
-襖,2627,sliding door,sliding door
-笙,2628,Chinese panpipe,Chinese panpipe
-筏,2629,raft,raft
-簾,2630,bamboo blinds,bamboo blinds
-箪,2631,rattan box,rattan box
-竿,2632,pole,pole
-箆,2633,spatula,spatula
-箔,2634,foil,foil
-笥,2635,wardrobe,wardrobe
-箭,2636,arrow shaft,arrow shaft
-筑,2637,ancient harp,ancient harp
-篭,2638,cage,basket [simplified]
-篠,2639,slender bamboo,dwarf bamboo
-箸,2640,chopsticks,chopsticks
-纂,2641,redaction,redaction
-竺,2642,bamboo cane,bamboo cane
-箕,2643,winnowing fan,winnowing fan
-笈,2644,backpack,backpack
-篇,2645,livraison,livraison
-筈,2646,should,should
-簸,2647,winnow,winnow
-粕,2648,settlings,settlings
-糟,2649,lees,lees
-糊,2650,paste,paste
-籾,2651,unhulled rice,unhulled rice
-糠,2652,rice bran,rice bran
-糞,2653,excrement,shit
-粟,2654,foxtail millet,foxtail millet
-繋,2655,link up,link together
-綸,2656,twine,twine
-絨,2657,carpet yarn,carpet yarn
-絆,2658,ties,ties
-緋,2659,scarlet,scarlet
-綜,2660,synthesis,synthesis
-紐,2661,string,string
-紘,2662,chinstrap,chinstrap
-纏,2663,summarize,summarize
-絢,2664,gorgeous,gorgeous
-繍,2665,embroidery,embroidery
-紬,2666,pongee,pongee
-綺,2667,ornate,ornate
-綾,2668,damask,design
-絃,2669,catgut,catgut
-綻,2670,come apart at the seams,come apart at the seams
-縞,2671,stripe,stripe
-綬,2672,gimp,gimp
-紗,2673,gossamer,gauze
-舵,2674,rudder,rudder
-舷,2675,gunwale,gunwale
-聯,2676,strung together,strung together
-聡,2677,attentive,clever-witted
-聘,2678,summons,summons
-耽,2679,addiction,become engrossed (in something)
-耶,2680,exclamation,exclamation
-蚤,2681,flea,flea
-蟹,2682,crab,crab
-蛋,2683,protein,protein
-蟄,2684,hibernation,hibernation
-蝿,2685,housefly,housefly
-蟻,2686,ant,ant
-蜂,2687,bee,bee
-蝋,2688,wax,wax
-蝦,2689,shrimp,shrimp
-蛸,2690,octopus,octopus
-螺,2691,screw,spiral
-蝉,2692,cicada,cicada
-蛙,2693,frog,frog
-蛾,2694,moth,moth
-蛤,2695,clam,clam
-蛭,2696,leech,leech
-蛎,2697,oyster,oyster
-罫,2698,ruled lines,ruled lines
-罵,2699,insult,insult
-袈,2700,stole,stole
-裟,2701,monk’s sash,monk’s sash
-戴,2702,accept humbly,accept humbly
-截,2703,incision,incision
-哉,2704,I wonder,archaic exclamation mark
-詢,2705,counsel,counsel
-諄,2706,polite,wordy
-讐,2707,vendetta,vendetta
-諌,2708,remonstrate,remonstrate
-謎,2709,riddle,riddle
-諒,2710,verify,verify
-讃,2711,compliment,compliment
-誰,2712,who?,who?
-訊,2713,query,query
-訣,2714,split up,decide to separate
-詣,2715,visit a shrine,visit a shrine
-諦,2716,give up,give up
-詮,2717,elucidate,be worthwhile
-詑,2718,prevarication,prevarication
-誼,2719,familiarity,familiarity
-謬,2720,fallible,fallible
-詫,2721,beg pardon,beg pardon
-諏,2722,advise,advise
-諺,2723,proverb,proverb
-誹,2724,slander,slander
-謂,2725,so-called,so-called
-諜,2726,secret agent,secret agent
-註,2727,footnote,footnote
-譬,2728,parable,parable
-轟,2729,rumble,roar
-輔,2730,reinforce,help out
-輻,2731,spoke,spoke of a wheel
-輯,2732,assemble,assemble
-貌,2733,countenance,facial features
-豹,2734,panther,leopard
-賎,2735,despicable,despicable
-貼,2736,affix,stick on
-貰,2737,get,get
-賂,2738,graft,bribe
-賑,2739,bustling,bustling
-躓,2740,stumble,stumble
-蹄,2741,hoof,hoof
-蹴,2742,kick,kick
-蹟,2743,vestiges,vestiges
-跨,2744,straddle,straddle
-跪,2745,kneel,kneel
-醤,2746,soy sauce,soy sauce
-醍,2747,whey,whey
-酎,2748,hooch,hooch
-醐,2749,ghee,ghee
-醒,2750,awakening,awakening
-醇,2751,strong sake,strong sake
-麺,2752,noodles,noodles
-麹,2753,malt,malted rice
-釦,2754,button,button
-銚,2755,keg,keg
-鋤,2756,plow,plow
-鍋,2757,pot,pot
-鏑,2758,arrowhead,arrowhead
-鋸,2759,hand saw,hand saw
-錐,2760,awl,awl
-鍵,2761,key,key
-鍬,2762,hoe,hoe
-鋲,2763,rivet,rivet
-錫,2764,tin,tin
-錨,2765,anchor,anchor
-釘,2766,nail,nail
-鑓,2767,javelin,javelin
-鋒,2768,sword’s point,sword’s point
-鎚,2769,hammer,metal hammer
-鉦,2770,carillion,carillion
-錆,2771,rust,rust
-鍾,2772,cluster,bronze jar
-鋏,2773,scissors,scissors
-閃,2774,flash,flash
-悶,2775,agony,writhe in pain
-閤,2776,side gate,side gate
-闇,2777,pitch dark,pitch-black darkness
-雫,2778,trickle,trickle
-霞,2779,haze,haze
-翰,2780,quill,quill
-斡,2781,auspices,auspices
-鞍,2782,saddle,saddle
-鞭,2783,whip,whip
-鞘,2784,saddle straps,scabbard
-鞄,2785,briefcase,briefcase
-靭,2786,pliable,pliable
-鞠,2787,terminate,terminate
-頓,2788,immediate,immediate
-顛,2789,overturn,turn around
-穎,2790,brush tip,sharp tip
-頃,2791,about that time,around that time
-頬,2792,cheek,cheek
-頗,2793,exceedingly,exceedingly
-頌,2794,accolade,accolade
-顎,2795,chin,chin
-頚,2796,neck and throat,neck and throat
-餌,2797,feed,animal food
-餐,2798,repast,repast
-饗,2799,feast,feast
-蝕,2800,eclipse,consumed by worms
-飴,2801,sweets,(hard) candy
-餅,2802,mochi,mochi (a sticky rice cake)
-駕,2803,stretcher,stretcher
-騨,2804,piebald,piebald
-馳,2805,rush,rush (when going somewhere)
-騙,2806,cheat,deceive through words
-馴,2807,tame,become used to
-駁,2808,rebuttal,rebuttal
-駈,2809,gallop,gallop
-驢,2810,donkey,donkey
-鰻,2811,eel,eel
-鯛,2812,sea bream,sea bream
-鰯,2813,sardine,sardine
-鱒,2814,trout,trout
-鮭,2815,salmon,salmon
-鮪,2816,tuna,tuna
-鮎,2817,sweet smelt,sweetfish
-鯵,2818,horse mackerel,horse mackerel
-鱈,2819,cod,cod
-鯖,2820,mackerel,mackerel
-鮫,2821,shark,shark
-鰹,2822,bonito,bonito
-鰍,2823,bullhead,bullhead
-鰐,2824,alligator,crocodile
-鮒,2825,crucian,crucian
-鮨,2826,sushi,sushi
-鰭,2827,fish fin,fish fin
-鴎,2828,seagull,seagull
-鵬,2829,roc,large mythical bird
-鸚,2830,parakeet,parakeet
-鵡,2831,parrot,parrot
-鵜,2832,cormorant,cormorant
-鷺,2833,heron,heron
-鷲,2834,eagle,eagle
-鴨,2835,wild duck,duck
-鳶,2836,kite falcon,black kite (a type of bird)
-梟,2837,owl,owl
-塵,2838,dust,dust
-麓,2839,foot of a mountain,foot of a mountain
-麒,2840,giraffe,giraffe
-冥,2841,Hades,realm of the dead
-瞑,2842,close the eyes,close one's eyes
-暝,2843,murky,blot out the sun
-坐,2844,sitting in meditation,sitting around an earth pillar
-挫,2845,sprain,sprain
-朔,2846,first day of the month,first day of the month
-遡,2847,go upstream,go upstream
-曳,2848,drag,drag
-洩,2849,dribble out,unintentionally leak
-彗,2850,comet,comet
-慧,2851,astute,astute
-嘉,2852,applaud,praiseworthy
-兇,2853,evil,evil
-兜,2854,helmet,helmet
-爽,2855,bracing,refreshing
-欝,2856,depressed,depressed
-劫,2857,kalpa,kalpa
-勃,2858,erection,erection
-歎,2859,bemoan,grief
-輿,2860,palanquin,palanquin
-巽,2861,southeast,southeast
-歪,2862,warped,distort
-翠,2863,jade green,jade green
-黛,2864,blue-black,blue-black
-鼎,2865,tripod,tripod
-鹵,2866,rocksalt,rocksalt
-鹸,2867,lye,lye
-虔,2868,reserved,reserved
-燕,2869,swallow,swallow (bird)
-嘗,2870,lick,taste
-殆,2871,almost,almost
-孟,2872,start,start
-牌,2873,mahjong tiles,mahjong tile
-骸,2874,remains,remains
-覗,2875,peek,peek
-彪,2876,mottled,mottled
-秦,2877,Manchu dynasty,Qin dynasty
-雀,2878,sparrow,sparrow
-隼,2879,peregrine falcon,falcon
-耀,2880,shimmering,shimmering
-夷,2881,ebisu,barbarian
-戚,2882,relatives,family relative
-嚢,2883,cyst,sac
-丼,2884,domburi,rice bowl
-暢,2885,carefree,carefree
-廻,2886,circling,going around (old)
-畿,2887,capital suburbs,territories near the capital
-欣,2888,elation,elation
-毅,2889,stalwart,stalwart
-斯,2890,this,this
-匙,2891,wooden spoon,wooden spoon
-匡,2892,set straight,set straight
-肇,2893,founding,founding
-麿,2894,Utamaro,person with shaved eyebrows
-叢,2895,conglomerate,conglomerate
-肴,2896,entreat,fish served as an appetizer
-斐,2897,symmetrically patterned,symmetrically patterned
-卿,2898,magistrate,magistrate
-翫,2899,fiddle with,fiddle with
-於,2900,within,regarding
-套,2901,hackneyed,trite
-叛,2902,rebellion,rebellion
-尖,2903,sharp point,sharp point
-壷,2904,crock,jar [simplified]
-叡,2905,sapience,sapience
-酋,2906,chieftain,chieftain
-鴬,2907,nightingale,nightingale
-赫,2908,incandescent,incandescent
-臥,2909,supinate,lie down and rest
-甥,2910,nephew,nephew
-瓢,2911,gourd,gourd
-琵,2912,biwa,biwa
-琶,2913,lute,lute
-叉,2914,forked,forked
-舜,2915,rose of Sharon,rose of Sharon
-畠,2916,dry field,dry field
-拳,2917,fist,fist
-圃,2918,vegetable patch,vegetable patch
-丞,2919,helping hand,helping hand
-亮,2920,translucent,clear and obvious
-胤,2921,blood relative,blood relative
-疏,2922,transcription,transcription
-膏,2923,ointment,ointment
-魁,2924,pioneer,pioneer
-馨,2925,ambrosial,heavenly smell
-牒,2926,label,label
-瞥,2927,glimpse,glimpse
-阜,2928,large hill,Gifu hill
-睾,2929,testicle,testicle
-巫,2930,sorceress,sorceress
-敦,2931,empathetic,empathetic
-奎,2932,Andromeda,Andromeda
-翔,2933,soar,soar (in the sky)
-皓,2934,beaming,beaming
-黎,2935,tenebrous,tenebrous
-赳,2936,bold,bold
-已,2937,stop short,stop short
-棘,2938,thornbush,thornbush
-聚,2939,crowd,crowd
-甦,2940,resuscitate,resuscitate
-剪,2941,pruning,pruning
-躾,2942,upbringing,upbringing
-夥,2943,plentiful,plentiful
-鼾,2944,snore,snore
-祟,2945,cast a spell,cast a spell
-粁,2946,kilometer,kilometer
-糎,2947,centimeter,centimeter
-粍,2948,millimeter,millimeter
-噸,2949,ton,ton
-哩,2950,mile,mile
-浬,2951,nautical mile,nautical mile
-吋,2952,inch,inch
-呎,2953,feet,feet
-梵,2954,brahman,brahman
-陀,2955,Shakyamuni Buddha,inaccessible terrain
-薩,2956,bodhisattva,bodhisattva
-菩,2957,bo tree,bo tree
-唖,2958,babble,babble
-迦,2959,Sanskrit ka,ka!
-那,2960,interrogative,na!
-牟,2961,moo,moo
-珈,2962,jeweled hairpin,jeweled hairpin
-琲,2963,beaded hairpin,beaded hairpin
-檜,2964,Japanese cypress (old),Japanese cypress (old)
-轡,2965,bridle’s bit,bridle’s bit
-淵,2966,abyss (old),abyss (old)
-伍,2967,V,thin five
-什,2968,X,X (ten)
-萬,2969,ten thousand (old),ten thousand [old]
-邁,2970,pass through,push through
-逞,2971,tough,strong body and will
-燈,2972,lamp (old),lamp [old]
-裡,2973,back (old),back (old)
-薗,2974,park (alternate),park [old]
-鋪,2975,shop (alternate),shop (alternate)
-嶋,2976,island (alternate),island [old]
-峯,2977,summit (alternate),peak [old]
-巌,2978,boulder (old),huge rock
-埜,2979,plains (old),field [old]
-舘,2980,Bldg. (old),large building
-龍,2981,dragon (old),ancient dragon
-寵,2982,patronage,patronage
-聾,2983,deafness,deafness
-慾,2984,longing (old),deep desire
-亙,2985,span (old),span [old]
-躯,2986,body (old),body (old)
-嶽,2987,Point (old),mountain peak [old]
-國,2988,country (old),country [old]
-脛,2989,shin,shin
-勁,2990,formidable,formidable
-箋,2991,stationary,slip of paper
-祀,2992,enshrine,worship as a god
-祓,2993,exorcism,exorcism
-躇,2994,dither,dither
-壽,2995,longevity (old),lifespan [old]
-躊,2996,hesitate,hesitate
-彙,2997,glossary,glossary
-饅,2998,bean jam,bean jam
-嘔,2999,retch,retch
-鼈,3000,snapping turtle,snapping turtle
-亨,3001,go smoothly,go smoothly
-侑,3002,condone,condone
-梧,3003,parasol tree,parasol tree
-欽,3004,circumspect,circumspect
-煕,3005,cheer,bright light
-而,3006,and then,and then
-掟,3007,mandate,mandate
-嗅,3008,sniff,sniff
-喩,3009,metaphor,metaphor
-訃,3010,obituary,news of someone's death
-楷,3011,block letters,block letters
-諧,3012,orderliness,orderliness
-錮,3013,weld,weld
-恣,3014,selfish,selfish
-惧,3015,disquieting,disquieting
-憬,3016,hanker,long for
-拉,3017,yank,squash flat
-傲,3018,arrogance,pride
-踪,3019,trail,trail
-緻,3020,fine,fine
-璧,3021,holed gem,gem with a hole in the center
-摯,3022,clasp,clasp
-貪,3023,covet,covet
-慄,3024,shudder,shudder
-辣,3025,bitter,bitter
-瘍,3026,carbuncle,carbuncle
-哺,3027,suckle,suckle
-籠,3028,cage (Joyo version),basket
-羞,3029,humiliate,embarrassment
-鬱,3030,gloom,low spirits
+kanji,heisigId,heisigKeyword,heisigCollisions,jpdbKeyword,jpdbCollisions
+一,1,one,,one,
+二,2,two,,two,
+三,3,three,,three,
+四,4,four,,four,
+五,5,five,,five,
+六,6,six,,six,
+七,7,seven,,seven,
+八,8,eight,,eight,
+九,9,nine,,nine,
+十,10,ten,,ten,
+口,11,mouth,,mouth,
+日,12,day,,sun,
+月,13,month,,moon,
+田,14,rice field,,rice field,
+目,15,eye,,eye,
+古,16,old,,old,
+吾,17,I,,me (ceremonial),
+冒,18,risk,,dare,敢
+朋,19,companion,,companion,
+明,20,bright,,bright,
+唱,21,chant,,chant,
+晶,22,sparkle,,crystal,璃
+品,23,goods,良,goods,良
+呂,24,spine,,bathtub,
+昌,25,prosperous,,good and prosperous,
+早,26,early,,early,
+旭,27,rising sun,,rising sun,
+世,28,generation,,world,界
+胃,29,stomach,,stomach,
+旦,30,nightbreak,,start of a day,
+胆,31,gall bladder,,gall bladder,
+亘,32,span,,span,
+凹,33,concave,,concave,
+凸,34,convex,,convex,
+旧,35,olden times,,old times,
+自,36,oneself,己,self,己
+白,37,white,,white,
+百,38,hundred,,hundred,
+中,39,in,,in,
+千,40,thousand,,thousand,
+舌,41,tongue,,tongue,
+升,42,measuring box,,almost 2 litres,
+昇,43,rise up,,ascend,登
+丸,44,round,,circle,円 廻
+寸,45,measurement,計,a few centimeters,
+専,46,specialty,,specialty,
+博,47,Dr.,,expert,師
+占,48,fortune-telling,,fortune-telling,
+上,49,above,,above,
+下,50,below,,below,
+卓,51,eminent,,table,
+朝,52,morning,,morning,
+只,53,only,唯,ordinary,
+貝,54,shellfish,,shellfish,
+貞,55,upright,,principled,
+員,56,employee,,member,
+見,57,see,,see,
+児,58,newborn babe,,kid,
+元,59,beginning,始,origin,原
+頁,60,page,,page,
+頑,61,stubborn,,stubborn,
+凡,62,mediocre,,mediocre,
+負,63,defeat,敗,lose to (something),
+万,64,ten thousand,,ten thousand,
+句,65,phrase,,phrase,
+肌,66,texture,,skin,膚
+旬,67,decameron,,ten days,
+勺,68,ladle,,a spoonful of fluid,
+的,69,bull's eye,,target,
+首,70,neck,,neck,
+乙,71,fish guts,,latter,
+乱,72,riot,,chaos,沌
+直,73,straightaway,,straight,
+具,74,tool,,tool,
+真,75,true,,truth,
+工,76,craft,匠,construction,築
+左,77,left,,left,
+右,78,right,,right,
+有,79,possess,憑,be in possession,
+賄,80,bribe,賂,supply with,
+貢,81,tribute,,tribute,
+項,82,paragraph,,paragraph,
+刀,83,sword,剣,katana,
+刃,84,blade,,edge (of a knife or sword),
+切,85,cut,,cut,
+召,86,seduce,,to summon,
+昭,87,shining,輝,shining,輝
+則,88,rule,,rules,
+副,89,vice-,,secondary,
+別,90,separate,,separate,
+丁,91,street,,street,
+町,92,village,村,town,村
+可,93,can,,can do,
+頂,94,place on the head,,top of,
+子,95,child,,child,
+孔,96,cavity,,small hole,
+了,97,complete,完,finish,済
+女,98,woman,,woman,
+好,99,fond,,liked,如
+如,100,likeness,好,comparable,比
+母,101,mama,,mother,
+貫,102,pierce,,pierce through,
+兄,103,elder brother,,older brother,
+克,104,overcome,,overcome,
+小,105,little,,small,
+少,106,few,,few,
+大,107,large,,large,
+多,108,many,,many,
+夕,109,evening,平 坦,evening (before sunset),
+汐,110,eventide,,evening tide,
+外,111,outside,,outside,
+名,112,name,,name,
+石,113,stone,,stone,
+肖,114,resemblance,似,be worthy of,
+硝,115,nitrate,,nitric,
+砕,116,smash,,break into pieces,
+砂,117,sand,,sand,
+削,118,plane,,scrape off,
+光,119,ray,,ray,
+太,120,plump,,plump,
+器,121,utensil,,instrument,
+臭,122,stinking,,smelly,
+妙,123,exquisite,,strange,奇
+省,124,focus,,cut down and focus,
+厚,125,thick,,thick (in size),
+奇,126,strange,妙,odd,
+川,127,stream,,river,河
+州,128,state,凛,state,凛
+順,129,obey,従,sequence,
+水,130,water,,water,
+氷,131,icicle,,ice,
+永,132,eternity,,eternity,
+泉,133,spring,春,fountain,
+原,134,meadow,,original,元
+願,135,petition,,wish,念
+泳,136,swim,,swim,
+沼,137,marsh,,swamp,沢
+沖,138,open sea,,open sea,
+江,139,creek,,large river,
+汁,140,soup,,soup,
+潮,141,tide,,tide,
+源,142,source,,source,
+活,143,lively,,activity,
+消,144,extinguish,,extinguish,
+況,145,but of course,,state of affairs,
+河,146,river,川,waterway,
+泊,147,overnight,,stay overnight,
+湖,148,lake,,lake,
+測,149,fathom,,survey,
+土,150,soil,,earth,
+吐,151,spit,,vomit,
+圧,152,pressure,,pressure,
+埼,153,cape,,small peninsula,
+垣,154,hedge,,fence,塀
+圭,155,squared jewel,,square jewel,
+封,156,seal,,seal,
+涯,157,horizon,,horizon,
+寺,158,Buddhist temple,,Buddhist temple,
+時,159,time,,time,
+均,160,level,,equalize,等 匹
+火,161,fire,煉,fire,煉
+炎,162,inflammation,,intense flame,
+煩,163,anxiety,憂,troublesome,
+淡,164,thin,細,watered down,
+灯,165,lamp,,lamp,
+畑,166,farm,農,farm field,
+災,167,disaster,,natural disaster,
+灰,168,ashes,,ashes,
+点,169,spot,斑,point,鋭
+照,170,illuminate,,illuminate,
+魚,171,fish,漁 釣,fish,漁 釣
+漁,172,fishing,魚 釣,gathering seafood,
+里,173,ri,,home village,
+黒,174,black,,black,
+墨,175,black ink,,black ink,
+鯉,176,carp,,carp,
+量,177,quantity,,quantity,
+厘,178,rin,,one-hundredth,
+埋,179,bury,,to fill up (a hole),
+同,180,same,,same,
+洞,181,den,窟,cave,
+胴,182,trunk,幹,torso,
+向,183,yonder,,direction,方
+尚,184,esteem,尊,even more,
+字,185,character,,a character,
+守,186,guard,,protect,保
+完,187,perfect,,complete,了
+宣,188,proclaim,,formally declare,
+宵,189,wee hours,,early night,
+安,190,relax,,peace of mind,
+宴,191,banquet,,banquet,
+寄,192,draw near,,get near,
+富,193,wealth,,wealth,
+貯,194,savings,,save up,
+木,195,tree,,tree,
+林,196,grove,,a bunch of trees,
+森,197,forest,,forest,
+桂,198,Japanese Judas-tree,,katsura tree,
+柏,199,oak,,oak,
+枠,200,frame,,outer frame,
+梢,201,treetops,,treetops,
+棚,202,shelf,,shelf,
+杏,203,apricot,,apricot,
+桐,204,paulownia,,paulownia tree,
+植,205,plant,,plant,
+枯,206,wither,萎,wither,萎
+朴,207,crude,雑,crude,雑
+村,208,town,町,village,町
+相,209,inter-,,towards each other,
+机,210,desk,,wooden desk,
+本,211,book,,book,
+札,212,tag,,note,
+暦,213,calendar,,calendar,
+案,214,plan,策,proposal,提
+燥,215,parch,,dried up,
+未,216,not yet,,not yet,
+末,217,extremity,極,end part,
+沫,218,splash,,splash,
+味,219,flavor,,flavor,
+妹,220,younger sister,,younger sister,
+朱,221,vermilion,,deep red,紅
+株,222,stocks,,stocks,
+若,223,young,,young,
+草,224,grass,,grass,
+苦,225,suffering,,suffering,
+寛,226,tolerant,,lenient,
+薄,227,dilute,希,thin in volume,
+葉,228,leaf,,leaf,
+模,229,imitation,擬,look like something,
+漠,230,vague,昧,boundless,
+墓,231,grave,,grave,
+暮,232,livelihood,,day-to-day life,
+膜,233,membrane,,membrane,
+苗,234,seedling,,seedling,
+兆,235,portent,,omen,
+桃,236,peach tree,,peach,
+眺,237,stare,,stare at,
+犬,238,dog,,dog,
+状,239,status quo,,condition,
+黙,240,silence,,shut up,
+然,241,sort of thing,,sort of thing,
+荻,242,reed,,silvergrass,
+狩,243,hunt,,hunt,
+猫,244,cat,,cat,
+牛,245,cow,,cow,
+特,246,special,,special,
+告,247,revelation,啓,reveal,
+先,248,before,,before (timewise),
+洗,249,wash,,wash,
+介,250,jammed in,,mediate,媒
+界,251,world,世,realm,
+茶,252,tea,,tea,
+合,253,fit,適,come together,
+塔,254,pagoda,刹,tower,閣
+王,255,king,,king,
+玉,256,jewel,,ball,球
+宝,257,treasure,,treasure,
+珠,258,pearl,,pearl,
+現,259,present,贈,right now,
+狂,260,lunatic,,insane,
+皇,261,emperor,帝,imperial,
+呈,262,display,,to present,
+全,263,whole,,whole,
+栓,264,plug,,plug,
+理,265,logic,,logic,
+主,266,lord,,(one's) master,
+注,267,pour,,pour,
+柱,268,pillar,,pillar,
+金,269,gold,,gold,
+銑,270,pig iron,,pig iron,
+鉢,271,bowl,,bowl,
+銅,272,copper,,copper,
+釣,273,angling,角,fishing,魚 漁
+針,274,needle,,needle,
+銘,275,inscription,,engraved inscription,
+鎮,276,tranquillize,,calm down,
+道,277,road-way,,roadway,
+導,278,guidance,,to guide,
+辻,279,crossing,,street corner,
+迅,280,swift,,swift,
+造,281,create,,create,
+迫,282,urge,促,draw very near,
+逃,283,escape,,escape,
+辺,284,environs,,local area,
+巡,285,patrol,,go around,
+車,286,car,,vehicle,
+連,287,take along,,take along,
+軌,288,rut,,tracks,跡
+輸,289,transport,,transport (in or out),
+前,290,in front,,in front of,
+各,291,each,,each,
+格,292,status,,status,
+略,293,abbreviation,,outline,概
+客,294,guest,,guest,
+額,295,forehead,,amount of money,
+夏,296,summer,,summer,
+処,297,dispose,,dispose of,
+条,298,twig,,clause,
+落,299,fall,,fall down,
+冗,300,superfluous,,superfluous,
+軍,301,army,,army,
+輝,302,radiance,,shine,昭
+運,303,carry,,carry,
+冠,304,crown,,crown,
+夢,305,dream,,dream,
+坑,306,pit,,pit,
+高,307,tall,喬,high,陛
+享,308,receive,受,receive naturally,
+塾,309,cram school,,cram school,
+熟,310,mellow,,mature,
+亭,311,pavilion,,establishment,設
+京,312,capital,,capital,
+涼,313,refreshing,爽,refreshing coolness,
+景,314,scenery,,scenery,
+鯨,315,whale,,whale,
+舎,316,cottage,,building,建
+周,317,circumference,,circumference,
+週,318,week,,week,
+士,319,gentleman,紳,professional,
+吉,320,good luck,,good luck,
+壮,321,robust,,robust,
+荘,322,villa,,villa,
+売,323,sell,,sell,
+学,324,study,,study,
+覚,325,memorize,,awareness,
+栄,326,flourish,,flourish,
+書,327,write,,write,
+津,328,haven,,harborside,
+牧,329,breed,,flock,群
+攻,330,aggression,,attack,襲
+敗,331,failure,,defeated,負
+枚,332,sheet of,,a sheet of,
+故,333,happenstance,,past,去 糊
+敬,334,awe,,respect,謹 恭
+言,335,say,,say,
+警,336,admonish,,to police (something),
+計,337,plot,,measure,寸
+獄,338,prison,囚,prison,囚
+訂,339,revise,,revise,
+討,340,chastise,,attack to kill,
+訓,341,instruction,,instruct,
+詔,342,imperial edict,,imperial edict,
+詰,343,packed,,packed with,
+話,344,tale,,to speak,
+詠,345,recitation,,compose a poem,
+詩,346,poem,,poem,
+語,347,word,,language,
+読,348,read,,read,
+調,349,tune,,tone,
+談,350,discuss,,conversation,
+諾,351,consent,,consent,
+諭,352,rebuke,,rebuke,
+式,353,style,粋,ceremony,儀
+試,354,test,,test,
+弐,355,II (two),,two (formal),
+域,356,range,,region,
+賊,357,burglar,,bandit,
+栽,358,plantation,,cultivate (a plant),
+載,359,load,,appear in print,
+茂,360,overgrown,,overgrown,
+成,361,turn into,,become,
+城,362,castle,,castle,
+誠,363,sincerity,懇,sincerity,懇
+威,364,intimidate,嚇,terrifying authority,
+滅,365,destroy,,perish,
+減,366,dwindle,,reduction,
+桟,367,scaffold,,wooden crosspiece,
+銭,368,coin,,coin,
+浅,369,shallow,,shallow,
+止,370,stop,,stop,
+歩,371,walk,,walk,
+渉,372,ford,,cross a river on foot,
+頻,373,repeatedly,,repeatedly,
+肯,374,agreement,,positive agreement,
+企,375,undertake,,scheme,策
+歴,376,curriculum,,chronicle,紀
+武,377,warrior,,military,
+賦,378,levy,,levy,
+正,379,correct,,correct,
+証,380,evidence,,proof,耐
+政,381,politics,礼 諄,politics,礼 諄
+定,382,determine,,define,
+錠,383,lock,,a lock,
+走,384,run,,run,
+超,385,transcend,,exceed,頗
+赴,386,proceed,,proceed,
+越,387,surpass,,go beyond,
+是,388,just so,,go with,
+題,389,topic,,topic,
+堤,390,dike,,embankment,
+建,391,build,舎,build,舎
+延,392,prolong,,prolong,
+誕,393,nativity,,birth,
+礎,394,cornerstone,,cornerstone,
+婿,395,bridegroom,,bridegroom,
+衣,396,garment,,garment,
+裁,397,tailor,,to judge,
+装,398,attire,,outfit,
+裏,399,back,,backside,
+壊,400,demolition,,break,毀
+哀,401,pathetic,,pitiful,惜
+遠,402,distant,悠,far,
+猿,403,monkey,,monkey,
+初,404,first time,,first time,
+布,405,linen,,cloth,服
+帆,406,sail,,sail,
+幅,407,hanging scroll,,width,
+帽,408,cap,,hat,
+幕,409,curtain,,curtain,
+幌,410,canopy,,canopy,
+錦,411,brocade,,beautifully embroidered,
+市,412,market,販,city,
+姉,413,elder sister,,older sister,
+肺,414,lungs,,lung,
+帯,415,sash,,belt,
+滞,416,stagnate,淀,stay in one place,
+刺,417,thorn,,stab,突
+制,418,system,,control,轄
+製,419,made in...,,manufactured,
+転,420,revolve,,roll around,
+芸,421,technique,術,art,術
+雨,422,rain,,rain,
+雲,423,cloud,,cloud,
+曇,424,cloudy weather,,get cloudy,
+雷,425,thunder,,thunder,
+霜,426,frost,,frost,
+冬,427,winter,,winter,
+天,428,heavens,,heaven,
+橋,429,bridge,,bridge,
+嬌,430,attractive,惹,charming,魅
+立,431,stand up,,standing up,
+泣,432,cry,,cry,
+章,433,badge,,chapter,課
+競,434,vie,,compete,
+帝,435,sovereign,,emperor,皇
+童,436,juvenile,,preteen,
+瞳,437,pupil,,pupil (of eye),
+鐘,438,bell,鈴,large bell,
+商,439,make a deal,,make a deal,
+嫡,440,legitimate wife,,legitimate wife,
+適,441,suitable,妥,fitting,合
+滴,442,drip,,drip,
+敵,443,enemy,,enemy,
+匕,444,spoon,,spoon,
+北,445,north,,north,
+背,446,stature,,back of the body,
+比,447,compare,如,compare (things of the same type),
+昆,448,descendants,降,descendants,降
+皆,449,all,,all,
+混,450,mix,,mix,
+渇,451,thirst,,thirst,
+謁,452,audience,,audience,
+褐,453,brown,,brown,
+喝,454,hoarse,,hoarse,
+旨,455,delicious,,tasty,
+脂,456,fat,,fat,
+壱,457,I (one),,one (formal),
+毎,458,every,,every,
+敏,459,cleverness,賢,quick-witted,
+梅,460,plum,李,Japanese plum,
+海,461,sea,,sea,
+乞,462,beg,,beg,
+乾,463,drought,,dry,干
+腹,464,abdomen,,belly,
+複,465,duplicate,,multiple,
+欠,466,lack,,lack of,
+吹,467,blow,,blow,
+炊,468,cook,,cook,
+歌,469,song,,song,
+軟,470,soft,,soft (consistency),
+次,471,next,,next,
+茨,472,briar,,wild rose,
+資,473,assets,,resources,
+姿,474,figure,,figure,
+諮,475,consult with,,consult with,
+賠,476,compensation,,compensation,
+培,477,cultivate,,cultivate (an organism),
+剖,478,divide,割,divide,割
+音,479,sound,,sound,
+暗,480,darkness,,dark,
+韻,481,rhyme,,rhyme,
+識,482,discriminating,,be conscious of,
+鏡,483,mirror,,mirror,
+境,484,boundary,端,border,
+亡,485,deceased,,deceased,
+盲,486,blind,,blind,
+妄,487,delusion,,reckless,
+荒,488,laid waste,,wild,
+望,489,ambition,,hope,希
+方,490,direction,向,way,
+妨,491,disturb,,obstruct,障
+坊,492,boy,,boy,
+芳,493,perfumed,,sweet smelling,
+肪,494,obese,,obese,
+訪,495,call on,,formal visit,
+放,496,set free,,release,
+激,497,violent,烈,intense,
+脱,498,undress,,detach,離
+説,499,rumor / explanation,,theory,
+鋭,500,pointed,点,sharp,冴
+曽,501,formerly,,great (grandparent or grandchild),
+増,502,increase,,increase,
+贈,503,presents,現,gift,
+東,504,east,,east,
+棟,505,ridgepole,,main pillar,
+凍,506,frozen,,frozen,
+妊,507,pregnancy,,get pregnant,
+廷,508,courts,,court,
+染,509,dye,,dye,
+燃,510,burn,,burn,
+賓,511,V.I.P.,,visitor,
+歳,512,year-end,,years old,
+県,513,prefecture,,prefecture,
+栃,514,horse chestnut,,horse chestnut,
+地,515,ground,,ground,
+池,516,pond,,pond,
+虫,517,insect,,insect,
+蛍,518,lightning bug,,firefly,
+蛇,519,snake,,snake,
+虹,520,rainbow,,rainbow,
+蝶,521,butterfly,,butterfly,
+独,522,single,単,alone,
+蚕,523,silkworm,,silkworm,
+風,524,wind,繰,wind,繰
+己,525,self,自,oneself,自
+起,526,rouse,,to occur,
+妃,527,queen,,wife of a ruler,
+改,528,reformation,,reform,
+記,529,scribe,,regularly record,
+包,530,wrap,,wrap,
+胞,531,placenta,,cell,
+砲,532,cannon,,cannon,
+泡,533,bubbles,,bubble,
+亀,534,tortoise,,turtle,
+電,535,electricity,,electric,
+竜,536,dragon,,dragon,
+滝,537,waterfall,,waterfall,
+豚,538,pork,,pig,
+逐,539,pursue,,pursue,
+遂,540,consummate,,accomplish,達
+家,541,house,,house,
+嫁,542,marry into,,bride,
+豪,543,overpowering,,greatest,
+腸,544,intestines,,intestines,
+場,545,location,,location,
+湯,546,hot water,,hot water,
+羊,547,sheep,,sheep,
+美,548,beauty,,beauty,
+洋,549,ocean,,ocean,
+詳,550,detailed,,detailed,
+鮮,551,fresh,,fresh,
+達,552,accomplished,遂,accomplished,遂
+羨,553,envious,,envy (without malice),
+差,554,distinction,,difference,違 異
+着,555,don,,wear,
+唯,556,solely,,only,只
+焦,557,char,,get burned,
+礁,558,reef,,reef,
+集,559,gather,,gather together,
+准,560,quasi-,,being almost like,
+進,561,advance,,advance,
+雑,562,miscellaneous,,crude,朴
+雌,563,feminine,,bitch (female animal),
+準,564,semi-,,standard,規
+奮,565,stirred up,,arouse,憤
+奪,566,rob,,steal (by force),
+確,567,assurance,,certain,必
+午,568,noon,,noon,
+許,569,permit,,permit,
+歓,570,delight,嬉,delight,嬉
+権,571,authority,,right (to do something),
+観,572,outlook,,observe,
+羽,573,feathers,,feathers,
+習,574,learn,,learn,
+翌,575,the following,,the following,
+曜,576,weekday,,weekday,
+濯,577,laundry,,rinse with water,
+曰,578,sayeth,,sayeth,
+困,579,quandary,,distressed,愁
+固,580,harden,,solidify,
+国,581,country,,country,
+団,582,group,,group,
+因,583,cause,,cause,
+姻,584,matrimony,,matrimony,
+園,585,park,駐,park,駐
+回,586,-times,,going around,
+壇,587,podium,,podium,
+店,588,store,舗,shop,舗
+庫,589,warehouse,,storage,
+庭,590,courtyard,,garden,苑
+庁,591,government office,,government office,
+床,592,bed,,floor,
+麻,593,hemp,,hemp,
+磨,594,grind,,polish,研
+心,595,heart,,heart,
+忘,596,forget,,forget,
+忍,597,endure,堪,ninja,
+認,598,acknowledge,,admit,
+忌,599,mourning,,mourning,
+志,600,intention,,intention,
+誌,601,document,,magazine,
+忠,602,loyalty,,loyalty,
+串,603,shish kebab,,skewer,
+患,604,afflicted,,afflicted,
+思,605,think,,think (that something is true),
+恩,606,grace,淑 婉,debt of gratitude,
+応,607,apply,,respond with action,
+意,608,idea,,idea,
+想,609,concept,,heartfelt thought,
+息,610,breath,,breath,
+憩,611,recess,,take a break,
+恵,612,favor,,favored,
+恐,613,fear,,fear,
+惑,614,beguile,,lead astray,
+感,615,emotion,情,feelings,情
+憂,616,melancholy,,anxiety,煩
+寡,617,widow,,widow,
+忙,618,busy,業,busy,業
+悦,619,ecstasy,,ecstasy,
+恒,620,constancy,,constant,
+悼,621,lament,嘆,lament,嘆
+悟,622,enlightenment,,enlightenment,
+怖,623,dreadful,,scary,
+慌,624,disconcerted,,flustered,狽
+悔,625,repent,,regret,
+憎,626,hate,,hate,
+慣,627,accustomed,,get used to,
+愉,628,pleasure,,fun,
+惰,629,lazy,,lazy,
+慎,630,humility,,careful,
+憾,631,remorse,,remorse,
+憶,632,recollection,,memory,偲
+慕,633,pining,,adore,崇
+添,634,annexed,,addition,
+必,635,invariably,,certainly,確
+泌,636,ooze,,ooze,
+手,637,hand,,hand,
+看,638,watch over,,watch over,
+摩,639,chafe,,grind against,
+我,640,ego,,me (old fashioned),
+義,641,righteousness,,justice,
+議,642,deliberation,,deliberation,
+犠,643,sacrifice,,sacrifice,
+抹,644,rub,擦 摺,grind into a powder,
+抱,645,embrace,,hug,擁
+搭,646,board,,board,
+抄,647,extract,,extract,
+抗,648,confront,,oppose,
+批,649,criticism,,criticism,
+招,650,beckon,,beckon,
+拓,651,clear the land,,clear the way,
+拍,652,clap,,clap rythmically,
+打,653,strike,,strike,
+拘,654,arrest,逮,constrain,
+捨,655,discard,棄,throw away,
+拐,656,kidnap,,kidnap,
+摘,657,pinch,,pluck,抽
+挑,658,challenge,,challenge,
+指,659,finger,,finger,
+持,660,hold,,have,
+括,661,fasten,,tie a loop around,
+揮,662,brandish,,to wield (physically),
+推,663,conjecture,,infer,
+揚,664,hoist,,raise and suspend,
+提,665,propose,案,propose,案
+損,666,damage,,harmful loss,
+拾,667,pick up,,pick up (off the ground),
+担,668,shouldering,肩,to shoulder,
+拠,669,foothold,,foundation,
+描,670,sketch,,paint a picture,
+操,671,maneuver,,manipulate,掌
+接,672,touch,触,come in contact,
+掲,673,put up a notice,,put up (a notice),
+掛,674,hang,,hang,
+研,675,polish,磨,refine,精 雅
+戒,676,commandment,将 帥,commandment,将 帥
+械,677,contraption,,contraption,
+鼻,678,nose,,nose,
+刑,679,punish,,criminal punishment,
+型,680,mold,,model,塑
+才,681,genius,,talent,
+財,682,property,,riches,
+材,683,lumber,,raw materials,
+存,684,suppose,,existence,在
+在,685,exist,存,presence,
+乃,686,from,,archaic の (girly),
+携,687,portable,,carry in a hand,
+及,688,reach out,,reach,
+吸,689,suck,,suck,
+扱,690,handle,,to handle,
+丈,691,length,,3 meters,
+史,692,history,,history,
+吏,693,officer,,government official,
+更,694,grow late,,all over again,
+硬,695,stiff,,hard like a rock,
+又,696,or again,,once again,
+双,697,pair,,pair,
+桑,698,mulberry,,mulberry,
+隻,699,vessels,,(seafaring) vessel,
+護,700,safeguard,,keep safe,
+獲,701,seize,,capture in a hunt,
+奴,702,guy,,guy,
+怒,703,angry,,angry,
+友,704,friend,睦,friend,睦
+抜,705,slip out,,pull out,
+投,706,throw,,throw,
+没,707,drown,溺,go under,
+設,708,establishment,亭,set up,
+撃,709,beat,,fire a gun,
+殻,710,husk,,husk,
+支,711,branch,枝,support,
+技,712,skill,巧,skill,巧
+枝,713,bough,,branch,支
+肢,714,limb,,limb,
+茎,715,stalk,,stem,
+怪,716,suspicious,,suspicious,
+軽,717,lightly,,lightweight,
+叔,718,uncle,,uncle,
+督,719,coach,,overseer,
+寂,720,loneliness,,lonely,
+淑,721,graceful,恩 婉,ladylike,
+反,722,anti-,,be against,
+坂,723,slope,,slope,
+板,724,plank,,plank,
+返,725,return,,return something,
+販,726,marketing,市,make commercially available,
+爪,727,claw,,claw,
+妥,728,gentle,優,suitable,適
+乳,729,milk,,milk,
+浮,730,floating,,float,
+将,731,leader,,commander,戒 帥
+奨,732,exhort,,encourage (someone to do something),
+採,733,pick,,collect,
+菜,734,vegetable,,vegetable,
+受,735,accept,,receive,享
+授,736,impart,,to award,
+愛,737,love,麗,love,麗
+払,738,pay,,pay,
+広,739,wide,,wide,
+拡,740,broaden,,expand horizontally,
+鉱,741,mineral,,ore,
+弁,742,valve,,dialect,
+雄,743,masculine,,stud (male animal),
+台,744,pedestal,,pedestal,
+怠,745,neglect,,idle,
+治,746,reign,,rein in,
+始,747,commence,,begin,元
+胎,748,womb,,womb,
+窓,749,window,,window,
+去,750,gone,,past,故 糊
+法,751,method,,law,
+会,752,meeting,,meeting,
+至,753,climax,,apex,
+室,754,room,,room,
+到,755,arrival,,arrival,
+致,756,doth,,politely do,
+互,757,mutually,,mutual,
+棄,758,abandon,,discard,捨
+育,759,bring up,,nurture,
+撤,760,remove,,withdraw,控
+充,761,allot,,distribute,配
+銃,762,gun,,gun,
+硫,763,sulfur,,sulphur,
+流,764,current,,current (in a fluid),
+允,765,license,,license,
+唆,766,tempt,,tempt,
+出,767,exit,,exit,
+山,768,mountain,,mountain,
+拙,769,bungling,,unskillful,
+岩,770,boulder,,boulder,
+炭,771,charcoal,,charcoal,
+岐,772,branch off,,branch off,
+峠,773,mountain peak,岳,mountain pass,
+崩,774,crumble,,crumble,
+密,775,secrecy,,intimate,睦
+蜜,776,honey,,honey,
+嵐,777,storm,,storm,
+崎,778,promontory,,Nagasaki peninsula,
+入,779,enter,,enter,
+込,780,crowded,聚,crowded,聚
+分,781,part,,part,
+貧,782,poverty,,poor,
+頒,783,partition,,partition,
+公,784,public,,public,
+松,785,pine tree,,pine tree,
+翁,786,venerable old man,,venerable old man,
+訟,787,sue,訴,lawsuit,
+谷,788,valley,,valley,
+浴,789,bathe,,bath,
+容,790,contain,,contain,
+溶,791,melt,,melt,
+欲,792,longing,長 竪,desire,
+裕,793,abundant,,abundant,
+鉛,794,lead (metal),,lead (metal),
+沿,795,run alongside,,run alongside,
+賞,796,prize,,prize,
+党,797,party,,political party,
+堂,798,public chamber,,assembly hall,
+常,799,usual,,usual,
+裳,800,skirt,,skirt,
+掌,801,manipulate,操,palm of a hand,
+皮,802,pelt,,skin (of an animal or a plant),
+波,803,waves,,a wave,
+婆,804,old woman,,old woman,
+披,805,expose,,unveil to an audience,
+破,806,rend,,to tear,
+被,807,incur,,be a target of,
+残,808,remainder,,left behind,
+殉,809,martyrdom,,martyrdom,
+殊,810,particularly,,especially,
+殖,811,augment,,reproduce and multiply,
+列,812,file,,row,漕 並
+裂,813,split,,split,
+烈,814,ardent,,violent,激
+死,815,death,,death,
+葬,816,interment,,funeral,
+瞬,817,wink,,blink,
+耳,818,ear,,ear,
+取,819,take,,take,
+趣,820,gist,,preference,
+最,821,utmost,,utmost,
+撮,822,snapshot,,photograph,
+恥,823,shame,,shame,
+職,824,post,,being employed,
+聖,825,holy,,holy,
+敢,826,daring,冒,bold,赳
+聴,827,listen,,actively listen,
+懐,828,pocket,,pocket of nostalgia,
+慢,829,ridicule,,arrogant,傲
+漫,830,loose,,aimless,
+買,831,buy,,buy,
+置,832,placement,,put down,
+罰,833,penalty,,penalty,
+寧,834,rather,,better,
+濁,835,voiced,声,muddy,
+環,836,ring,輪,loop,
+還,837,send back,,finally return,
+夫,838,husband,,husband,
+扶,839,aid,,aid,
+渓,840,mountain stream,沢,valley with a river,
+規,841,standard,準,criteria,
+替,842,exchange,換,replace,
+賛,843,approve,,approve,
+潜,844,submerge,,lurk,
+失,845,lose,,permanent loss,
+鉄,846,iron,,iron,
+迭,847,alternate,,alternate,
+臣,848,retainer,,government minister,
+姫,849,princess,,princess,
+蔵,850,storehouse,,stash,
+臓,851,entrails,,entrails,
+賢,852,intelligent,,clever,敏
+堅,853,strict,厳,firm,
+臨,854,look to,,face something,
+覧,855,perusal,,view,
+巨,856,gigantic,,gigantic,
+拒,857,repel,却,refuse,
+力,858,power,,power,
+男,859,male,,man,
+労,860,labor,,labor,
+募,861,recruit,,recruit,
+劣,862,inferiority,,inferior,
+功,863,achievement,績,success,累
+勧,864,persuade,,recommend (a course of action),
+努,865,toil,,make an effort,
+励,866,encourage,,encourage (someone to become more lively),
+加,867,add,,add,
+賀,868,congratulations,慶,congratulations,慶
+架,869,erect,勃,framework,
+脇,870,armpit,,armpit,
+脅,871,threaten,,threaten,
+協,872,co-,,cooperative,
+行,873,going,,go,
+律,874,rhythm,,regulate,
+復,875,restore,,return to normal,
+得,876,gain,,gain,
+従,877,accompany,伴,obey,順
+徒,878,junior,,follower,追 随
+待,879,wait,,wait,
+往,880,journey,,go (with the intention to come back),
+征,881,subjugate,,subjugate,
+径,882,diameter,,diameter,
+彼,883,he,,he,
+役,884,duty,,role,
+徳,885,benevolence,,virtue,
+徹,886,penetrate,,penetrate,
+徴,887,indications,,sign (of something),
+懲,888,penal,,punish and teach a lesson,
+微,889,delicate,,micro,
+街,890,boulevard,,town district,
+衡,891,equilibrium,,equilibrium,
+稿,892,draft,,draft,
+稼,893,earnings,,earn income,
+程,894,extent,,extent,
+税,895,tax,,tax,
+稚,896,immature,,immature,
+和,897,harmony,,harmony,
+移,898,shift,,transfer,
+秒,899,second,,second,
+秋,900,autumn,,autumn,
+愁,901,distress,困,distress,困
+私,902,private,,private,
+秩,903,regularity,,regularity,
+秘,904,secret,窃,secret,窃
+称,905,appellation,,claim a title,
+利,906,profit,,profit,
+梨,907,pear tree,,pear,
+穫,908,harvest,,harvest,
+穂,909,ear of a plant,,head of a plant,
+稲,910,rice plant,,rice plant,
+香,911,incense,,nice smell,
+季,912,seasons,候,time of year,
+委,913,committee,,committee,
+秀,914,excel,佳,excel,佳
+透,915,transparent,,transparent,
+誘,916,entice,,invite,
+穀,917,cereals,,grains,粒
+菌,918,germ,,microbe,
+米,919,rice,,rice,
+粉,920,flour,,powder,
+粘,921,sticky,,sticky,
+粒,922,grains,穀,a single grain,
+粧,923,cosmetics,,cosmetics,
+迷,924,astray,,be lost,
+粋,925,chic,,style,式
+糧,926,provisions,,provisions,
+菊,927,chrysanthemum,,chrysanthemum,
+奥,928,core,,deep inside,
+数,929,number,,number,
+楼,930,watchtower,,building with at least two floors,
+類,931,sort,,kind (of something),
+漆,932,lacquer,,lacquer,
+様,933,Esq.,,-sama,
+求,934,request,嘱,seek,
+球,935,ball,玉,sphere,圏
+救,936,salvation,,rescue,
+竹,937,bamboo,,bamboo,
+笑,938,laugh,,laugh,
+笠,939,bamboo hat,,Asian-style conical hat,
+笹,940,bamboo grass,,bamboo grass,
+筋,941,muscle,,muscle,
+箱,942,box,,box,
+筆,943,writing brush,,writing brush,
+筒,944,cylinder,,cylinder,
+等,945,etc.,,equal,均 匹
+算,946,calculate,,calculate,
+答,947,solution,,answer,
+策,948,scheme,企,plan,案
+簿,949,register,,register,
+築,950,fabricate,涅,construct,工
+人,951,person,,person,
+佐,952,assistant,援,assistant,援
+但,953,however,,however,
+住,954,dwell,,live in,
+位,955,rank,,rank,
+仲,956,go-between,,relationship,
+体,957,body,,body,
+悠,958,remote,遼,distant,遠
+件,959,affair,,case,
+仕,960,attend,,serve,
+他,961,other,,other,
+伏,962,prostrated,,lay face down,
+伝,963,transmit,,transmit,
+仏,964,Buddha,,Buddha,
+休,965,rest,,rest,
+仮,966,provisional,,temporary,
+伯,967,chief,,count (nobleman),
+俗,968,vulgar,卑,common,庶
+信,969,faith,,belief,
+佳,970,excellent,秀,excellent,秀
+依,971,reliant,,depend on,
+例,972,example,,example,
+個,973,individual,,individual,
+健,974,healthy,,healthy,
+側,975,side,,side (of something),
+侍,976,waiter,,samurai,
+停,977,halt,,temporary stop,
+値,978,price,,numeric value,
+倣,979,emulate,,emulate,
+倒,980,overthrow,,collapse,陥
+偵,981,spy,,to spy,
+僧,982,Buddhist priest,,Buddhist priest,
+億,983,hundred million,,hundred million,
+儀,984,ceremony,式,ritual,祭
+償,985,reparation,,make up for something,
+仙,986,hermit,,hermit,
+催,987,sponsor,,to host,
+仁,988,humanity,,humanity,
+侮,989,scorn,蔑,look down on,
+使,990,use,,use (something physical),
+便,991,convenience,,convenience,
+倍,992,double,,double something,
+優,993,tenderness,柔,gentle,妥
+伐,994,fell,,cut down,
+宿,995,inn,,place to sleep,
+傷,996,wound,,wound,
+保,997,protect,守,preserve,
+褒,998,praise,,praise,
+傑,999,greatness,偉,the best,
+付,1000,adhere,,attach,附
+符,1001,token,,token,
+府,1002,municipality,,central office,
+任,1003,responsibility,責,obligation,
+賃,1004,fare,,rental payment,
+代,1005,substitute,,substitute,
+袋,1006,sack,,sack,
+貸,1007,lend,,lend,
+化,1008,change,変,transformation,
+花,1009,flower,,flower,
+貨,1010,freight,,currency,
+傾,1011,lean,,lean to the side,
+何,1012,what,,what,
+荷,1013,baggage,,baggage,
+俊,1014,sagacious,,outstanding talent,
+傍,1015,bystander,,on the side,
+久,1016,long time,,long time,
+畝,1017,furrow,,furrow,
+囚,1018,captured,捕,prisoner,獄
+内,1019,inside,,inside,
+丙,1020,third class,,third in class,
+柄,1021,design,綾,pattern,範
+肉,1022,meat,,meat,
+腐,1023,rot,,rot,
+座,1024,sit,,to sit,
+卒,1025,graduate,,graduate,
+傘,1026,umbrella,,umbrella,
+匁,1027,monme,,monme,
+以,1028,by means of,,by means of,
+似,1029,similar,,resemble,肖
+併,1030,join,,match (to be the same),
+瓦,1031,tile,,tile,
+瓶,1032,flower pot,,bottle,
+宮,1033,Shinto shrine,,Shinto shrine,
+営,1034,occupation,,manage,
+善,1035,virtuous,,morally good,
+年,1036,year,,year,
+夜,1037,night,,night,
+液,1038,fluid,,fluid,
+塚,1039,hillock,,pile of (dirt),
+幣,1040,cash,,cash,
+弊,1041,abuse,,not good,
+喚,1042,yell,,scream,
+換,1043,interchange,,exchange,替
+融,1044,dissolve,,dissolve,
+施,1045,alms,,carry out,
+旋,1046,rotation,,swirl,
+遊,1047,play,戯,play,戯
+旅,1048,trip,,travel,
+勿,1049,not,,must not,
+物,1050,thing,,thing,
+易,1051,easy,,easy,
+賜,1052,grant,,grant,
+尿,1053,urine,,urine,
+尼,1054,nun,,nun,
+泥,1055,mud,,mud,
+塀,1056,fence,垣,wall fence,
+履,1057,footgear,,put on legwear,
+屋,1058,roof,,roof,
+握,1059,grip,,grip,
+屈,1060,yield,,bend,曲
+掘,1061,dig,,dig,
+堀,1062,ditch,溝,moat,濠
+居,1063,reside,邸,to be (animate object),
+据,1064,set,,fixed in place,
+層,1065,stratum,,layer,
+局,1066,bureau,,bureau,
+遅,1067,slow,,slow,
+漏,1068,leak,,leak,
+刷,1069,printing,,print,
+尺,1070,shaku,,measuring ruler,
+尽,1071,exhaust,,completely exhaust,
+沢,1072,swamp,沼,mountain stream,渓
+訳,1073,translate,,translation,
+択,1074,choose,,choice,
+昼,1075,daytime,,midday,
+戸,1076,door,,door,
+肩,1077,shoulder,担,shoulder,担
+房,1078,tassel,,cluster,鍾
+扇,1079,fan,煽,folding fan,
+炉,1080,hearth,,furnace,
+戻,1081,re-,,turn back to how it was,
+涙,1082,tears,,tears,
+雇,1083,employ,,hire,傭
+顧,1084,look back,,look back on,
+啓,1085,disclose,,revelation,告
+示,1086,show,,demonstrate,
+礼,1087,salutation,,polite,政 諄
+祥,1088,auspicious,,happy omen,
+祝,1089,celebrate,,celebrate,
+福,1090,blessing,,good fortune,
+祉,1091,welfare,,welfare,
+社,1092,company,,company,
+視,1093,inspection,査,look at,
+奈,1094,Nara,,Nara (city),
+尉,1095,military officer,,military officer,
+慰,1096,consolation,,console and provide comfort,
+款,1097,goodwill,,goodwill,
+禁,1098,prohibition,,prohibit,
+襟,1099,collar,,collar,
+宗,1100,religion,,religion,
+崇,1101,adore,慕,respect and revere,
+祭,1102,ritual,儀,festival,
+察,1103,guess,,guess,
+擦,1104,grate,,rub,抹 摺
+由,1105,wherefore,,reason,
+抽,1106,pluck,摘,take out,
+油,1107,oil,,oil,
+袖,1108,sleeve,,sleeve,
+宙,1109,mid-air,,midair,
+届,1110,deliver,,delivery,
+笛,1111,flute,,flute,
+軸,1112,axis,,axis,
+甲,1113,armor,,outer shell,
+押,1114,push,,push,
+岬,1115,headland,,cape (on coast),
+挿,1116,insert,,insert,
+申,1117,speaketh,,say humbly,
+伸,1118,expand,,stretch,
+神,1119,gods,,god,
+捜,1120,search,,search,
+果,1121,fruit,,fruit,
+菓,1122,candy,,sweets,甘 飴
+課,1123,chapter,章,subsection,
+裸,1124,naked,,naked,
+斤,1125,ax,,axe,
+析,1126,chop,,break apart,
+所,1127,place,,place,
+祈,1128,pray,,pray,
+近,1129,near,,near,
+折,1130,fold,,fold,
+哲,1131,philosophy,,philosophy,
+逝,1132,departed,科,pass away,
+誓,1133,vow,,vow,
+暫,1134,temporarily,,temporarily,
+漸,1135,steadily,,steadily,
+断,1136,severance,,be cut off,
+質,1137,substance,,quality,
+斥,1138,reject,,reject,
+訴,1139,accusation,,sue,訟
+昨,1140,yesterday,,previous,既
+詐,1141,lie,嘘,falsehood,偽
+作,1142,make,,make,
+雪,1143,snow,,snow,
+録,1144,record,譜,record on something,
+尋,1145,inquire,,inquire,
+急,1146,hurry,,hurry,
+穏,1147,calm,,calm,
+侵,1148,encroach,,invade,
+浸,1149,immersed,,immersed in,
+寝,1150,lie down,,lie down,
+婦,1151,lady,,housewife,
+掃,1152,sweep,,sweep,
+当,1153,hit,,hit (the target),
+争,1154,contend,,conflict,
+浄,1155,clean,清,cleanse,汰
+事,1156,matter,,occurence,
+唐,1157,T'ang,,Chinese foreigner,
+糖,1158,sugar,,sugar,
+康,1159,sane,,peaceful,泰
+逮,1160,apprehend,,arrest,拘
+伊,1161,Italy,,Italy,
+君,1162,old boy,,young master,
+群,1163,flock,牧,a pack (e.g. of dogs),
+耐,1164,proof,証,withstand,堪
+需,1165,demand,,demand (for something),
+儒,1166,Confucian,,confucian,
+端,1167,edge,際,boundary,境
+両,1168,both,,both,
+満,1169,full,,full,
+画,1170,brush-stroke,,drawing,
+歯,1171,tooth,,tooth,
+曲,1172,bend,屈,curved,
+曹,1173,cadet,,cadet,
+遭,1174,encounter,遇,encounter a difficulty,
+漕,1175,rowing,列 並,rowing,列 並
+槽,1176,vat,,tank (of liquid),
+斗,1177,Big Dipper,,18 litres,
+料,1178,fee,,ingredients,
+科,1179,department,逝,department,逝
+図,1180,map,,diagram,
+用,1181,utilize,,used for,
+庸,1182,comfortable,楽,commonplace,
+備,1183,equip,,equip,
+昔,1184,once upon a time,,long ago,
+錯,1185,confused,紛,mix something up,
+借,1186,borrow,,borrow,
+惜,1187,pity,哀,reluctant (to part with),
+措,1188,set aside,,set aside,
+散,1189,scatter,,scatter around,
+廿,1190,twenty,,twenty,
+庶,1191,commoner,俗,commoner,俗
+遮,1192,intercept,,interrupt,
+席,1193,seat,,seat,
+度,1194,degrees,,degrees,
+渡,1195,transit,遷,ferry over,
+奔,1196,bustle,賑,run very fast,
+噴,1197,erupt,,erupt,
+墳,1198,tomb,,tomb,
+憤,1199,aroused,奮,grudge,怨
+焼,1200,bake,,roast,煎
+暁,1201,daybreak,曙,dawn,曙
+半,1202,half,,half,
+伴,1203,consort,,accompany,従
+畔,1204,paddy ridge,,shore,
+判,1205,judgment,,judgement,
+券,1206,ticket,,ticket,
+巻,1207,scroll,,scroll,
+圏,1208,sphere,球,area of influence,
+勝,1209,victory,,win,
+藤,1210,wisteria,,wisteria (a type of plant),
+謄,1211,facsimilie,,certified copy,
+片,1212,one-sided,,one of a pair,
+版,1213,printing block,,edition,
+之,1214,of,,archaic の (manly),
+乏,1215,destitution,,scarcity,
+芝,1216,turf,,lawn,
+不,1217,negative,否,negative,否
+否,1218,negate,不,negate,不
+杯,1219,cupfuls,,cup of liquid,
+矢,1220,dart,,arrow,
+矯,1221,rectify,,fix a flaw,
+族,1222,tribe,,tribe,
+知,1223,know,,know,
+智,1224,wisdom,,wisdom of old,
+矛,1225,halberd,,halberd,
+柔,1226,tender,優,soft (to touch),
+務,1227,task,,perform a task,
+霧,1228,fog,,fog,
+班,1229,squad,隊,squad,隊
+帰,1230,homecoming,,return home,
+弓,1231,bow,,bow (weapon),
+引,1232,pull,,pull,
+弔,1233,condolences,,condolences,
+弘,1234,vast,,vast,
+強,1235,strong,,strong,
+弱,1236,weak,,weak,
+沸,1237,seethe,,heat until boiling point,
+費,1238,expense,,expense,
+第,1239,No.,,ordinal number,
+弟,1240,younger brother,,younger brother,
+巧,1241,adroit,,skillful,技
+号,1242,nickname,,ID number,
+朽,1243,decay,,decay,
+誇,1244,boast,,be proud of,
+汚,1245,dirty,,dirty,
+与,1246,bestow,,bestow upon,
+写,1247,copy,,copy,
+身,1248,somebody,,one's body,
+射,1249,shoot,,shoot,
+謝,1250,apologize,,apologize,
+老,1251,old man,,elderly,
+考,1252,consider,,think (about something),
+孝,1253,filial piety,,duty to one's parents,
+教,1254,teach,,teach,
+拷,1255,torture,,torture,
+者,1256,someone,,someone,
+煮,1257,boil,,cook by boiling,
+著,1258,renowned,,literary work,
+署,1259,signature,,field office,
+暑,1260,sultry,,hot,
+諸,1261,various,,various,
+猪,1262,boar,,boar,
+渚,1263,strand,,strand,
+賭,1264,gamble,,bet,
+峡,1265,gorge,,ravine,
+狭,1266,cramped,,narrow,
+挟,1267,sandwiched,,put between,
+追,1268,chase,,follow,徒 随
+師,1269,expert,博,mentor,
+帥,1270,commander,戒 将,high command,
+官,1271,bureaucrat,,bureaucrat,
+棺,1272,coffin,,coffin,
+管,1273,pipe,,pipe,
+父,1274,father,,father,
+交,1275,mingle,,mingle,
+効,1276,merit,,be effective,
+較,1277,contrast,,thoroughly compare,
+校,1278,exam,,school,
+足,1279,leg,脚,foot,
+促,1280,stimulate,,urge,迫
+距,1281,long-distance,,separated by,
+路,1282,path,,path,
+露,1283,dew,,exposed to morning dew,
+跳,1284,hop,,jump up,
+躍,1285,leap,,jump around,
+践,1286,tread,,tread,
+踏,1287,step,段,to step on,
+骨,1288,skeleton,,bone,
+滑,1289,slippery,,slippery,
+髄,1290,marrow,,marrow,
+禍,1291,calamity,,calamity and misfortune,
+渦,1292,whirlpool,,whirlpool,
+過,1293,overdo,,surpass something,
+阪,1294,Heights,,hillside,
+阿,1295,Africa,,Africa,
+際,1296,occasion,,edge,端
+障,1297,hinder,,obstruction,妨
+随,1298,follow,徒 追,follow as one's told,
+陪,1299,auxiliary,,one's superior,
+陽,1300,sunshine,,sunshine,
+陳,1301,line up,並,to express,
+防,1302,ward off,,prevent,
+附,1303,affixed,貼,attachment,付
+院,1304,Inst.,,institution,
+陣,1305,camp,,army camp,
+隊,1306,regiment,,squad,班
+墜,1307,crash,,fall down and crash,
+降,1308,descend,昆,descend,昆
+階,1309,story,,floor (of a building),
+陛,1310,highness,高,highness,高
+隣,1311,neighboring,,neighbor,
+隔,1312,isolate,,isolate,
+隠,1313,conceal,掩,to hide,
+堕,1314,degenerate,,fall into corruption,
+陥,1315,collapse,倒,cave in,
+穴,1316,hole,,hole,
+空,1317,empty,,empty air,
+控,1318,withdraw,撤,refrain,
+突,1319,stab,刺,thrust,
+究,1320,research,,research,
+窒,1321,plug up,,suffocate,
+窃,1322,stealth,,secretly,秘
+窪,1323,depression,欝,depressed shape,
+搾,1324,squeeze,,squeeze out (a liquid),
+窯,1325,kiln,,kiln,
+窮,1326,hard up,,reach a limit,
+探,1327,grope,,to feel around for,
+深,1328,deep,,deep,
+丘,1329,hill,,hill,
+岳,1330,Point,,mountain peak,峠
+兵,1331,soldier,,soldier,
+浜,1332,seacoast,,beach,岸
+糸,1333,thread,,thread,
+織,1334,weave,,weave,
+繕,1335,darning,,darning,
+縮,1336,shrink,,shrink,
+繁,1337,luxuriant,,grow thickly,
+縦,1338,vertical,,vertical,
+線,1339,line,,line,
+締,1340,tighten,,tighten,
+維,1341,fiber,,maintain,
+羅,1342,gauze,紗,lightweight fabric,
+練,1343,practice,,practice,
+緒,1344,thong,,strap,
+続,1345,continue,,continue,
+絵,1346,picture,,picture,
+統,1347,overall,,overall,
+絞,1348,strangle,,strangle,
+給,1349,salary,禄,supply (of something),
+絡,1350,entwine,,entangle,
+結,1351,tie,絆,tied together,
+終,1352,end,,end,
+級,1353,class,,class,
+紀,1354,chronicle,歴,era,
+紅,1355,crimson,,deep red,朱
+納,1356,settlement,,to supply,
+紡,1357,spinning,繰,to spin (yarn),
+紛,1358,distract,,confusion,錯
+紹,1359,introduce,,introduce,
+経,1360,sutra,,Buddhist scripture,
+紳,1361,sire,,gentleman,士
+約,1362,promise,,promise,
+細,1363,dainty,,thin,淡
+累,1364,accumulate,溜,successive,功
+索,1365,cord,,link,
+総,1366,general,,general,
+綿,1367,cotton,,cotton,
+絹,1368,silk,,silk,
+繰,1369,winding,風,spin,紡
+継,1370,inherit,,inherit,
+緑,1371,green,,green,
+縁,1372,affinity,,connected by fate,
+網,1373,netting,,net,
+緊,1374,tense,,tense,
+紫,1375,purple,,purple,
+縛,1376,truss,,tie up,
+縄,1377,straw rope,,rope,
+幼,1378,infancy,,very young,
+後,1379,behind,,after,
+幽,1380,faint,,faint,
+幾,1381,how many,,how many,
+機,1382,mechanism,,machine,
+玄,1383,mysterious,,dark and mysterious,
+畜,1384,livestock,,livestock,
+蓄,1385,amass,,store a large amount,
+弦,1386,bowstring,,string (of an instrument),
+擁,1387,hug,抱,hug,抱
+滋,1388,nourishing,,nourishing,
+慈,1389,mercy,,mercy,
+磁,1390,magnet,,magnetic,
+系,1391,lineage,,lineage,
+係,1392,person in charge,,be involved with,
+孫,1393,grandchild,,grandchild,
+懸,1394,suspend,,hang (figuratively),
+却,1395,instead,,repel,拒
+脚,1396,shins,脛,leg,足
+卸,1397,wholesale,,wholesale,
+御,1398,honorable,誉,honorable,誉
+服,1399,clothing,布,clothes,布
+命,1400,fate,,continued existence,
+令,1401,orders,,orders,
+零,1402,zero,,zero,
+齢,1403,age,,age,
+冷,1404,cool,,cold (to the touch),
+領,1405,jurisdiction,,territory,
+鈴,1406,small bell,,bell,鐘
+勇,1407,courage,,courage,
+通,1408,traffic,,pass through,邁
+踊,1409,jump,,dance,舞
+疑,1410,doubt,,doubt,
+擬,1411,mimic,,imitate,模
+凝,1412,congeal,,thicken,
+範,1413,pattern,柄,exemplar,
+犯,1414,crime,,perpetrator,
+厄,1415,unlucky,,unlucky,
+危,1416,dangerous,,dangerous,
+宛,1417,address,,addressed to,
+腕,1418,arm,,arm,
+苑,1419,garden,庭,man-made garden,
+怨,1420,grudge,憤,hateful grudge,
+柳,1421,willow,,willow tree,
+卵,1422,egg,,egg,
+留,1423,detain,,hold in place,
+貿,1424,trade,,trade,
+印,1425,stamp,,stamp,
+興,1426,entertain,,vitalize,
+酉,1427,sign of the bird,,sign of the bird,
+酒,1428,sake,,alcoholic drink,
+酌,1429,bartending,,bartending,
+酵,1430,fermentation,,fermentation,
+酷,1431,cruel,,cruel,
+酬,1432,repay,,repay,
+酪,1433,dairy products,,dairy products,
+酢,1434,vinegar,,vinegar,
+酔,1435,drunk,,drunk,
+配,1436,distribute,充,hand out,
+酸,1437,acid,,acid,
+猶,1438,waver,,still more,
+尊,1439,revered,,esteem,尚
+豆,1440,beans,,bean,
+頭,1441,head,,head,
+短,1442,short,,short,
+豊,1443,bountiful,,plentiful,夥
+鼓,1444,drum,,drum,
+喜,1445,rejoice,,joy,
+樹,1446,timber-trees,,deeply rooted tree,
+皿,1447,dish,,dish,
+血,1448,blood,,blood,
+盆,1449,basin,,basin,
+盟,1450,alliance,,ally,
+盗,1451,steal,,steal,
+温,1452,warm,暖,warm (to the touch),
+監,1453,oversee,,supervise,
+濫,1454,overflow,溢,excessive,
+鑑,1455,specimen,,expert opinion,
+猛,1456,fierce,,fierce,
+盛,1457,boom,,a heap of,
+塩,1458,salt,,salt,
+銀,1459,silver,,silver,
+恨,1460,resentment,,resent,
+根,1461,root,,root,
+即,1462,instant,,instant,
+爵,1463,baron,,baron,
+節,1464,node,,joint,
+退,1465,retreat,,retreat,
+限,1466,limit,,limit,
+眼,1467,eyeball,,eyeball,
+良,1468,good,品,good,品
+朗,1469,melodious,,bright and clear,
+浪,1470,wandering,,wandering,
+娘,1471,daughter,,daughter,
+食,1472,eat,,eat,
+飯,1473,meal,,meal,
+飲,1474,drink,,drink,
+飢,1475,hungry,,hunger,
+餓,1476,starve,,starved,
+飾,1477,decorate,,decorate,
+館,1478,Bldg.,,public building,
+養,1479,foster,,support growth,
+飽,1480,sated,,be full and have enough,
+既,1481,previously,昨,already,
+概,1482,outline,略,approximate,
+慨,1483,rue,,stirring,
+平,1484,even,夕 坦,flat,軒 坦
+呼,1485,call,,call,
+坪,1486,two-mat area,,two-mat area,
+評,1487,evaluate,,evaluate,
+刈,1488,reap,,trim,薙
+希,1489,hope,望,dilute,薄
+凶,1490,villain,,bad luck,
+胸,1491,bosom,,chest,
+離,1492,detach,脱,physical distance,
+殺,1493,kill,,kill,
+純,1494,genuine,,pure,清
+鈍,1495,dull,,dull,
+辛,1496,spicy,,spicy,
+辞,1497,resign,,resign,
+梓,1498,catalpa,,catalpa,
+宰,1499,superintend,,primary supervisor,
+壁,1500,wall,,wall,
+避,1501,evade,,avoid,
+新,1502,new,,new,
+薪,1503,firewood,,firewood,
+親,1504,parent,,parent,
+幸,1505,happiness,,happiness,
+執,1506,tenacious,,devoted,
+報,1507,report,,report,
+叫,1508,shout,,shout,
+糾,1509,twist,,twist,
+収,1510,income,,obtain,
+卑,1511,lowly,,vulgar,俗
+碑,1512,tombstone,,monument with an inscription,
+陸,1513,land,,land,
+睦,1514,intimate,密,friendly,友
+勢,1515,forces,,vigor,
+熱,1516,heat,,heat,
+菱,1517,diamond,,diamond shape,
+陵,1518,mausoleum,,mausoleum,
+亥,1519,sign of the hog,,sign of the boar,
+核,1520,nucleus,,nucleus,
+刻,1521,engrave,,carve into,
+該,1522,above-stated,,above-stated,
+劾,1523,censure,,censure,
+述,1524,mention,,statement,
+術,1525,art,芸,technique,芸
+寒,1526,cold,,cold,
+醸,1527,brew,,brew,
+譲,1528,defer,,concede,
+壌,1529,lot,,lot,
+嬢,1530,lass,,young lady,
+毒,1531,poison,,poison,
+素,1532,elementary,,elementary,
+麦,1533,barley,,wheat,
+青,1534,blue,,blue,
+精,1535,refined,研 雅,spirit (of life),
+請,1536,solicit,,formally request,
+情,1537,feelings,感,emotion,感
+晴,1538,clear up,,clear up,
+清,1539,pure,純,clean,浄
+静,1540,quiet,,quiet,
+責,1541,blame,,responsibility,任
+績,1542,exploits,,achievements,功
+積,1543,volume,,pile up and accumulate,
+債,1544,bond,,financial bond,
+漬,1545,pickling,,pickle (something),
+表,1546,surface,面,front side,
+俵,1547,bag,,straw bag,
+潔,1548,undefiled,,undefiled,
+契,1549,pledge,,pledge,
+喫,1550,consume,,consume,
+害,1551,harm,,harm,
+轄,1552,control,制,administration,
+割,1553,proportion,,divide,剖
+憲,1554,constitution,,constitution,
+生,1555,life,,life,
+星,1556,star,,star,
+姓,1557,surname,,surname,
+性,1558,sex,,nature (of a person),
+牲,1559,animal sacrifice,,offering,献 供
+産,1560,products,,give birth,
+隆,1561,hump,,be in abundance,
+峰,1562,summit,,peak,
+縫,1563,sew,,sew,
+拝,1564,worship,,worship,
+寿,1565,longevity,,lifespan,
+鋳,1566,casting,,casting,
+籍,1567,enroll,,registry,
+春,1568,springtime,,spring,泉
+椿,1569,camellia,,camellia,
+泰,1570,peaceful,康,Thailand,
+奏,1571,play music,,play music,
+実,1572,reality,,real,
+奉,1573,dedicate,捧,dedicate,捧
+俸,1574,stipend,,stipend,
+棒,1575,rod,,rod,
+謹,1576,discreet,,respectful,敬 恭
+勤,1577,diligence,,devotion to work,
+漢,1578,Sino-,,Chinese,
+嘆,1579,sigh,,lament,悼
+難,1580,difficult,,difficult,
+華,1581,splendor,,flashy flower,
+垂,1582,droop,,droop,
+睡,1583,drowsy,,be asleep,
+錘,1584,spindle,,spindle,
+乗,1585,ride,,ride,
+剰,1586,surplus,,surplus,
+今,1587,now,,now,
+含,1588,include,,include,
+吟,1589,versify,,recite in a singing voice,
+念,1590,wish,願,a sense of,
+琴,1591,harp,,harp,
+陰,1592,shade,,unseen location,
+予,1593,beforehand,,in advance,
+序,1594,preface,,preface,
+預,1595,deposit,,deposit (in someone's care),
+野,1596,plains,,field,
+兼,1597,concurrently,,concurrently,
+嫌,1598,dislike,,dislike,
+鎌,1599,sickle,,sickle,
+謙,1600,self-effacing,,humble,
+廉,1601,bargain,,bargain,
+西,1602,west,,west,
+価,1603,value,,value,
+要,1604,need,,needed,
+腰,1605,loins,,waist,
+票,1606,ballot,,vote,
+漂,1607,drift,,drift,
+標,1608,signpost,,signpost,
+栗,1609,chestnut,,chestnut,
+遷,1610,transition,渡,transition,渡
+覆,1611,capsize,,overturn,顛
+煙,1612,smoke,,smoke,
+南,1613,south,,south,
+楠,1614,camphor tree,,camphor tree,
+献,1615,offering,牲 供,donate,
+門,1616,gates,,gate,
+問,1617,question,,question,
+閲,1618,review,,review (of a document),
+閥,1619,clique,,clique,
+間,1620,interval,,interval,
+簡,1621,simplicity,,simple,単
+開,1622,open,,open,
+閉,1623,closed,,closed,
+閣,1624,tower,塔,tall building,
+閑,1625,leisure,,time of leisure,
+聞,1626,hear,審,hear,審
+潤,1627,wet,,soaked,
+欄,1628,column,,column (in a newspaper),
+闘,1629,fight,,fight to win,
+倉,1630,godown,,long-term warehouse,
+創,1631,genesis,,to originate,
+非,1632,un-,,go against,
+俳,1633,haiku,,haiku,
+排,1634,repudiate,,discharge,発
+悲,1635,sad,,sad,
+罪,1636,guilt,,sin,
+輩,1637,comrade,,comrade,
+扉,1638,front door,,front door,
+侯,1639,marquis,,marquis,
+候,1640,climate,,season,季
+決,1641,decide,,decide,
+快,1642,cheerful,煕,pleasant,
+偉,1643,admirable,,great,傑
+違,1644,difference,差 異,different therefore wrong,
+緯,1645,horizontal,,latitude,
+衛,1646,defense,,defend,
+韓,1647,Korea,,Korea,
+干,1648,dry,乾,left to dry,
+肝,1649,liver,,liver,
+刊,1650,publish,,publish,
+汗,1651,sweat,,sweat,
+軒,1652,flats,平 坦,counter for houses,
+岸,1653,beach,浜,coast,
+幹,1654,tree trunk,,trunk,胴
+芋,1655,potato,,potato,
+宇,1656,eaves,,space,
+余,1657,too much,,be in excess,
+除,1658,exclude,,exclude,
+徐,1659,gradually,,gradually,
+叙,1660,confer,,describe,
+途,1661,route,,route,
+斜,1662,diagonal,,diagonal,
+塗,1663,paint,,paint,
+束,1664,bundle,,bundle,
+頼,1665,trust,,rely on,
+瀬,1666,rapids,疾,rapids,疾
+勅,1667,imperial order,,imperial order,
+疎,1668,alienate,,sparse,稀
+速,1669,quick,,fast,
+整,1670,organize,,put in order,
+剣,1671,saber,,sword,刀
+険,1672,precipitous,,risky and steep,
+検,1673,examination,,examine,
+倹,1674,frugal,,frugal,
+重,1675,heavy,,heavy,
+動,1676,move,,move,
+勲,1677,meritorious deed,,meritorious deed,
+働,1678,work,,work,
+種,1679,species,,seed,
+衝,1680,collide,,collide,
+薫,1681,fragrant,,fragrant herb,
+病,1682,ill,,illness,
+痴,1683,stupid,,stupid,
+痘,1684,pox,,smallpox,
+症,1685,symptoms,,medical condition,
+疾,1686,rapidly,瀬,rapidly,瀬
+痢,1687,diarrhea,,diarrhea,
+疲,1688,tired,,tired,
+疫,1689,epidemic,,epidemic,
+痛,1690,pain,,pain,
+癖,1691,mannerism,,habit,
+匿,1692,hide,,hide,
+匠,1693,artisan,,craft,工
+医,1694,doctor,,medical,
+匹,1695,equal,均 等,small animal,
+区,1696,ward,,district,
+枢,1697,hinge,,hinge,
+殴,1698,assault,襲,punch,
+欧,1699,Europe,,Europe,
+抑,1700,repress,,suppress,
+仰,1701,faceup,,look up to,
+迎,1702,welcome,,welcome,
+登,1703,ascend,昇,climb,
+澄,1704,lucidity,,clear,
+発,1705,discharge,排,let out,
+廃,1706,abolish,,unused,
+僚,1707,colleague,,colleague,
+寮,1708,dormitory,,dormitory,
+療,1709,heal,癒,therapy,
+彫,1710,carve,,carve,
+形,1711,shape,,shape,
+影,1712,shadow,,shadow,
+杉,1713,cedar,,cedar,
+彩,1714,coloring,色,color scheme,
+彰,1715,patent,,show publicly,
+彦,1716,lad,,lad,
+顔,1717,face,,face,
+須,1718,ought,,necessary,
+膨,1719,swell,,bulge,
+参,1720,visit,,admit defeat,
+惨,1721,wretched,,misery,
+修,1722,discipline,,discipline (of study),
+珍,1723,rare,稀,unusual,変
+診,1724,checkup,,diagnose,
+文,1725,sentence,,written sentence,
+対,1726,vis-a-vis,,opposite,
+紋,1727,family crest,,crest (often of a family),
+蚊,1728,mosquito,,mosquito,
+斉,1729,adjusted,,simultaneously,
+剤,1730,dose,,chemical substance,
+済,1731,finish,了,settle,粕
+斎,1732,purification,,religious purification,
+粛,1733,solemn,,restraint,
+塁,1734,bases,,base,
+楽,1735,music,,comfort,庸
+薬,1736,medicine,,medicine,
+率,1737,ratio,,ratio,
+渋,1738,astringent,,bitter,辣
+摂,1739,vicarious,,absorb (nutrients or knowledge),
+央,1740,center,,center,
+英,1741,England,,England,
+映,1742,reflect,,reflect,
+赤,1743,red,,red,
+赦,1744,pardon,,pardon,
+変,1745,unusual,珍,change,化
+跡,1746,tracks,軌,traces (of something moving or being done),
+蛮,1747,barbarian,夷,savage,
+恋,1748,romance,,romantic love,
+湾,1749,gulf,,gulf,
+黄,1750,yellow,,yellow,
+横,1751,sideways,,sideways,
+把,1752,grasp,,grasp,
+色,1753,color,彩,color,彩
+絶,1754,discontinue,,cut off,
+艶,1755,glossy,,glossy,
+肥,1756,fertilizer,,fertilizer,
+甘,1757,sweet,菓 飴,sweet,菓 飴
+紺,1758,navy blue,,navy blue,
+某,1759,so-and-so,,known but unnamed,
+謀,1760,conspire,,conspire,
+媒,1761,mediator,介,mediator,介
+欺,1762,deceit,,deceive,
+棋,1763,chess piece,駒,chess piece,駒
+旗,1764,national flag,,flag,
+期,1765,period,,period (of time),
+碁,1766,Go,,Go (the game),
+基,1767,fundamentals,,fundamental,
+甚,1768,tremendously,,tremendously,
+勘,1769,intuition,,intuition,
+堪,1770,withstand,耐,endure,忍
+貴,1771,precious,,noble,
+遺,1772,bequeath,,legacy,
+遣,1773,dispatch,,use (something intangible),
+舞,1774,dance,踊,traditional dance,
+無,1775,nothingness,,nothing,
+組,1776,association,,organized group,
+粗,1777,coarse,,rough,
+租,1778,tariff,,tariff,
+祖,1779,ancestor,,grandparent,
+阻,1780,thwart,,get in one's way,
+査,1781,investigate,,inspect,視
+助,1782,help,,help,
+宜,1783,best regards,,best regards,
+畳,1784,tatami mat,,tatami mat,
+並,1785,row,列 漕,line up,陳
+普,1786,universal,,normal,
+譜,1787,musical score,,record,録
+湿,1788,damp,,moisture,
+顕,1789,appear,,appear,
+繊,1790,slender,,fiber-like,
+霊,1791,spirits,気,ghost,鬼
+業,1792,profession,,business,忙
+撲,1793,slap,,hit (with a blunt object),
+僕,1794,me,,me (boyish),
+共,1795,together,,together,
+供,1796,submit,,offer,牲 献
+異,1797,uncommon,,different,差 違
+翼,1798,wing,,wing,
+洪,1799,deluge,,flood,
+港,1800,harbor,,port,湊
+暴,1801,outburst,,outburst,
+爆,1802,bomb,,explosion,
+恭,1803,respect,敬 謹,respectful,敬 謹
+選,1804,elect,,select,
+殿,1805,Mr.,,palace,
+井,1806,well,,a well,
+囲,1807,surround,,surround,
+耕,1808,till,,plow (the soil),
+亜,1809,Asia,,Asia,
+悪,1810,bad,,bad,
+円,1811,circle,丸 廻,one yen coin,
+角,1812,angle,釣,angle,釣
+触,1813,contact,,touch,接
+解,1814,unravel,,unravel,
+再,1815,again,,one more time,
+講,1816,lecture,,lecture,
+購,1817,subscription,,subscribe,
+構,1818,posture,,be concerned about,
+溝,1819,gutter,,ditch,堀
+論,1820,argument,,argument,
+倫,1821,ethics,,moral principles,
+輪,1822,wheel,,ring,環
+偏,1823,partial,,biased,僻
+遍,1824,everywhere,,everywhere,
+編,1825,compilation,撰,knit together,
+冊,1826,tome,,volume (of a book),
+典,1827,code,,canon,
+氏,1828,family name,,family name,
+紙,1829,paper,,paper,
+婚,1830,marriage,,marriage,
+低,1831,lower,,low,
+抵,1832,resist,,resist,
+底,1833,bottom,,bottom,
+民,1834,people,,people,
+眠,1835,sleep,,to sleep,
+捕,1836,catch,,capture,囚
+浦,1837,bay,,bay,
+蒲,1838,bullrush,,cattail (a type of plant),
+舗,1839,shop,店,store,店
+補,1840,supplement,,supplementary,
+邸,1841,residence,居,residence,居
+郭,1842,enclosure,,enclosure,
+郡,1843,county,,county,
+郊,1844,outskirts,,outskirts,
+部,1845,section,,section,
+都,1846,metropolis,,metropolis,
+郵,1847,mail,,mail,
+邦,1848,home country,,home country,
+郷,1849,hometown,,hometown,
+響,1850,echo,,echo,
+郎,1851,son,,young guy,
+廊,1852,corridor,,corridor,
+盾,1853,shield,,shield,
+循,1854,sequential,,sequential,
+派,1855,faction,,belonging to a group,
+脈,1856,vein,,vein,
+衆,1857,masses,,a lot of people,
+逓,1858,parcel post,,parcel post,
+段,1859,grade,,step,踏
+鍛,1860,forge,,forge,
+后,1861,empress,,empress,
+幻,1862,phantasm,,illusion,
+司,1863,director,,boss,
+伺,1864,pay respects,,inquire (humble),
+詞,1865,parts of speech,,part of speech,
+飼,1866,domesticate,,keep a pet,
+嗣,1867,heir,,heir,
+舟,1868,boat,,boat,
+舶,1869,liner,,oceangoing ship,
+航,1870,navigate,,navigation,
+般,1871,carrier,,as any other,
+盤,1872,tray,,plate,
+搬,1873,conveyor,,haul,
+船,1874,ship,,ship,
+艦,1875,warship,,warship,
+艇,1876,rowboat,,rowboat,
+瓜,1877,melon,,melon,
+弧,1878,arc,,arc,
+孤,1879,orphan,,orphan,
+繭,1880,cocoon,,cocoon,
+益,1881,benefit,,benefit,
+暇,1882,spare time,,free time,
+敷,1883,spread,,spread out,
+来,1884,come,佼,come,佼
+気,1885,spirit,霊,state of mind,
+汽,1886,vapor,,steam,蒸
+飛,1887,fly,,fly,
+沈,1888,sink,,sink,
+妻,1889,wife,,wife,
+衰,1890,decline,,decline,
+衷,1891,inmost,,inmost,
+面,1892,mask,,surface,表
+革,1893,leather,,leather,
+靴,1894,shoes,,shoes,
+覇,1895,hegemony,,supremacy,
+声,1896,voice,濁,voice,濁
+呉,1897,give,,give,
+娯,1898,recreation,,recreation,
+誤,1899,mistake,,error,
+蒸,1900,steam,汽,steamy,
+承,1901,acquiesce,,to be told,
+函,1902,bin,,shipping box,
+極,1903,poles,竿,extreme,末
+牙,1904,tusk,,fang,
+芽,1905,bud,,bud,
+邪,1906,wicked,芯,wicked,芯
+雅,1907,gracious,,refined,研 精
+釈,1908,explanation,,explanation,
+番,1909,turn,,place in a series,
+審,1910,hearing,聞,explain in detail,
+翻,1911,flip,,flip over,
+藩,1912,clan,,feudal clan,
+毛,1913,fur,,fur,
+耗,1914,decrease,,decrease,
+尾,1915,tail,,tail,
+宅,1916,home,,home,
+託,1917,consign,,entrust,嘱
+為,1918,do,,for the sake of,
+偽,1919,falsehood,詐,fake,
+長,1920,long,欲 竪,long,欲 竪
+張,1921,lengthen,,lengthen,
+帳,1922,notebook,,notebook,
+脹,1923,dilate,,dilate,
+髪,1924,hair of the head,,hair,
+展,1925,unfold,,exhibit,
+喪,1926,miss,,loss of something dear,
+巣,1927,nest,,nest,
+単,1928,simple,簡,single,独
+戦,1929,war,,war,
+禅,1930,Zen,,Zen,
+弾,1931,bullet,,bullet,
+桜,1932,cherry tree,,cherry tree,
+獣,1933,animal,,beast,
+脳,1934,brain,,brain,
+悩,1935,trouble,,worry,
+厳,1936,stern,,strict,堅
+鎖,1937,chain,,chain,
+挙,1938,raise,,raise and present,
+誉,1939,reputation,,honor,御
+猟,1940,game hunting,,hunt wildlife,
+鳥,1941,bird,,bird,
+鳴,1942,chirp,,to ring,
+鶴,1943,crane,,crane,
+烏,1944,crow,,crow,
+蔦,1945,vine,,vine,
+鳩,1946,pigeon,,pigeon,
+鶏,1947,chicken,,chicken,
+島,1948,island,,island,
+暖,1949,warmth,,warm,温
+媛,1950,beautiful woman,,woman of noble birth,
+援,1951,abet,,assist,佐
+緩,1952,slacken,,become loose,
+属,1953,belong,,belong to,
+嘱,1954,entrust,託,request,求
+偶,1955,accidentally,,occasional,
+遇,1956,interview,,encounter,遭
+愚,1957,foolish,,foolish,
+隅,1958,corner,,corner (of a room),
+逆,1959,inverted,,reverse,
+塑,1960,model,型,take form,
+岡,1961,Mount,,rising ground,
+鋼,1962,steel,,steel,
+綱,1963,hawser,,sumo belt,
+剛,1964,sturdy,,sturdy,
+缶,1965,tin can,,tin can,
+陶,1966,pottery,,pottery,
+揺,1967,swing,,shake,振
+謡,1968,Noh chanting,,noh chanting,
+就,1969,concerning,,set about,
+懇,1970,sociable,,sincere,誠
+墾,1971,groundbreaking,,groundbreaking,
+免,1972,excuse,,be exempt,
+逸,1973,elude,遁,deviate (from something),
+晩,1974,nightfall,,evening (after sunset),
+勉,1975,exertion,,try hard,
+象,1976,elephant,,elephant,
+像,1977,statue,,statue,
+馬,1978,horse,,horse,
+駒,1979,pony,,chess piece,棋
+験,1980,verification,,verification,
+騎,1981,equestrian,,horseman,
+駐,1982,parking,園,stop and park,
+駆,1983,drive,,to dash,
+駅,1984,station,,train station,
+騒,1985,boisterous,,make noise,
+駄,1986,burdensome,,low quality,
+驚,1987,wonder,,surprise,
+篤,1988,fervent,,fervent,
+騰,1989,inflation,,inflation,
+虎,1990,tiger,,tiger,
+虜,1991,captive,,captive,
+膚,1992,skin,肌,skin (medical),
+虚,1993,void,,without a physical form,
+戯,1994,frolic,,playful,遊
+虞,1995,uneasiness,,uneasiness,
+慮,1996,prudence,,consider carefully,
+劇,1997,drama,,drama,
+虐,1998,tyrannize,,oppress,
+鹿,1999,deer,,deer,
+薦,2000,recommend,,recommend (something or someone),
+慶,2001,jubilation,,congratulate,賀
+麗,2002,lovely,愛,lovely,愛
+熊,2003,bear,,bear,
+能,2004,ability,,ability,
+態,2005,attitude,,seems like,
+寅,2006,sign of the tiger,,sign of the tiger,
+演,2007,performance,,performance,
+辰,2008,sign of the dragon,,sign of the dragon,
+辱,2009,embarrass,羞,disgrace,
+震,2010,quake,,tremors,
+振,2011,shake,揺,to wave,
+娠,2012,with child,,be pregnant,
+唇,2013,lips,,lips,
+農,2014,agriculture,,farming,畑
+濃,2015,concentrated,,thick (consistency),
+送,2016,send off,,send something,
+関,2017,connection,,connected to,
+咲,2018,blossom,,blossom,
+鬼,2019,ghost,霊,oni,
+醜,2020,ugly,,ugly,
+魂,2021,soul,,soul,
+魔,2022,witch,,demon,
+魅,2023,fascination,,charm,嬌
+塊,2024,clod,,lump,
+襲,2025,attack,攻,assault,殴
+嚇,2026,upbraid,,intimidate,威
+朕,2027,majestic plural,,majestic plural,
+雰,2028,atmosphere,,atmosphere,
+箇,2029,item,,item,
+錬,2030,tempering,,temper,
+遵,2031,abide by,,conform,
+罷,2032,quit,,to cease,
+屯,2033,barracks,,barracks,
+且,2034,moreover,,there is more,
+藻,2035,seaweed,,seaweed,
+隷,2036,slave,,slave,
+癒,2037,healing,療,heal,療
+丹,2038,cinnabar,,rust colored,
+潟,2039,lagoon,,lagoon,
+丑,2040,sign of the cow,,sign of the cow,
+卯,2041,sign of the hare,,sign of the hare,
+巳,2042,sign of the snake,,sign of the snake,
+此,2043,this here,,this here,
+柴,2044,brushwood,,brushwood,
+砦,2045,fort,,fort,
+些,2046,whit,,whit,
+髭,2047,beard,,beard,
+璃,2048,crystal,晶,crystal,晶
+禽,2049,fowl,,fowl,
+檎,2050,apple,,apple,
+憐,2051,sympathize with,,sympathize with,
+燐,2052,phosphorus,,phosphorus,
+麟,2053,camelopard,,camelopard,
+鱗,2054,scaled,,scaled,
+奄,2055,encompassing,,obstruct (by covering),
+庵,2056,hermitage,,hermitage,
+掩,2057,shrouded,,concealed,隠
+俺,2058,myself,,me (manly),
+悛,2059,make amends,,make amends,
+駿,2060,steed,,excellent horse,
+峻,2061,steep,,steep mountain,
+竣,2062,complete a job,,complete a job,
+臼,2063,mortar,,mortar (a hollow cup),
+舅,2064,father-in-law,,father-in-law,
+鼠,2065,mouse,,mouse,
+鑿,2066,bore,,bore,
+毀,2067,break,壊,demolish,
+艘,2068,small craft,,small craft,
+犀,2069,rhinoceros,,rhinoceros,
+皐,2070,lunar month,,lunar month,
+脊,2071,spinal column,,backbone,
+畷,2072,rice-field footpath,,rice-field footpath,
+綴,2073,mend,,mend,
+爾,2074,let it be,,let it be,
+璽,2075,imperial seal,,imperial seal,
+鎧,2076,suit of armor,,suit of armor,
+凱,2077,triumph,,triumph,
+妖,2078,bewitched,,supernatural allure,
+沃,2079,irrigate,,irrigate,
+呑,2080,quaff,,swallow whole,
+韮,2081,leek,,leek,
+籤,2082,lottery,,lottery,
+懺,2083,penitential,,penitential,
+芻,2084,hay,,hay,
+雛,2085,chick,,chick,
+趨,2086,scurry,,run towards,
+尤,2087,understandably,,plausible,
+稽,2088,training,,training,
+厖,2089,immense,,immense,
+采,2090,grab,掴,colorful dice,
+或,2091,a  (a certain),,a certain,
+斬,2092,chop off,,slice to kill,
+兎,2093,rabbit,,rabbit,
+也,2094,est,,to be (archaic),
+尭,2095,lofty,,lofty,
+巴,2096,comma-design,,swirly pattern,
+甫,2097,offspring,,start of,
+疋,2098,critters,,small animal (archaic),
+菫,2099,violet,,violet,
+曼,2100,mandala,,mandala,
+巾,2101,towel,,piece of fabric,
+云,2102,quote,,quote,
+卜,2103,augury,,crooked divining rod,
+喬,2104,heaven-high,,tall,高
+莫,2105,shalt,,want not,
+倭,2106,Yamato,,Yamato,
+侠,2107,chivalry,,chivalry,
+倦,2108,fed up,,be tired of and have enough,
+佼,2109,comely,来,comely,来
+俄,2110,abrupt,,abrupt,
+佃,2111,work a field,,work a field,
+伶,2112,minstrel,,minstrel,
+仔,2113,animal offspring,,animal offspring,
+仇,2114,foe,,foe,
+伽,2115,look after,,look after,
+僅,2116,trifle,,trifle,
+僻,2117,biased,偏,biased,偏
+儲,2118,make a profit,,make a profit,
+倖,2119,bliss,,happy person,
+僑,2120,emigrant,,emigrant,
+侶,2121,partner,,partner,
+伎,2122,performing artist,,performing artist,
+侃,2123,integrity,,integrity,
+倶,2124,mate,,mate,
+侭,2125,as is,,as is,
+佑,2126,adjutant,,adjutant,
+俣,2127,fork in a road,,fork in a road,
+傭,2128,hire,雇,hired for money,
+偲,2129,memorial,憶,memorial,憶
+脩,2130,dried meat,,dried meat,
+倅,2131,my son,,my son,
+做,2132,make do,,make do,
+凄,2133,nifty,,amazing,
+冴,2134,sharp,鋭,clarity,
+凋,2135,wilt,,wilt,
+凌,2136,pull through,,pull through,
+冶,2137,metallurgy,,metallurgy,
+凛,2138,stately,州,stately,州
+凧,2139,kite,,kite,
+凪,2140,lull,,lull,
+夙,2141,earlybird,,earlybird,
+鳳,2142,phoenix,,phoenix,
+劉,2143,slaughter,,slaughter,
+刹,2144,moment,,pagoda,塔
+剥,2145,peel off,,peel off,
+剃,2146,shave,,shave,
+匂,2147,aroma,,scent,
+勾,2148,flexed,,flexed,
+厭,2149,despondent,,be bored of and have enough,
+雁,2150,wild goose,,wild goose,
+贋,2151,counterfeit,,counterfeit,
+厨,2152,kitchen,,kitchen,
+仄,2153,insinuate,,insinuate,
+哨,2154,scout,,scout,
+嘲,2155,derision,,mockery,
+咎,2156,reprehend,,reprehend,
+囁,2157,whisper,,whisper,
+喋,2158,chatter,,chat,
+咽,2159,windpipe,,windpipe,
+嘩,2160,quarrel,,quarrel,
+噂,2161,gossip,,rumor,
+咳,2162,cough,,cough,
+喧,2163,clamor,,noisy,
+喉,2164,throat,,throat,
+唾,2165,saliva,,saliva,
+叩,2166,bash,,hit (with a hand),
+嘘,2167,fib,,lie,詐
+啄,2168,peck at,,peck at,
+呪,2169,curse,,curse,
+吠,2170,barking,,barking,
+吊,2171,dangle,,dangle,
+噛,2172,chew,,bite,
+叶,2173,within my ability,,become true (a wish or a prayer),
+吻,2174,sides of the mouth,,sides of the mouth,
+吃,2175,stammer,,stammer,
+噺,2176,spin a tale,,spin a tale,
+噌,2177,miso,,miso,
+唄,2178,pop song,,shamisen song,
+叱,2179,scold,,scold,
+邑,2180,city walls,,city walls,
+呆,2181,dumbfounded,,dumbfounded,
+喰,2182,ingest,,feed on (something),
+埴,2183,clay,,clay,
+坤,2184,authochthonous,,authochthonous,
+堆,2185,piled high,,piled high,
+壕,2186,dugout,,trench (not filled with water),
+垢,2187,blemish,,filth,
+坦,2188,flat,平 軒,even,夕 平
+埠,2189,wharf,,wharf,
+填,2190,stuff up,,stuff something with,
+堰,2191,dam,,dam,
+堵,2192,railing,,railing,
+嬰,2193,suckling infant,,suckling infant,
+姦,2194,violate,,violate,
+妬,2195,jealous,,malicious jealousy,
+婢,2196,handmaiden,,handmaiden,
+婉,2197,well finished,,graceful,恩 淑
+娼,2198,harlot,,whore,
+妓,2199,courtesan,,courtesan,
+娃,2200,fair,,fair,
+姪,2201,niece,,niece,
+嫉,2202,envy,,hateful jealousy,
+嬬,2203,mistress,,mistress,
+姥,2204,aged woman,,elderly woman,
+姑,2205,mother-in-law,,mother-in-law,
+姐,2206,young miss,,young miss,
+嬉,2207,overjoyed,,delighted,歓
+孕,2208,expecting,,be filled with,
+孜,2209,assiduous,,assiduous,
+宥,2210,soothe,,soothe,
+寓,2211,imply,,imply,
+宏,2212,extensive,,extensive,
+牢,2213,jail,,jail,
+塞,2214,block up,,blockage,
+宋,2215,Sung dynasty,,Sung dynasty,
+宍,2216,venison,,venison,
+屠,2217,butchering,,butcher,
+屁,2218,fart,,fart,
+屑,2219,rubbish,,rubbish,
+尻,2220,buttocks,,butt,
+屡,2221,frequently,,frequently,
+屍,2222,corpse,,corpse,
+屏,2223,folding screen,,folding screen,
+嵩,2224,high-reaching,,high-reaching,
+崚,2225,rugged mountains,,rugged mountains,
+峨,2226,high mountain,,high mountain,
+崖,2227,bluffs,,bluffs,
+嶺,2228,mountaintop,,mountain ridge,
+嵌,2229,fit into,,fit into,
+嵯,2230,rocky,,rocky,
+帖,2231,quire,,quire,
+幡,2232,banner,,banner,
+幟,2233,pennant,,pennant,
+庖,2234,cleaver,,cleaver,
+廓,2235,licensed quarters,,licensed quarters,
+庇,2236,overhang,,overhang,
+鷹,2237,hawk,,hawk,
+庄,2238,shire,,manor,
+廟,2239,tomb sanctuary,,tomb sanctuary,
+彊,2240,strengthen,,strengthen,
+弥,2241,more and more,,increasingly extend,
+弛,2242,loosen,,relax (tension),
+粥,2243,rice gruel,,rice gruel,
+挽,2244,lathe,,lathe,
+撞,2245,bump into,,bump into,
+扮,2246,disguise,,disguise,
+掠,2247,pillage,,pillage,
+挨,2248,shove,,push open,
+掴,2249,clutch,,grab,采
+捺,2250,impress,,impress into,
+捻,2251,wrenching,,wrenching,
+掻,2252,scratch,,to scratch,
+撰,2253,assortment,,compilation,編
+拭,2254,wipe,,wipe,
+揃,2255,muster,,make a full set,
+捌,2256,deal with,,deal with,
+撹,2257,churn up,,churn up,
+摺,2258,rubbing,抹 擦,rub and leave material,
+按,2259,press down on,,press down on,
+捉,2260,nab,,grab and hold,
+拶,2261,imminent,,squeeze fingers,
+播,2262,disseminate,,disseminate,
+揖,2263,interpretation,,interpretation,
+托,2264,receptable,,receptable,
+捧,2265,dedicate,奉,dedicate with both hands,
+撚,2266,twirl,,twirl,
+挺,2267,counter for tools,,counter for tools,
+擾,2268,commotion,,commotion,
+捗,2269,make headway,,make headway,
+撫,2270,petting,,petting,
+撒,2271,sprinkle,,sprinkle,
+擢,2272,outstanding,,outstanding,
+捷,2273,spoils,,spoils,
+抉,2274,gouge out,,take out what's buried inside,
+怯,2275,wince,,recoil in fear,
+惟,2276,ponder,,ponder,
+惚,2277,infatuation,,fall in love,
+怜,2278,quickwitted,,quickwitted,
+惇,2279,considerate,,considerate,
+憧,2280,yearn,,yearn for,
+恰,2281,as if,,as if,
+恢,2282,enlarge,,enlarge,
+悌,2283,respect for elders,,respect for elders,
+湧,2284,bubble up,,spring forth,
+澪,2285,canal,,canal,
+洸,2286,glistening,,glistening,
+滉,2287,bounding main,,bounding main,
+漱,2288,gargle,,gargle,
+洲,2289,continent,,sandbank,
+洵,2290,swirling waters,,swirling waters,
+滲,2291,seep,,seep,
+洒,2292,rinse,,rinse,
+沐,2293,douse,,douse,
+泪,2294,teardrops,,teardrops,
+渾,2295,gushing,,gushing,
+沙,2296,grains of sand,,grains of sand,
+涜,2297,blaspheme,,desecrate,
+淫,2298,lewd,,lewd,
+梁,2299,roofbeam,,roof beam,
+澱,2300,sediment,,sediment,
+氾,2301,widespread,,widespread,
+洛,2302,old Kyoto,,old capital,
+汝,2303,thou,,thou,
+漉,2304,filter,,filter,
+瀕,2305,on the verge of,,on the verge of,
+濠,2306,moat,堀,trench (filled with water),
+溌,2307,spray,,spray,
+溺,2308,drowning,没,to drown,
+湊,2309,port,港,piece together,
+淋,2310,solitude,,solitude,
+浩,2311,abounding,,vast and great,
+汀,2312,water’s edge,,water’s edge,
+鴻,2313,large goose,,large goose,
+潅,2314,souse,,souse,
+溢,2315,brimming,,overflow,濫
+汰,2316,cleanse,浄,sieve through,
+湛,2317,inundate,,inundate,
+淳,2318,immaculate,,immaculate,
+潰,2319,defile,,crush,
+渥,2320,moisten,,moisten,
+灘,2321,rough seas,,rough seas,
+汲,2322,draw water,,draw water,
+瀞,2323,river pool,,river pool,
+溜,2324,cumulation,,accumulate,累
+渕,2325,abyss,,abyss,
+沌,2326,chaos,乱,primeval chaos,
+汎,2327,pan-,,far reaching,
+濾,2328,strainer,,strainer,
+濡,2329,drench,,get wet,
+淀,2330,eddy,,stagnate,滞
+涅,2331,fabrication,築,fabrication,築
+釜,2332,cauldron,,cauldron,
+斧,2333,hatchet,,hatchet,
+爺,2334,grandpa,,old geezer,
+猾,2335,sly,,sly,
+猥,2336,indecent,,indecent,
+狡,2337,cunning,,cunning,
+狸,2338,racoon dog,,racoon dog,
+狼,2339,wolf,,wolf,
+狽,2340,flustered,慌,lose one's presence of mind,
+狗,2341,pup,,pup,
+狐,2342,fox,,fox,
+狛,2343,a-un,,a-un,
+狙,2344,aim at,,aim at,
+獅,2345,lion,,lion,
+狒,2346,baboon,,baboon,
+莨,2347,tobacco,,tobacco,
+茉,2348,jasmine,,jasmine,
+莉,2349,hawthorn,,hawthorn,
+苺,2350,strawberry,,strawberry,
+萩,2351,bush clover,,bush clover,
+藝,2352,technique (old),,art [old],
+薙,2353,trim,刈,mow down,
+蓑,2354,straw raincoat,,straw raincoat,
+萎,2355,numb,,wither,枯
+苔,2356,moss,,moss,
+蕩,2357,prodigal,,prodigal,
+蔽,2358,cover over,,to cover,
+蔓,2359,tendril,,tendril,
+蓮,2360,lotus,,lotus (a type of flower),
+芙,2361,lotus flower,,lotus flower,
+蓉,2362,lotus blossom,,lotus blossom,
+蘭,2363,orchid,,orchid,
+芦,2364,hollow reed,,hollow reed,
+薯,2365,yam,,yam,
+菖,2366,iris,,iris (flower),
+蕉,2367,banana,,banana,
+芯,2368,wick,邪,wick,邪
+蕎,2369,buckwheat,,buckwheat,
+蕗,2370,butterbur,,butterbur,
+藍,2371,indigo,,indigo,
+茄,2372,eggplant,,eggplant,
+苛,2373,bullying,,bullying,
+蔭,2374,behind the scenes,,shaded by grass,
+蓬,2375,wormwood,,wormwood,
+芥,2376,mustard,,trash,
+萌,2377,germinate,,sprout,
+葡,2378,grape,,grape,
+萄,2379,grape vine,,grape vine,
+蘇,2380,resurrect,,resurrect,
+蕃,2381,grow wild,,grow wild,
+苓,2382,cocklebur,,cocklebur,
+菰,2383,rush mat,,rush mat,
+蒙,2384,darken,,ignorance,
+茅,2385,grassy reed,,grassy reed,
+芭,2386,plantain,,plantain,
+苅,2387,mow,,trim grass,
+蓋,2388,lid,,lid,
+葱,2389,onion,,onion,
+蔑,2390,revile,,scorn,侮
+葵,2391,hollyhock,,hollyhock,
+葺,2392,shingling,,shingling,
+蕊,2393,stamen,,stamen,
+茸,2394,mushroom,,mushroom,
+蒔,2395,sowing,,sow seeds,
+芹,2396,parsley,,parsley,
+苫,2397,thatching,,thatching,
+葛,2398,kudzu,,kudzu (a type of plant),
+蒼,2399,pale blue,,pale blue,
+藁,2400,straw,,straw,
+蕪,2401,turnip,,turnip,
+藷,2402,sweet potato,,sweet potato,
+薮,2403,quack,,quack,
+蒜,2404,garlic,,garlic,
+蕨,2405,bracken,,bracken,
+蔚,2406,grow plentiful,,grow plentiful,
+茜,2407,madder red,,madder red,
+莞,2408,candle rush,,smile sweetly,
+蒐,2409,collector,,collector,
+菅,2410,sedge,,sedge (a type of plant),
+葦,2411,ditch reed,,ditch reed,
+迪,2412,Way,,road to enlightenment,
+辿,2413,track down,,track down,
+這,2414,crawl,,crawl,
+迂,2415,detour,,detour,
+遁,2416,elude,逸,elude,逸
+逢,2417,tryst,,meet face-to-face,
+遥,2418,far off,,far off,
+遼,2419,remote,悠,remote,悠
+逼,2420,pressing,,pressing,
+迄,2421,until,,until,
+遜,2422,modest,,modest,
+逗,2423,standstill,,standstill,
+郁,2424,cultured,,cultured,
+鄭,2425,courtesy,,courtesy,
+隙,2426,chink,,gap,
+隈,2427,nook,,nook,
+憑,2428,possessed,有,possessed,有
+惹,2429,attract,嬌,attract,嬌
+悉,2430,without exception,,without exception,
+忽,2431,instantaneously,,instantaneously,
+惣,2432,firstborn son,,firstborn son,
+愈,2433,in the nick of time,,in the nick of time,
+恕,2434,sensitive,,sensitive,
+昴,2435,overarching,,overarching,
+晋,2436,progress,,Jin dynasty,
+曖,2437,equivocal,,unclear,
+晟,2438,aglow,,aglow,
+暈,2439,halo,,halo,
+暉,2440,glitter,,glitter,
+旱,2441,dry weather,,dry weather,
+晏,2442,clear skies,,clear skies,
+晨,2443,morrow,,morrow,
+晒,2444,bleaching,,bleaching,
+昧,2445,obscure,,vague,漠
+晃,2446,limpid,,sun rays,
+曝,2447,air out,,exposure,
+曙,2448,dawn,暁,daybreak,暁
+昂,2449,elevate,,get worked up,
+旺,2450,effulgent,,full of vigor,
+昏,2451,dusk,,lose consciousness,
+晦,2452,last day of the month,,last day of the month,
+腎,2453,kidney,,kidney,
+股,2454,thigh,,thighs,
+膿,2455,pus,,pus,
+腑,2456,viscera,,viscera,
+胱,2457,bladder,,bladder,
+胚,2458,embryo,,embryo,
+肛,2459,anus,,anal,
+臆,2460,cowardice,,be hesitant,
+膝,2461,knee,,knee,
+脆,2462,fragile,,fragile,
+肋,2463,rib,,rib,
+肘,2464,elbow,,elbow,
+腔,2465,body cavity,,body cavity,
+腺,2466,gland,,gland,
+腫,2467,tumor,,become swollen,
+膳,2468,dining tray,,dining tray,
+肱,2469,armrest,,armrest,
+胡,2470,uncivilized,,ancient barbarian,
+楓,2471,maple tree,,maple tree,
+枕,2472,pillow,,pillow,
+楊,2473,purple willow,,purple willow,
+椋,2474,Oriental elm,,Oriental elm,
+榛,2475,hazel,,hazel (a type of small tree),
+櫛,2476,comb,,comb,
+槌,2477,wooden hammer,,wooden hammer,
+樵,2478,mallet,,mallet,
+梯,2479,ladder,,ladder,
+椅,2480,chair,,chair,
+柿,2481,persimmon,,persimmon,
+柑,2482,citrus tree,,citrus tree,
+桁,2483,girder,,number of digits,
+杭,2484,picket,,picket,
+柊,2485,holly,,holly,
+柚,2486,citron,,citron,
+椀,2487,wooden bowl,,wooden bowl,
+栂,2488,hemlock,,hemlock,
+柾,2489,spindle tree,,spindle tree,
+榊,2490,sacred Shinto tree,,sacred tree,
+樫,2491,evergreen oak,,evergreen oak,
+槙,2492,Chinese black pine,,Chinese black pine,
+楢,2493,Japanese oak,,Japanese oak,
+橘,2494,mandarin orange,,mandarin orange,
+桧,2495,Japanese cypress,,Japanese cypress,
+棲,2496,roost,,inhabit,
+栖,2497,nestle,,inhabit a nest,
+梗,2498,spiny,,round tube,
+桔,2499,bellflower,,bellflower,
+杜,2500,temple grove,,temple grove,
+杷,2501,grain rake,,farmer's rake,
+梶,2502,oar,,oar,
+杵,2503,wooden pestle,,wooden pestle,
+杖,2504,cane,,cane,
+椎,2505,sweet oak,,part of the spine,
+樽,2506,barrel,,barrel,
+柵,2507,palisade,,palisade,
+櫓,2508,turret,,watchtower (with archers),
+橿,2509,sturdy oak,,sturdy oak,
+杓,2510,wooden ladle,,wooden ladle,
+李,2511,damson,,plum,梅
+棉,2512,raw cotton,,raw cotton,
+楯,2513,escutcheon,,wooden shield,
+榎,2514,hackberry,,hackberry,
+樺,2515,birch,,birch,
+槍,2516,lance,,spear,
+柘,2517,wild mulberry,,wild mulberry,
+梱,2518,bale,,bale,
+枇,2519,loquat,,loquat,
+樋,2520,downspout,,downspout,
+橇,2521,sled,,sled,
+槃,2522,enjoyment,,enjoyment,
+栞,2523,bookmark,,bookmark,
+椰,2524,coconut tree,,coconut tree,
+檀,2525,sandalwood,,sandalwood,
+樗,2526,plotosid,,plotosid,
+槻,2527,zelkova,,zelkova,
+椙,2528,cryptomeria,,cryptomeria,
+彬,2529,copious,,copious,
+桶,2530,bucket,,bucket,
+楕,2531,ellipse,,ellipse,
+樒,2532,star-anise,,star-anise,
+毬,2533,furball,,furball,
+燿,2534,twinkle,,twinkle,
+燎,2535,watchfire,,watchfire,
+炬,2536,torch,,torch,
+焚,2537,kindle,,kindle,
+灸,2538,moxa,,moxa,
+燭,2539,candlelight,,candlelight,
+煽,2540,fanning,扇,fan flames,
+煤,2541,soot,,soot,
+煉,2542,firing,火,refine over a flame,
+燦,2543,dazzling,眩,brilliant,
+灼,2544,refulgent,,refulgent,
+烙,2545,branding,,branding,
+焔,2546,flames,,flames,
+熔,2547,fuse metal,,fuse metal,
+煎,2548,roast,焼,dry-roasted,
+烹,2549,stew,,stew,
+牽,2550,tug,,tug,
+牝,2551,female animal,,female animal,
+牡,2552,male animal,,male animal,
+瑶,2553,precious stone,,precious stone,
+琳,2554,chime,,chime,
+瑠,2555,marine blue,,marine blue,
+斑,2556,speckled,,spot,点
+琉,2557,lapis lazuli,,lapis lazuli,
+弄,2558,tinker with,,tinker with,
+瑳,2559,burnish,,burnish,
+琢,2560,hone,,hone,
+珊,2561,coral,,coral,
+瑚,2562,coral reef,,coral reef,
+瑞,2563,fortunate,,good omen,
+珪,2564,silicon,,silicon,
+玖,2565,jet,,jet,
+瑛,2566,crystal stone,,crystal stone,
+玩,2567,toy,,toy,
+玲,2568,tinkling,,tinkling,
+畏,2569,apprehensive,,apprehensive,
+畢,2570,lastly,,lastly,
+畦,2571,paddy-field ridge,,paddy-field ridge,
+痒,2572,itch,,itch,
+痰,2573,phlegm,,phlegm,
+疹,2574,measles,,skin rash,
+痔,2575,hemorrhoids,,hemorrhoids,
+癌,2576,cancer,,cancer,
+痩,2577,lose weight,,lose weight,
+痕,2578,scar,,scar,
+痺,2579,paralysis,,paralysis,
+眸,2580,apple of the eye,,iris (of eye),
+眩,2581,dizzy,,dazzling,燦
+瞭,2582,obvious,,unambiguous,
+眉,2583,eyebrow,,eyebrow,
+雉,2584,pheasant,,pheasant,
+矩,2585,carpenter’s square,,carpenter’s square,
+磐,2586,crag,,large rock in which the gods dwell,
+碇,2587,grapnel,,grapnel,
+碧,2588,blue-green,,blue-green,
+硯,2589,inkstone,,inkstone,
+砥,2590,grindstone,,whetstone,砺
+碗,2591,teacup,,teacup,
+碍,2592,obstacle,,obstacle,
+碩,2593,illustrious,,illustrious,
+磯,2594,rocky beach,,rocky beach,
+砺,2595,whetstone,砥,whetstone,砥
+碓,2596,mill,,mill,
+禦,2597,fend off,,fend off,
+祷,2598,beseech,,beseech,
+祐,2599,ancestral tablet,,ancestral tablet,
+祇,2600,local god,,earthly god,
+祢,2601,ancestral shrine,,ancestral shrine,
+禄,2602,salarium,,salary,給
+禎,2603,felicitation,,felicitation,
+秤,2604,balancing scales,,balancing scales,
+黍,2605,millet,,millet,
+禿,2606,bald,,bald,
+稔,2607,bear fruit,,bear fruit,
+稗,2608,crabgrass,,crabgrass,
+穣,2609,bumper crop,,yielding abundantly,
+稜,2610,imperial authority,,imperial authority,
+稀,2611,sparse,疎,rare,珍
+穆,2612,obeisant,,obeisant,
+窺,2613,peep,,look through something narrow,
+窄,2614,tight,,tight,
+窟,2615,cavern,,den,洞
+穿,2616,drill,,drill,
+竃,2617,kitchen stove,,kitchen stove,
+竪,2618,longness,欲 長,longness,欲 長
+颯,2619,rustling,,rustling,
+站,2620,outpost,,outpost,
+靖,2621,repose,,repose,
+妾,2622,concubine,,concubine,
+衿,2623,lapel,,lapel,
+裾,2624,hem,,hem,
+袷,2625,lined kimono,,lined kimono,
+袴,2626,pleated skirt,,hakama,
+襖,2627,sliding door,,sliding door,
+笙,2628,Chinese panpipe,,Chinese panpipe,
+筏,2629,raft,,raft,
+簾,2630,bamboo blinds,,bamboo blinds,
+箪,2631,rattan box,,rattan box,
+竿,2632,pole,極,pole,極
+箆,2633,spatula,,spatula,
+箔,2634,foil,,foil,
+笥,2635,wardrobe,,wardrobe,
+箭,2636,arrow shaft,,arrow shaft,
+筑,2637,ancient harp,,ancient harp,
+篭,2638,cage,,basket [simplified],
+篠,2639,slender bamboo,,dwarf bamboo,
+箸,2640,chopsticks,,chopsticks,
+纂,2641,redaction,,redaction,
+竺,2642,bamboo cane,,bamboo cane,
+箕,2643,winnowing fan,,winnowing fan,
+笈,2644,backpack,,backpack,
+篇,2645,livraison,,livraison,
+筈,2646,should,,should,
+簸,2647,winnow,,winnow,
+粕,2648,settlings,済,settlings,済
+糟,2649,lees,,lees,
+糊,2650,paste,故 去,paste,故 去
+籾,2651,unhulled rice,,unhulled rice,
+糠,2652,rice bran,,rice bran,
+糞,2653,excrement,,shit,
+粟,2654,foxtail millet,,foxtail millet,
+繋,2655,link up,,link together,
+綸,2656,twine,,twine,
+絨,2657,carpet yarn,,carpet yarn,
+絆,2658,ties,結,ties,結
+緋,2659,scarlet,,scarlet,
+綜,2660,synthesis,,synthesis,
+紐,2661,string,,string,
+紘,2662,chinstrap,,chinstrap,
+纏,2663,summarize,,summarize,
+絢,2664,gorgeous,,gorgeous,
+繍,2665,embroidery,,embroidery,
+紬,2666,pongee,,pongee,
+綺,2667,ornate,,ornate,
+綾,2668,damask,,design,柄
+絃,2669,catgut,,catgut,
+綻,2670,come apart at the seams,,come apart at the seams,
+縞,2671,stripe,,stripe,
+綬,2672,gimp,,gimp,
+紗,2673,gossamer,,gauze,羅
+舵,2674,rudder,,rudder,
+舷,2675,gunwale,,gunwale,
+聯,2676,strung together,,strung together,
+聡,2677,attentive,,clever-witted,
+聘,2678,summons,,summons,
+耽,2679,addiction,,become engrossed (in something),
+耶,2680,exclamation,,exclamation,
+蚤,2681,flea,,flea,
+蟹,2682,crab,,crab,
+蛋,2683,protein,,protein,
+蟄,2684,hibernation,,hibernation,
+蝿,2685,housefly,,housefly,
+蟻,2686,ant,,ant,
+蜂,2687,bee,,bee,
+蝋,2688,wax,,wax,
+蝦,2689,shrimp,,shrimp,
+蛸,2690,octopus,,octopus,
+螺,2691,screw,,spiral,
+蝉,2692,cicada,,cicada,
+蛙,2693,frog,,frog,
+蛾,2694,moth,,moth,
+蛤,2695,clam,,clam,
+蛭,2696,leech,,leech,
+蛎,2697,oyster,,oyster,
+罫,2698,ruled lines,,ruled lines,
+罵,2699,insult,,insult,
+袈,2700,stole,,stole,
+裟,2701,monk’s sash,,monk’s sash,
+戴,2702,accept humbly,,accept humbly,
+截,2703,incision,,incision,
+哉,2704,I wonder,,archaic exclamation mark,
+詢,2705,counsel,,counsel,
+諄,2706,polite,政 礼,wordy,
+讐,2707,vendetta,,vendetta,
+諌,2708,remonstrate,,remonstrate,
+謎,2709,riddle,,riddle,
+諒,2710,verify,,verify,
+讃,2711,compliment,,compliment,
+誰,2712,who?,,who?,
+訊,2713,query,,query,
+訣,2714,split up,,decide to separate,
+詣,2715,visit a shrine,,visit a shrine,
+諦,2716,give up,,give up,
+詮,2717,elucidate,,be worthwhile,
+詑,2718,prevarication,,prevarication,
+誼,2719,familiarity,,familiarity,
+謬,2720,fallible,,fallible,
+詫,2721,beg pardon,,beg pardon,
+諏,2722,advise,,advise,
+諺,2723,proverb,,proverb,
+誹,2724,slander,,slander,
+謂,2725,so-called,,so-called,
+諜,2726,secret agent,,secret agent,
+註,2727,footnote,,footnote,
+譬,2728,parable,,parable,
+轟,2729,rumble,,roar,
+輔,2730,reinforce,,help out,
+輻,2731,spoke,,spoke of a wheel,
+輯,2732,assemble,,assemble,
+貌,2733,countenance,,facial features,
+豹,2734,panther,,leopard,
+賎,2735,despicable,,despicable,
+貼,2736,affix,附,stick on,
+貰,2737,get,,get,
+賂,2738,graft,,bribe,賄
+賑,2739,bustling,奔,bustling,奔
+躓,2740,stumble,,stumble,
+蹄,2741,hoof,,hoof,
+蹴,2742,kick,,kick,
+蹟,2743,vestiges,,vestiges,
+跨,2744,straddle,,straddle,
+跪,2745,kneel,,kneel,
+醤,2746,soy sauce,,soy sauce,
+醍,2747,whey,,whey,
+酎,2748,hooch,,hooch,
+醐,2749,ghee,,ghee,
+醒,2750,awakening,,awakening,
+醇,2751,strong sake,,strong sake,
+麺,2752,noodles,,noodles,
+麹,2753,malt,,malted rice,
+釦,2754,button,,button,
+銚,2755,keg,,keg,
+鋤,2756,plow,,plow,
+鍋,2757,pot,,pot,
+鏑,2758,arrowhead,,arrowhead,
+鋸,2759,hand saw,,hand saw,
+錐,2760,awl,,awl,
+鍵,2761,key,,key,
+鍬,2762,hoe,,hoe,
+鋲,2763,rivet,,rivet,
+錫,2764,tin,,tin,
+錨,2765,anchor,,anchor,
+釘,2766,nail,,nail,
+鑓,2767,javelin,,javelin,
+鋒,2768,sword’s point,,sword’s point,
+鎚,2769,hammer,,metal hammer,
+鉦,2770,carillion,,carillion,
+錆,2771,rust,,rust,
+鍾,2772,cluster,房,bronze jar,
+鋏,2773,scissors,,scissors,
+閃,2774,flash,,flash,
+悶,2775,agony,,writhe in pain,
+閤,2776,side gate,,side gate,
+闇,2777,pitch dark,,pitch-black darkness,
+雫,2778,trickle,,trickle,
+霞,2779,haze,,haze,
+翰,2780,quill,,quill,
+斡,2781,auspices,,auspices,
+鞍,2782,saddle,,saddle,
+鞭,2783,whip,,whip,
+鞘,2784,saddle straps,,scabbard,
+鞄,2785,briefcase,,briefcase,
+靭,2786,pliable,,pliable,
+鞠,2787,terminate,,terminate,
+頓,2788,immediate,,immediate,
+顛,2789,overturn,覆,turn around,
+穎,2790,brush tip,,sharp tip,
+頃,2791,about that time,,around that time,
+頬,2792,cheek,,cheek,
+頗,2793,exceedingly,超,exceedingly,超
+頌,2794,accolade,,accolade,
+顎,2795,chin,,chin,
+頚,2796,neck and throat,,neck and throat,
+餌,2797,feed,,animal food,
+餐,2798,repast,,repast,
+饗,2799,feast,,feast,
+蝕,2800,eclipse,,consumed by worms,
+飴,2801,sweets,菓 甘,(hard) candy,
+餅,2802,mochi,,mochi (a sticky rice cake),
+駕,2803,stretcher,,stretcher,
+騨,2804,piebald,,piebald,
+馳,2805,rush,,rush (when going somewhere),
+騙,2806,cheat,,deceive through words,
+馴,2807,tame,,become used to,
+駁,2808,rebuttal,,rebuttal,
+駈,2809,gallop,,gallop,
+驢,2810,donkey,,donkey,
+鰻,2811,eel,,eel,
+鯛,2812,sea bream,,sea bream,
+鰯,2813,sardine,,sardine,
+鱒,2814,trout,,trout,
+鮭,2815,salmon,,salmon,
+鮪,2816,tuna,,tuna,
+鮎,2817,sweet smelt,,sweetfish,
+鯵,2818,horse mackerel,,horse mackerel,
+鱈,2819,cod,,cod,
+鯖,2820,mackerel,,mackerel,
+鮫,2821,shark,,shark,
+鰹,2822,bonito,,bonito,
+鰍,2823,bullhead,,bullhead,
+鰐,2824,alligator,,crocodile,
+鮒,2825,crucian,,crucian,
+鮨,2826,sushi,,sushi,
+鰭,2827,fish fin,,fish fin,
+鴎,2828,seagull,,seagull,
+鵬,2829,roc,,large mythical bird,
+鸚,2830,parakeet,,parakeet,
+鵡,2831,parrot,,parrot,
+鵜,2832,cormorant,,cormorant,
+鷺,2833,heron,,heron,
+鷲,2834,eagle,,eagle,
+鴨,2835,wild duck,,duck,
+鳶,2836,kite falcon,,black kite (a type of bird),
+梟,2837,owl,,owl,
+塵,2838,dust,,dust,
+麓,2839,foot of a mountain,,foot of a mountain,
+麒,2840,giraffe,,giraffe,
+冥,2841,Hades,,realm of the dead,
+瞑,2842,close the eyes,,close one's eyes,
+暝,2843,murky,,blot out the sun,
+坐,2844,sitting in meditation,,sitting around an earth pillar,
+挫,2845,sprain,,sprain,
+朔,2846,first day of the month,,first day of the month,
+遡,2847,go upstream,,go upstream,
+曳,2848,drag,,drag,
+洩,2849,dribble out,,unintentionally leak,
+彗,2850,comet,,comet,
+慧,2851,astute,,astute,
+嘉,2852,applaud,,praiseworthy,
+兇,2853,evil,,evil,
+兜,2854,helmet,,helmet,
+爽,2855,bracing,,refreshing,涼
+欝,2856,depressed,窪,depressed,窪
+劫,2857,kalpa,,kalpa,
+勃,2858,erection,架,erection,架
+歎,2859,bemoan,,grief,
+輿,2860,palanquin,,palanquin,
+巽,2861,southeast,,southeast,
+歪,2862,warped,,distort,
+翠,2863,jade green,,jade green,
+黛,2864,blue-black,,blue-black,
+鼎,2865,tripod,,tripod,
+鹵,2866,rocksalt,,rocksalt,
+鹸,2867,lye,,lye,
+虔,2868,reserved,,reserved,
+燕,2869,swallow,,swallow (bird),
+嘗,2870,lick,,taste,
+殆,2871,almost,,almost,
+孟,2872,start,,start,
+牌,2873,mahjong tiles,,mahjong tile,
+骸,2874,remains,,remains,
+覗,2875,peek,,peek,
+彪,2876,mottled,,mottled,
+秦,2877,Manchu dynasty,,Qin dynasty,
+雀,2878,sparrow,,sparrow,
+隼,2879,peregrine falcon,,falcon,
+耀,2880,shimmering,,shimmering,
+夷,2881,ebisu,,barbarian,蛮
+戚,2882,relatives,,family relative,
+嚢,2883,cyst,,sac,
+丼,2884,domburi,,rice bowl,
+暢,2885,carefree,,carefree,
+廻,2886,circling,丸 円,going around (old),
+畿,2887,capital suburbs,,territories near the capital,
+欣,2888,elation,,elation,
+毅,2889,stalwart,,stalwart,
+斯,2890,this,,this,
+匙,2891,wooden spoon,,wooden spoon,
+匡,2892,set straight,,set straight,
+肇,2893,founding,,founding,
+麿,2894,Utamaro,,person with shaved eyebrows,
+叢,2895,conglomerate,,conglomerate,
+肴,2896,entreat,,fish served as an appetizer,
+斐,2897,symmetrically patterned,,symmetrically patterned,
+卿,2898,magistrate,,magistrate,
+翫,2899,fiddle with,,fiddle with,
+於,2900,within,,regarding,
+套,2901,hackneyed,,trite,
+叛,2902,rebellion,,rebellion,
+尖,2903,sharp point,,sharp point,
+壷,2904,crock,,jar [simplified],
+叡,2905,sapience,,sapience,
+酋,2906,chieftain,,chieftain,
+鴬,2907,nightingale,,nightingale,
+赫,2908,incandescent,,incandescent,
+臥,2909,supinate,,lie down and rest,
+甥,2910,nephew,,nephew,
+瓢,2911,gourd,,gourd,
+琵,2912,biwa,,biwa,
+琶,2913,lute,,lute,
+叉,2914,forked,,forked,
+舜,2915,rose of Sharon,,rose of Sharon,
+畠,2916,dry field,,dry field,
+拳,2917,fist,,fist,
+圃,2918,vegetable patch,,vegetable patch,
+丞,2919,helping hand,,helping hand,
+亮,2920,translucent,,clear and obvious,
+胤,2921,blood relative,,blood relative,
+疏,2922,transcription,,transcription,
+膏,2923,ointment,,ointment,
+魁,2924,pioneer,,pioneer,
+馨,2925,ambrosial,,heavenly smell,
+牒,2926,label,,label,
+瞥,2927,glimpse,,glimpse,
+阜,2928,large hill,,Gifu hill,
+睾,2929,testicle,,testicle,
+巫,2930,sorceress,,sorceress,
+敦,2931,empathetic,,empathetic,
+奎,2932,Andromeda,,Andromeda,
+翔,2933,soar,,soar (in the sky),
+皓,2934,beaming,,beaming,
+黎,2935,tenebrous,,tenebrous,
+赳,2936,bold,敢,bold,敢
+已,2937,stop short,,stop short,
+棘,2938,thornbush,,thornbush,
+聚,2939,crowd,込,crowd,込
+甦,2940,resuscitate,,resuscitate,
+剪,2941,pruning,,pruning,
+躾,2942,upbringing,,upbringing,
+夥,2943,plentiful,豊,plentiful,豊
+鼾,2944,snore,,snore,
+祟,2945,cast a spell,,cast a spell,
+粁,2946,kilometer,,kilometer,
+糎,2947,centimeter,,centimeter,
+粍,2948,millimeter,,millimeter,
+噸,2949,ton,,ton,
+哩,2950,mile,,mile,
+浬,2951,nautical mile,,nautical mile,
+吋,2952,inch,,inch,
+呎,2953,feet,,feet,
+梵,2954,brahman,,brahman,
+陀,2955,Shakyamuni Buddha,,inaccessible terrain,
+薩,2956,bodhisattva,,bodhisattva,
+菩,2957,bo tree,,bo tree,
+唖,2958,babble,,babble,
+迦,2959,Sanskrit ka,,ka!,
+那,2960,interrogative,,na!,
+牟,2961,moo,,moo,
+珈,2962,jeweled hairpin,,jeweled hairpin,
+琲,2963,beaded hairpin,,beaded hairpin,
+檜,2964,Japanese cypress (old),,Japanese cypress (old),
+轡,2965,bridle’s bit,,bridle’s bit,
+淵,2966,abyss (old),,abyss (old),
+伍,2967,V,,thin five,
+什,2968,X,,X (ten),
+萬,2969,ten thousand (old),,ten thousand [old],
+邁,2970,pass through,通,push through,
+逞,2971,tough,,strong body and will,
+燈,2972,lamp (old),,lamp [old],
+裡,2973,back (old),,back (old),
+薗,2974,park (alternate),,park [old],
+鋪,2975,shop (alternate),,shop (alternate),
+嶋,2976,island (alternate),,island [old],
+峯,2977,summit (alternate),,peak [old],
+巌,2978,boulder (old),,huge rock,
+埜,2979,plains (old),,field [old],
+舘,2980,Bldg. (old),,large building,
+龍,2981,dragon (old),,ancient dragon,
+寵,2982,patronage,,patronage,
+聾,2983,deafness,,deafness,
+慾,2984,longing (old),,deep desire,
+亙,2985,span (old),,span [old],
+躯,2986,body (old),,body (old),
+嶽,2987,Point (old),,mountain peak [old],
+國,2988,country (old),,country [old],
+脛,2989,shin,脚,shin,脚
+勁,2990,formidable,,formidable,
+箋,2991,stationary,,slip of paper,
+祀,2992,enshrine,,worship as a god,
+祓,2993,exorcism,,exorcism,
+躇,2994,dither,,dither,
+壽,2995,longevity (old),,lifespan [old],
+躊,2996,hesitate,,hesitate,
+彙,2997,glossary,,glossary,
+饅,2998,bean jam,,bean jam,
+嘔,2999,retch,,retch,
+鼈,3000,snapping turtle,,snapping turtle,
+亨,3001,go smoothly,,go smoothly,
+侑,3002,condone,,condone,
+梧,3003,parasol tree,,parasol tree,
+欽,3004,circumspect,,circumspect,
+煕,3005,cheer,快,bright light,
+而,3006,and then,,and then,
+掟,3007,mandate,,mandate,
+嗅,3008,sniff,,sniff,
+喩,3009,metaphor,,metaphor,
+訃,3010,obituary,,news of someone's death,
+楷,3011,block letters,,block letters,
+諧,3012,orderliness,,orderliness,
+錮,3013,weld,,weld,
+恣,3014,selfish,,selfish,
+惧,3015,disquieting,,disquieting,
+憬,3016,hanker,,long for,
+拉,3017,yank,,squash flat,
+傲,3018,arrogance,慢,pride,
+踪,3019,trail,,trail,
+緻,3020,fine,,fine,
+璧,3021,holed gem,,gem with a hole in the center,
+摯,3022,clasp,,clasp,
+貪,3023,covet,,covet,
+慄,3024,shudder,,shudder,
+辣,3025,bitter,渋,bitter,渋
+瘍,3026,carbuncle,,carbuncle,
+哺,3027,suckle,,suckle,
+籠,3028,cage (Joyo version),,basket,
+羞,3029,humiliate,,embarrassment,辱
+鬱,3030,gloom,,low spirits,
