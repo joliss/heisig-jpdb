@@ -161,6 +161,9 @@ function getHtml(kanjiInfos: KanjiInfo[], edition: Edition): string {
           .rtk3 {
             opacity: 0.5;
           }
+          a:visited {
+            color: #6547f1;
+          }
         </style>
       </head>
       <body>
