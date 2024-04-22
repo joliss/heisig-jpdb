@@ -213,6 +213,10 @@ function getHtml(kanjiInfos: KanjiInfo[], edition: Edition): string {
                   function linkAnchor(text: string): string {
                     return `<a href="#${kanjiInfo.kanji}" style="color: inherit;">${text}</a>`;
                   }
+                  function koohiiLink(kanjiInfo: KanjiInfo): string {
+                    let target = kanjiInfo.heisigId[6] || kanjiInfo.kanji;
+                    return `<a href="https://kanji.koohii.com/study/kanji/${target}">${kanjiInfo.heisigKeyword[edition]}</a>`;
+                  }
                   function kanjiLink(kanjiInfo: KanjiInfo): string {
                     let class_ = isRtk1(kanjiInfo, edition) ? "rtk1" : "rtk3";
                     return `<a href="#${kanjiInfo.kanji}" class="${class_}">${kanjiInfo.kanji}</a>`;
@@ -230,11 +234,7 @@ function getHtml(kanjiInfos: KanjiInfo[], edition: Edition): string {
                       )}</td>
                       <td>${kanjiInfo.kanji}</td>
                       <td>
-                        <a href="https://kanji.koohii.com/study/kanji/${
-                          kanjiInfo.kanji
-                        }"><!--
-                          -->${kanjiInfo.heisigKeyword[edition]}<!--
-                        --></a>
+                        ${koohiiLink(kanjiInfo)}
                         ${kanjiLinks(heisigCollisions)}
                       </td>
                       <td>
