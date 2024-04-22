@@ -228,7 +228,7 @@ function getHtml(kanjiInfos: KanjiInfo[], edition: Edition): string {
                           ?.toString()
                           .padStart(4, "0")!
                       )}</td>
-                      <td>${linkAnchor(kanjiInfo.kanji)}</td>
+                      <td>${kanjiInfo.kanji}</td>
                       <td>
                         <a href="https://kanji.koohii.com/study/kanji/${
                           kanjiInfo.kanji
