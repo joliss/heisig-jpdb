@@ -4,9 +4,9 @@ Compare kanji keywords from Heisig's [_Remembering the
 Kanji_](https://www.amazon.com/Remembering-Kanji-Complete-Japanese-Characters/dp/0824835921)
 books with the keywords chosen by [jpdb.io](https://jpdb.io).
 
-[**Comparison table for the 5th edition of _Remembering the Kanji_**](./kanji-keywords-5th-edition.html)
+👉 [**Comparison table for the 5th edition of _Remembering the Kanji_**](./kanji-keywords-5th-edition.html)
 
-[**Comparison table for the 6th edition of _Remembering the Kanji_**](./kanji-keywords-6th-edition.html)
+👉 [**Comparison table for the 6th edition of _Remembering the Kanji_**](./kanji-keywords-6th-edition.html)
 
 Thanks to the [jpdb.io](https://jpdb.io) team for their excellent keywords,
 chrtokstd1 and sdcr for their [Heisig keyword
