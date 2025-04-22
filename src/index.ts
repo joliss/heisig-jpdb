@@ -148,10 +148,17 @@ function getHtml(kanjiInfos: KanjiInfo[], edition: Edition): string {
             margin-bottom: 10px;
           }
           table {
-            border-collapse: collapse;
+            border-collapse: separate;
+            width: 100%;
+          }
+          thead {
+            position: sticky;
+            top: 0;
+            background-color: white;
+            z-index: 10;
           }
           th, td {
-            border: 1px solid black;
+            border-bottom: 1px solid black;
             padding: 0.5em;
             text-align: left;
           }
