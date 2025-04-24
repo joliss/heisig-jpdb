@@ -135,6 +135,9 @@ function getHtml(kanjiInfos: KanjiInfo[], edition: Edition): string {
         <title>${title}</title>
         <link rel="stylesheet" href="https://joliss.github.io/heisig-jpdb/assets/css/style.css">
         <style>
+          :root {
+            --table-head-h: 40px;
+          }
           .container {
             max-width: 768px;
             margin-right: auto;
@@ -156,11 +159,15 @@ function getHtml(kanjiInfos: KanjiInfo[], edition: Edition): string {
             top: 0;
             background-color: white;
             z-index: 10;
+            height: var(--table-head-h);
           }
           th, td {
             border-bottom: 1px solid black;
             padding: 0.5em;
             text-align: left;
+          }
+          tr[id] {
+           scroll-margin-top: var(--table-head-h);
           }
           .is-different {
             background-color: #eee;
