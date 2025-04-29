@@ -178,6 +178,10 @@ function getHtml(kanjiInfos: KanjiInfo[], edition: Edition): string {
           a:visited {
             color: #6547f1;
           }
+          .kanji {
+            font-size: 1.6em;
+            padding: 0;
+          }
         </style>
       </head>
       <body>
@@ -246,7 +250,7 @@ function getHtml(kanjiInfos: KanjiInfo[], edition: Edition): string {
                           ?.toString()
                           .padStart(4, "0")!
                       )}</td>
-                      <td>${kanjiInfo.kanji}</td>
+                      <td class="kanji">${kanjiInfo.kanji}</td>
                       <td>
                         ${koohiiLink(kanjiInfo)}
                         ${kanjiLinks(heisigCollisions)}
