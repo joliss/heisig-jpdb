@@ -194,8 +194,7 @@ function getHtml(kanjiInfos: KanjiInfo[], edition: Edition): string {
             This comparison table shows the kanji keywords for Heisig's <i>Remembering the Kanji, <b>${edition}th</b> Edition</i>, and ${jpdbIo} (as of ${lastUpdated}).
           </p>
           <p>
-            Possible keyword conflicts are indicated in parentheses, with RtK 3 kanji in a lighter color.
-            In order to catch as many possible conflicts as possible, we use the stem of the keyword for comparison, but note that it is not 100% reliable.
+            Possible keyword conflicts are indicated in parentheses.
           </p>
           <p>
             You can also download this table as a <a href="kanji-keywords-${edition}th-edition.csv">CSV file</a>.
